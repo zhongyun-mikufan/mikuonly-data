@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 50
+  "sourceRow": 50,
+  "i18n": {
+    "ja": {
+      "name": "Fisher Theatre",
+      "city": "Detroit",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Fisher Theatre",
+      "city": "Detroit",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Fisher Theatre",
+      "city": "Detroit",
+      "countryRegion": "United States"
+    }
+  }
 }

@@ -53,5 +53,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "すーぱーぬこになれんかった"
+    },
+    "zh": {
+      "title": "すーぱーぬこになれんかった"
+    },
+    "en": {
+      "title": "Wasn't able to become a Super Nuko."
+    }
+  }
 }

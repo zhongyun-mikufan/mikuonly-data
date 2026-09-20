@@ -39,5 +39,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2015-09-04",
-  "soloLastDate": "2025-08-31"
+  "soloLastDate": "2025-08-31",
+  "i18n": {
+    "ja": {
+      "title": "はじめまして地球人さん"
+    },
+    "zh": {
+      "title": "初次见面，地球人先生"
+    },
+    "en": {
+      "title": "Nice to Meet You, Mr. Earthling"
+    }
+  }
 }

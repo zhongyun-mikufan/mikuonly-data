@@ -121,5 +121,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2016-09-10",
-  "soloLastDate": "2026-08-30"
+  "soloLastDate": "2026-08-30",
+  "i18n": {
+    "ja": {
+      "title": "ヒビカセ"
+    },
+    "zh": {
+      "title": "让其响彻"
+    },
+    "en": {
+      "title": "Hibikase"
+    }
+  }
 }

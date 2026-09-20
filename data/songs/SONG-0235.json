@@ -78,5 +78,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "ダブルラリアット"
+    },
+    "zh": {
+      "title": "Double Lariat"
+    },
+    "en": {
+      "title": "Double Lariat"
+    }
+  }
 }

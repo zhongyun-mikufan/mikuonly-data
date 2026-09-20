@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.7037037037037037,
   "recordUnit": "performance",
-  "setlistScope": "shared"
+  "setlistScope": "shared",
+  "i18n": {
+    "ja": {
+      "name": "SNOW MIKU LIVE! 2015 presents MIKU EXPO Live Set"
+    },
+    "zh": {
+      "name": "雪未来（SNOW MIKU） LIVE! 2015 presents MIKU EXPO Live Set"
+    },
+    "en": {
+      "name": "SNOW MIKU LIVE! 2015 presents MIKU EXPO Live Set"
+    }
+  }
 }

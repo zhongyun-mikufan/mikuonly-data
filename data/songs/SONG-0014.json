@@ -47,6 +47,12 @@
   "soloFirstDate": "2016-09-10",
   "soloLastDate": "2025-12-21",
   "i18n": {
+    "ja": {
+      "title": "Baby Maniacs -Eight Mix-"
+    },
+    "zh": {
+      "title": "Baby Maniacs -Eight Mix-"
+    },
     "en": {
       "title": "Baby Maniacs -Eight Mix-"
     }

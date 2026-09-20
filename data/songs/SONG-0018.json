@@ -183,6 +183,12 @@
   "soloFirstDate": "2016-03-23",
   "soloLastDate": "2025-05-31",
   "i18n": {
+    "ja": {
+      "title": "Blue Star"
+    },
+    "zh": {
+      "title": "Blue Star"
+    },
     "en": {
       "title": "Blue Star"
     }

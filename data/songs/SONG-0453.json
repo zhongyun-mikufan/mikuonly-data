@@ -23,5 +23,16 @@
     "SER-003"
   ],
   "soloFirstDate": "2011-03-09",
-  "soloLastDate": "2011-03-09"
+  "soloLastDate": "2011-03-09",
+  "i18n": {
+    "ja": {
+      "title": "Ievan Polkka"
+    },
+    "zh": {
+      "title": "Ievan Polkka"
+    },
+    "en": {
+      "title": "Eva's Polka"
+    }
+  }
 }

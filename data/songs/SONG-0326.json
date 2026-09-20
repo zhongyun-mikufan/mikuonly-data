@@ -63,5 +63,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "レッドランドマーカー"
+    },
+    "zh": {
+      "title": "レッドランドマーカー"
+    },
+    "en": {
+      "title": "Red Land Marker"
+    }
+  }
 }

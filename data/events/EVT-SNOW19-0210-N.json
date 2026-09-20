@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.64,
   "recordUnit": "performance",
-  "setlistScope": "shared"
+  "setlistScope": "shared",
+  "i18n": {
+    "ja": {
+      "name": "SNOW MIKU LIVE! 2019"
+    },
+    "zh": {
+      "name": "雪未来（SNOW MIKU） LIVE! 2019"
+    },
+    "en": {
+      "name": "SNOW MIKU LIVE! 2019"
+    }
+  }
 }

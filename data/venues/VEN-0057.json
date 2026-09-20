@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 60
+  "sourceRow": 60,
+  "i18n": {
+    "ja": {
+      "name": "ICC Sydney Theatre",
+      "city": "Sydney",
+      "countryRegion": "Australia"
+    },
+    "zh": {
+      "name": "ICC Sydney Theatre",
+      "city": "Sydney",
+      "countryRegion": "澳大利亚"
+    },
+    "en": {
+      "name": "ICC Sydney Theatre",
+      "city": "Sydney",
+      "countryRegion": "Australia"
+    }
+  }
 }

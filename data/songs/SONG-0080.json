@@ -41,5 +41,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "lost and found"
+    },
+    "zh": {
+      "title": "lost and found"
+    },
+    "en": {
+      "title": "lost and found"
+    }
+  }
 }

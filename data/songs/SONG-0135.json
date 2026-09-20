@@ -25,5 +25,16 @@
     "SER-002"
   ],
   "soloFirstDate": "2010-03-09",
-  "soloLastDate": "2010-03-09"
+  "soloLastDate": "2010-03-09",
+  "i18n": {
+    "ja": {
+      "title": "The secret garden"
+    },
+    "zh": {
+      "title": "The secret garden"
+    },
+    "en": {
+      "title": "The secret garden"
+    }
+  }
 }

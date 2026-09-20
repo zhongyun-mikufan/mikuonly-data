@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 1,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "デコミク LIVE starring 初音ミク『Hello』Produced by DECO*27 / OTOIRO"
+    },
+    "zh": {
+      "name": "デコミク LIVE starring 初音未来『Hello』Produced by DECO*27 / OTOIRO"
+    },
+    "en": {
+      "name": "デコミク LIVE starring Hatsune Miku『Hello』Produced by DECO*27 / OTOIRO"
+    }
+  }
 }

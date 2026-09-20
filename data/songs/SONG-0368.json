@@ -39,5 +39,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "私の恋はヘルファイア"
+    },
+    "zh": {
+      "title": "私の恋はヘルファイア"
+    },
+    "en": {
+      "title": "My love is Hellfire"
+    }
+  }
 }

@@ -6,5 +6,22 @@
   "capacity": 2336,
   "capacityNote": "公式施設情報",
   "capacitySourceUrl": "https://www.actcity.jp/floor/concert/",
-  "verificationStatus": "公式情報確認済み"
+  "verificationStatus": "公式情報確認済み",
+  "i18n": {
+    "ja": {
+      "name": "アクトシティ浜松 大ホール",
+      "city": "浜松",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "ACT CITY滨松 大厅",
+      "city": "滨松",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "ACT CITY Hamamatsu Main Hall",
+      "city": "Hamamatsu",
+      "countryRegion": "Japan"
+    }
+  }
 }

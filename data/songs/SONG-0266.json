@@ -23,5 +23,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2026-01-24",
-  "soloLastDate": "2026-01-24"
+  "soloLastDate": "2026-01-24",
+  "i18n": {
+    "ja": {
+      "title": "ビターチョコデコレーション"
+    },
+    "zh": {
+      "title": "苦巧克力装饰"
+    },
+    "en": {
+      "title": "Bitter Choco Decoration"
+    }
+  }
 }

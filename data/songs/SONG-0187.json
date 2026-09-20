@@ -63,5 +63,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2013-08-30",
-  "soloLastDate": "2024-03-31"
+  "soloLastDate": "2024-03-31",
+  "i18n": {
+    "ja": {
+      "title": "からくりピエロ"
+    },
+    "zh": {
+      "title": "机关小丑"
+    },
+    "en": {
+      "title": "Karakuri Pierrot"
+    }
+  }
 }

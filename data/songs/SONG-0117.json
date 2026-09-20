@@ -95,6 +95,12 @@
   "soloFirstDate": "2014-10-11",
   "soloLastDate": "2020-01-28",
   "i18n": {
+    "ja": {
+      "title": "Sharing The World"
+    },
+    "zh": {
+      "title": "Sharing The World"
+    },
     "en": {
       "title": "Sharing The World"
     }

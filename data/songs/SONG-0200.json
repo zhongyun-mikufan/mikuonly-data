@@ -24,5 +24,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "ゴー！ビッパ団"
+    },
+    "zh": {
+      "title": "ゴー！ビッパ団"
+    },
+    "en": {
+      "title": "GO! Team BIPPA"
+    }
+  }
 }

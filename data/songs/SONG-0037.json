@@ -50,5 +50,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "drop pop candy"
+    },
+    "zh": {
+      "title": "drop pop candy"
+    },
+    "en": {
+      "title": "drop pop candy"
+    }
+  }
 }

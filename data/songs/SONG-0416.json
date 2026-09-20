@@ -33,5 +33,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "紡唄 -つむぎうた-"
+    },
+    "zh": {
+      "title": "纺歌"
+    },
+    "en": {
+      "title": "Spinning Song"
+    }
+  }
 }

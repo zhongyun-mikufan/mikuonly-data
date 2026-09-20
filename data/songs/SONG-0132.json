@@ -29,6 +29,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "TBA"
+    },
+    "zh": {
+      "title": "TBA"
+    },
     "en": {
       "title": "TBA"
     }

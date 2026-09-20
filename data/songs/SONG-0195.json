@@ -119,5 +119,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2019-05-11",
-  "soloLastDate": "2025-05-31"
+  "soloLastDate": "2025-05-31",
+  "i18n": {
+    "ja": {
+      "title": "キレキャリオン"
+    },
+    "zh": {
+      "title": "キレキャリオン"
+    },
+    "en": {
+      "title": "Kire Carry On"
+    }
+  }
 }

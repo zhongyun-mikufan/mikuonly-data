@@ -43,6 +43,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "erase or zero"
+    },
+    "zh": {
+      "title": "erase or zero"
+    },
     "en": {
       "title": "erase or zero"
     }

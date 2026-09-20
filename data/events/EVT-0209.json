@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 1,
   "recordUnit": "aggregate",
-  "setlistScope": "aggregate"
+  "setlistScope": "aggregate",
+  "i18n": {
+    "ja": {
+      "name": "MATSURI DA DIVA"
+    },
+    "zh": {
+      "name": "MATSURI DA DIVA"
+    },
+    "en": {
+      "name": "MATSURI DA DIVA"
+    }
+  }
 }

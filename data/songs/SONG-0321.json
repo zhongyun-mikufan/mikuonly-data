@@ -117,5 +117,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "リモコン"
+    },
+    "zh": {
+      "title": "遥控器"
+    },
+    "en": {
+      "title": "Remote Control"
+    }
+  }
 }

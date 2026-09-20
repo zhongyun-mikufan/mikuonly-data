@@ -35,5 +35,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "黙ってロックをやれって言ってんの！"
+    },
+    "zh": {
+      "title": "都说了闭嘴玩摇滚！"
+    },
+    "en": {
+      "title": "Hatsune Miku \"Magical Mirai 2025\" OFFICIAL ALBUM"
+    }
+  }
 }

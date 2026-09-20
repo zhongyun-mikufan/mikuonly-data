@@ -19,5 +19,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "桜日和とタイムマシン"
+    },
+    "zh": {
+      "title": "桜日和とタイムマシン"
+    },
+    "en": {
+      "title": "Sakura Biyori and Time Machine"
+    }
+  }
 }

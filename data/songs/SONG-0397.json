@@ -45,5 +45,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "脱法ロック"
+    },
+    "zh": {
+      "title": "脱法摇滚"
+    },
+    "en": {
+      "title": "Law-evading Rock"
+    }
+  }
 }

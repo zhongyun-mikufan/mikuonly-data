@@ -97,5 +97,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2011-03-09",
-  "soloLastDate": "2026-01-18"
+  "soloLastDate": "2026-01-18",
+  "i18n": {
+    "ja": {
+      "title": "白い雪のプリンセスは"
+    },
+    "zh": {
+      "title": "白雪公主是……"
+    },
+    "en": {
+      "title": "The Snow White Princess Is..."
+    }
+  }
 }

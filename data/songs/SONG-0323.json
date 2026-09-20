@@ -97,5 +97,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "ルカルカ★ナイトフィーバー"
+    },
+    "zh": {
+      "title": "Luka Luka★Night Fever"
+    },
+    "en": {
+      "title": "Luka Luka★Night Fever"
+    }
+  }
 }

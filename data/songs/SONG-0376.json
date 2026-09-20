@@ -61,5 +61,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2017-11-25",
-  "soloLastDate": "2019-11-24"
+  "soloLastDate": "2019-11-24",
+  "i18n": {
+    "ja": {
+      "title": "初嵐 (Chūlán)"
+    },
+    "zh": {
+      "title": "初嵐 (Chūlán)"
+    },
+    "en": {
+      "title": "初嵐 (Chūlán)"
+    }
+  }
 }

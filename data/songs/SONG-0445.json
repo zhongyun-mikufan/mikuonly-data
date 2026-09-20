@@ -23,5 +23,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "三宅"
+    },
+    "zh": {
+      "title": "三宅"
+    },
+    "en": {
+      "title": "三宅"
+    }
+  }
 }

@@ -49,5 +49,16 @@
     "SER-003"
   ],
   "soloFirstDate": "2011-08-16",
-  "soloLastDate": "2013-03-09"
+  "soloLastDate": "2013-03-09",
+  "i18n": {
+    "ja": {
+      "title": "私の時間"
+    },
+    "zh": {
+      "title": "我的时间"
+    },
+    "en": {
+      "title": "My Time"
+    }
+  }
 }

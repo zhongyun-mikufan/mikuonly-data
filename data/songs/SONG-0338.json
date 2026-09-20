@@ -25,5 +25,16 @@
     "SER-011"
   ],
   "soloFirstDate": "2026-02-14",
-  "soloLastDate": "2026-02-14"
+  "soloLastDate": "2026-02-14",
+  "i18n": {
+    "ja": {
+      "title": "愛言葉V"
+    },
+    "zh": {
+      "title": "爱言叶V"
+    },
+    "en": {
+      "title": "Love Words V"
+    }
+  }
 }

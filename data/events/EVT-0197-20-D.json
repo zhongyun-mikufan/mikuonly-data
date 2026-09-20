@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.7391304347826086,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "MIKU WITH YOU 2025"
+    },
+    "zh": {
+      "name": "未来有你・HATSUNE MIKU WITH YOU 2025"
+    },
+    "en": {
+      "name": "MIKU WITH YOU 2025"
+    }
+  }
 }

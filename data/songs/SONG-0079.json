@@ -51,5 +51,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2022-08-12",
-  "soloLastDate": "2023-02-05"
+  "soloLastDate": "2023-02-05",
+  "i18n": {
+    "ja": {
+      "title": "Loading Memories"
+    },
+    "zh": {
+      "title": "Loading Memories"
+    },
+    "en": {
+      "title": "Loading Memories"
+    }
+  }
 }

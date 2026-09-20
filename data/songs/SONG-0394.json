@@ -19,5 +19,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "創聖のアクエリオン"
+    },
+    "zh": {
+      "title": "創聖のアクエリオン"
+    },
+    "en": {
+      "title": "創聖のアクエリオン"
+    }
+  }
 }

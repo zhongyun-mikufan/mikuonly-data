@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 22
+  "sourceRow": 22,
+  "i18n": {
+    "ja": {
+      "name": "New Taipei City Exhibition Hall",
+      "city": "New Taipei City",
+      "countryRegion": "Taiwan"
+    },
+    "zh": {
+      "name": "新北市工商展览中心",
+      "city": "New Taipei City",
+      "countryRegion": "台湾"
+    },
+    "en": {
+      "name": "New Taipei City Exhibition Hall",
+      "city": "New Taipei City",
+      "countryRegion": "Taiwan"
+    }
+  }
 }

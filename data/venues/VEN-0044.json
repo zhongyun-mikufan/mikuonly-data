@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 47
+  "sourceRow": 47,
+  "i18n": {
+    "ja": {
+      "name": "Walt Disney Theater",
+      "city": "Orlando",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Walt Disney Theater",
+      "city": "Orlando",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Walt Disney Theater",
+      "city": "Orlando",
+      "countryRegion": "United States"
+    }
+  }
 }

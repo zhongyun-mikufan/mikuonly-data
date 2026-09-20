@@ -6,5 +6,22 @@
   "capacity": null,
   "capacityNote": "イベント時の収容人数はレイアウトにより変動",
   "capacitySourceUrl": "https://magicalmirai.com/2026/tokyo_ticket.html",
-  "verificationStatus": "公式情報確認済み"
+  "verificationStatus": "公式情報確認済み",
+  "i18n": {
+    "ja": {
+      "name": "幕張メッセ 国際展示場 9ホール",
+      "city": "千葉",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "幕张国际展览中心 国际展厅9号馆",
+      "city": "千叶",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Makuhari Messe International Exhibition Hall 9",
+      "city": "Chiba",
+      "countryRegion": "Japan"
+    }
+  }
 }

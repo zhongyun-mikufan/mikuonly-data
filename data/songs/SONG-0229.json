@@ -86,5 +86,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "それがあなたの幸せとしても"
+    },
+    "zh": {
+      "title": "それがあなたの幸せとしても"
+    },
+    "en": {
+      "title": "Sorega Anata No Shiawase To Shitemo"
+    }
+  }
 }

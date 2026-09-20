@@ -35,5 +35,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2015-09-04",
-  "soloLastDate": "2020-08-09"
+  "soloLastDate": "2020-08-09",
+  "i18n": {
+    "ja": {
+      "title": "恋愛裁判"
+    },
+    "zh": {
+      "title": "恋爱裁判"
+    },
+    "en": {
+      "title": "Love Trial"
+    }
+  }
 }

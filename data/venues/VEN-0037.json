@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 40
+  "sourceRow": 40,
+  "i18n": {
+    "ja": {
+      "name": "Keller Auditorium",
+      "city": "Portland",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Keller Auditorium",
+      "city": "Portland",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Keller Auditorium",
+      "city": "Portland",
+      "countryRegion": "United States"
+    }
+  }
 }

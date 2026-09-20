@@ -129,5 +129,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2017-09-01",
-  "soloLastDate": "2026-05-19"
+  "soloLastDate": "2026-05-19",
+  "i18n": {
+    "ja": {
+      "title": "ツギハギスタッカート"
+    },
+    "zh": {
+      "title": "拼凑的断音"
+    },
+    "en": {
+      "title": "Patchwork Staccato"
+    }
+  }
 }

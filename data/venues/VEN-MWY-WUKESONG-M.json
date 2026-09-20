@@ -7,5 +7,22 @@
   "capacityNote": "公演時構成の収容人数は未確認",
   "capacitySourceUrl": "https://blog.piapro.net/2018/09/z180920-1.html",
   "verificationStatus": "会場確認済み／キャパ未確認",
-  "sourceRow": 100
+  "sourceRow": 100,
+  "i18n": {
+    "ja": {
+      "name": "華熙LIVE・五棵松M空間",
+      "city": "北京",
+      "countryRegion": "中国大陸"
+    },
+    "zh": {
+      "name": "华熙LIVE·五棵松M空间",
+      "city": "北京",
+      "countryRegion": "中国大陆"
+    },
+    "en": {
+      "name": "Huaxi LIVE·Wukesong M Space",
+      "city": "Beijing",
+      "countryRegion": "Mainland China"
+    }
+  }
 }

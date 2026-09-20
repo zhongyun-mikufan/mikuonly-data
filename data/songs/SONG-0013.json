@@ -77,5 +77,16 @@
     "SER-006"
   ],
   "soloFirstDate": "2025-11-05",
-  "soloLastDate": "2026-05-19"
+  "soloLastDate": "2026-05-19",
+  "i18n": {
+    "ja": {
+      "title": "Artifact"
+    },
+    "zh": {
+      "title": "Artifact"
+    },
+    "en": {
+      "title": "Artifact"
+    }
+  }
 }

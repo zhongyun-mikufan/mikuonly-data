@@ -43,6 +43,12 @@
   "soloFirstDate": "2016-06-25",
   "soloLastDate": "2018-02-09",
   "i18n": {
+    "ja": {
+      "title": "celluloid"
+    },
+    "zh": {
+      "title": "celluloid"
+    },
     "en": {
       "title": "celluloid"
     }

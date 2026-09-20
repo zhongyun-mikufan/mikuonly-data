@@ -30,5 +30,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "ヘッジホッグ"
+    },
+    "zh": {
+      "title": "ヘッジホッグ"
+    },
+    "en": {
+      "title": "Hedgehog"
+    }
+  }
 }

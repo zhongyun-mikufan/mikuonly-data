@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.5769230769230769,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "初音ミク「マジカルミライ 2018」"
+    },
+    "zh": {
+      "name": "初音未来“魔法未来（MAGICAL MIRAI）2018”"
+    },
+    "en": {
+      "name": "Hatsune Miku \"Magical Mirai 2018\""
+    }
+  }
 }

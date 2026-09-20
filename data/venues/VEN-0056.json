@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 59
+  "sourceRow": 59,
+  "i18n": {
+    "ja": {
+      "name": "Brisbane Convention & Exhibition Centre",
+      "city": "Brisbane",
+      "countryRegion": "Australia"
+    },
+    "zh": {
+      "name": "Brisbane Convention & Exhibition Centre",
+      "city": "Brisbane",
+      "countryRegion": "澳大利亚"
+    },
+    "en": {
+      "name": "Brisbane Convention & Exhibition Centre",
+      "city": "Brisbane",
+      "countryRegion": "Australia"
+    }
+  }
 }

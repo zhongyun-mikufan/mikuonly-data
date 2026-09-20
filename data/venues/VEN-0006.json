@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 9
+  "sourceRow": 9,
+  "i18n": {
+    "ja": {
+      "name": "Zepp Namba",
+      "city": "大阪",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "Zepp Namba",
+      "city": "大阪",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Zepp Namba",
+      "city": "Osaka",
+      "countryRegion": "Japan"
+    }
+  }
 }

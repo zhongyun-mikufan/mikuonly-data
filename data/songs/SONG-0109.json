@@ -31,6 +31,12 @@
   "soloFirstDate": "2016-09-10",
   "soloLastDate": "2016-09-11",
   "i18n": {
+    "ja": {
+      "title": "ray"
+    },
+    "zh": {
+      "title": "ray"
+    },
     "en": {
       "title": "ray"
     }

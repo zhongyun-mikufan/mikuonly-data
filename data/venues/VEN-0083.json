@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 86
+  "sourceRow": 86,
+  "i18n": {
+    "ja": {
+      "name": "Sagres Campo Pequeno",
+      "city": "Lisbon",
+      "countryRegion": "Portugal"
+    },
+    "zh": {
+      "name": "Sagres Campo Pequeno",
+      "city": "Lisbon",
+      "countryRegion": "葡萄牙"
+    },
+    "en": {
+      "name": "Sagres Campo Pequeno",
+      "city": "Lisbon",
+      "countryRegion": "Portugal"
+    }
+  }
 }

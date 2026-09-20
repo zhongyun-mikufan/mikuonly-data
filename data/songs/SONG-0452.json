@@ -33,5 +33,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2010-03-09",
-  "soloLastDate": "2012-03-09"
+  "soloLastDate": "2012-03-09",
+  "i18n": {
+    "ja": {
+      "title": "Project Diva desu."
+    },
+    "zh": {
+      "title": "Project Diva desu."
+    },
+    "en": {
+      "title": "It's Project DIVA."
+    }
+  }
 }

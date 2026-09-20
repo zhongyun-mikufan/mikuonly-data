@@ -35,5 +35,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "こたえて"
+    },
+    "zh": {
+      "title": "こたえて"
+    },
+    "en": {
+      "title": "Hatsune Miku \"Magical Mirai 2026\" OFFICIAL ALBUM"
+    }
+  }
 }

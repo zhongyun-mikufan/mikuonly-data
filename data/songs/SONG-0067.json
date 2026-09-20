@@ -54,6 +54,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "Jump for Joy"
+    },
+    "zh": {
+      "title": "Jump for Joy"
+    },
     "en": {
       "title": "Jump for Joy"
     }

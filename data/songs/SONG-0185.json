@@ -41,5 +41,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2014-08-30",
-  "soloLastDate": "2026-08-16"
+  "soloLastDate": "2026-08-16",
+  "i18n": {
+    "ja": {
+      "title": "カゲロウデイズ"
+    },
+    "zh": {
+      "title": "阳炎眩乱"
+    },
+    "en": {
+      "title": "Kagerou Daze"
+    }
+  }
 }

@@ -7,5 +7,22 @@
   "capacityNote": "公式公演レポート記載の収容可能人数",
   "capacitySourceUrl": "https://blog.piapro.net/2012/10/post-576.html",
   "verificationStatus": "公式資料で確認済み",
-  "sourceRow": 33
+  "sourceRow": 33,
+  "i18n": {
+    "ja": {
+      "name": "KITEC Star Hall",
+      "city": "Hong Kong",
+      "countryRegion": "Hong Kong"
+    },
+    "zh": {
+      "name": "KITEC汇星 Star Hall",
+      "city": "Hong Kong",
+      "countryRegion": "香港"
+    },
+    "en": {
+      "name": "KITEC Star Hall",
+      "city": "Hong Kong",
+      "countryRegion": "Hong Kong"
+    }
+  }
 }

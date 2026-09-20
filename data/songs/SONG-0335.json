@@ -119,5 +119,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2020-11-28",
-  "soloLastDate": "2026-01-18"
+  "soloLastDate": "2026-01-18",
+  "i18n": {
+    "ja": {
+      "title": "愛されなくても君がいる"
+    },
+    "zh": {
+      "title": "就算没有爱 只要有你就好"
+    },
+    "en": {
+      "title": "Because You're Here"
+    }
+  }
 }

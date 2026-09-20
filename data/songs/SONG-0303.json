@@ -32,5 +32,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "メズマライザー"
+    },
+    "zh": {
+      "title": "Mesmerizer"
+    },
+    "en": {
+      "title": "Mesmerizer"
+    }
+  }
 }

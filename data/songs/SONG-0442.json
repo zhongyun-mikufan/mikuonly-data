@@ -25,5 +25,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "巴"
+    },
+    "zh": {
+      "title": "巴"
+    },
+    "en": {
+      "title": "Princess Balenge"
+    }
+  }
 }

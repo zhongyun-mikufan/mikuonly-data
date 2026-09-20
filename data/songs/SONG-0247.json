@@ -65,5 +65,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "ドクター＝ファンクビート"
+    },
+    "zh": {
+      "title": "Doctor=Funk Beat"
+    },
+    "en": {
+      "title": "Doctor=Funk Beat"
+    }
+  }
 }

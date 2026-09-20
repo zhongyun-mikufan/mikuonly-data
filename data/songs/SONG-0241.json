@@ -22,5 +22,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "テレカクシ思春期"
+    },
+    "zh": {
+      "title": "テレカクシ思春期"
+    },
+    "en": {
+      "title": "Embarrassment-Hiding Adolescence"
+    }
+  }
 }

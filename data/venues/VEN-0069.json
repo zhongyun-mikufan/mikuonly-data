@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 72
+  "sourceRow": 72,
+  "i18n": {
+    "ja": {
+      "name": "Doug Mitchell Thunderbird Sports Centre",
+      "city": "Vancouver",
+      "countryRegion": "Canada"
+    },
+    "zh": {
+      "name": "Doug Mitchell Thunderbird Sports Centre",
+      "city": "Vancouver",
+      "countryRegion": "加拿大"
+    },
+    "en": {
+      "name": "Doug Mitchell Thunderbird Sports Centre",
+      "city": "Vancouver",
+      "countryRegion": "Canada"
+    }
+  }
 }

@@ -65,6 +65,12 @@
   "soloFirstDate": "2014-10-11",
   "soloLastDate": "2021-11-07",
   "i18n": {
+    "ja": {
+      "title": "Parades"
+    },
+    "zh": {
+      "title": "Parades"
+    },
     "en": {
       "title": "Parades"
     }

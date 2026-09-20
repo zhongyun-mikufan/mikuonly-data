@@ -30,5 +30,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "敗走"
+    },
+    "zh": {
+      "title": "败走"
+    },
+    "en": {
+      "title": "Retreat"
+    }
+  }
 }

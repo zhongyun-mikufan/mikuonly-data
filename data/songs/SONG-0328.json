@@ -61,5 +61,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "ロキ"
+    },
+    "zh": {
+      "title": "ROKI"
+    },
+    "en": {
+      "title": "ROKI"
+    }
+  }
 }

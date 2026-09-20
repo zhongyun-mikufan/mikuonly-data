@@ -60,5 +60,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "いーあるふぁんくらぶ"
+    },
+    "zh": {
+      "title": "一二Fan Club"
+    },
+    "en": {
+      "title": "1,2, FanClub"
+    }
+  }
 }

@@ -23,5 +23,16 @@
     "SER-001"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2009-08-31"
+  "soloLastDate": "2009-08-31",
+  "i18n": {
+    "ja": {
+      "title": "とある娼婦の恋"
+    },
+    "zh": {
+      "title": "とある娼婦の恋"
+    },
+    "en": {
+      "title": "A Certain Prostitute's Love"
+    }
+  }
 }

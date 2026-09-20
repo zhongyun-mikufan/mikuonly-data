@@ -53,5 +53,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2024-08-17",
-  "soloLastDate": "2024-10-14"
+  "soloLastDate": "2024-10-14",
+  "i18n": {
+    "ja": {
+      "title": "ブリキノダンス"
+    },
+    "zh": {
+      "title": "BURIKI NO DANCE"
+    },
+    "en": {
+      "title": "BURIKI NO DANCE"
+    }
+  }
 }

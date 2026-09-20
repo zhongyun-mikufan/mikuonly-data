@@ -25,5 +25,16 @@
     "SER-011"
   ],
   "soloFirstDate": "2026-02-14",
-  "soloLastDate": "2026-02-14"
+  "soloLastDate": "2026-02-14",
+  "i18n": {
+    "ja": {
+      "title": "乙女解剖"
+    },
+    "zh": {
+      "title": "少女解剖"
+    },
+    "en": {
+      "title": "Otome Dissection"
+    }
+  }
 }

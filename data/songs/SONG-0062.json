@@ -85,5 +85,16 @@
     "SER-006"
   ],
   "soloFirstDate": "2024-04-04",
-  "soloLastDate": "2024-11-26"
+  "soloLastDate": "2024-11-26",
+  "i18n": {
+    "ja": {
+      "title": "imaginary love story"
+    },
+    "zh": {
+      "title": "imaginary love story"
+    },
+    "en": {
+      "title": "imaginary love story"
+    }
+  }
 }

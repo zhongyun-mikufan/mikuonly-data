@@ -45,5 +45,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2016-09-10",
-  "soloLastDate": "2026-07-26"
+  "soloLastDate": "2026-07-26",
+  "i18n": {
+    "ja": {
+      "title": "ウミユリ海底譚"
+    },
+    "zh": {
+      "title": "海百合海底谭"
+    },
+    "en": {
+      "title": "Tale of the Deep-sea Lily"
+    }
+  }
 }

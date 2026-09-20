@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.56,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "初音ミク×鼓童 2018"
+    },
+    "zh": {
+      "name": "初音未来×鼓童 2018"
+    },
+    "en": {
+      "name": "Hatsune Miku×Kodo 2018"
+    }
+  }
 }

@@ -57,5 +57,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2020-11-28",
-  "soloLastDate": "2021-11-06"
+  "soloLastDate": "2021-11-06",
+  "i18n": {
+    "ja": {
+      "title": "まるいうなばら"
+    },
+    "zh": {
+      "title": "まるいうなばら"
+    },
+    "en": {
+      "title": "Spheric Ocean"
+    }
+  }
 }

@@ -7,5 +7,22 @@
   "capacityNote": "主竞技场约值；配置依活动",
   "capacitySourceUrl": "https://www.tef.or.jp/tmg/",
   "verificationStatus": "已初核",
-  "sourceRow": 89
+  "sourceRow": 89,
+  "i18n": {
+    "ja": {
+      "name": "東京体育館",
+      "city": "東京",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "东京体育馆",
+      "city": "东京",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Tokyo Metropolitan Gymnasium",
+      "city": "Tokyo",
+      "countryRegion": "Japan"
+    }
+  }
 }

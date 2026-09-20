@@ -25,5 +25,16 @@
     "SER-002"
   ],
   "soloFirstDate": "2010-03-09",
-  "soloLastDate": "2010-03-09"
+  "soloLastDate": "2010-03-09",
+  "i18n": {
+    "ja": {
+      "title": "ミラクルペイント"
+    },
+    "zh": {
+      "title": "Miracle Paint"
+    },
+    "en": {
+      "title": "Miracle Paint"
+    }
+  }
 }

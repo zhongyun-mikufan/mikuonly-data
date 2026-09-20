@@ -23,5 +23,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "悪ノ娘"
+    },
+    "zh": {
+      "title": "恶之娘"
+    },
+    "en": {
+      "title": "The Daughter of Evil"
+    }
+  }
 }

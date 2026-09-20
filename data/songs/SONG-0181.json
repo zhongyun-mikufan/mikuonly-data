@@ -49,5 +49,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2014-03-09",
-  "soloLastDate": "2025-11-30"
+  "soloLastDate": "2025-11-30",
+  "i18n": {
+    "ja": {
+      "title": "エンヴィキャットウォーク"
+    },
+    "zh": {
+      "title": "Envy Cat Walk"
+    },
+    "en": {
+      "title": "Envy Cat Walk"
+    }
+  }
 }

@@ -49,5 +49,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2021-10-22",
-  "soloLastDate": "2025-05-02"
+  "soloLastDate": "2025-05-02",
+  "i18n": {
+    "ja": {
+      "title": "脳内革命ガール"
+    },
+    "zh": {
+      "title": "脑内革命女孩"
+    },
+    "en": {
+      "title": "Brain Revolution Girl"
+    }
+  }
 }

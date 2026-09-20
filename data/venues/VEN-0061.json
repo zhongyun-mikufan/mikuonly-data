@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 64
+  "sourceRow": 64,
+  "i18n": {
+    "ja": {
+      "name": "AsiaWorld-Arena",
+      "city": "Hong Kong",
+      "countryRegion": "China"
+    },
+    "zh": {
+      "name": "亚洲国际博览馆 Arena",
+      "city": "Hong Kong",
+      "countryRegion": "中国"
+    },
+    "en": {
+      "name": "AsiaWorld-Arena",
+      "city": "Hong Kong",
+      "countryRegion": "China"
+    }
+  }
 }

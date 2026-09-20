@@ -34,5 +34,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "踊"
+    },
+    "zh": {
+      "title": "舞"
+    },
+    "en": {
+      "title": "Odo"
+    }
+  }
 }

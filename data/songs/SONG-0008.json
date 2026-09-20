@@ -62,6 +62,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "8HIT"
+    },
+    "zh": {
+      "title": "8HIT"
+    },
     "en": {
       "title": "8HIT"
     }

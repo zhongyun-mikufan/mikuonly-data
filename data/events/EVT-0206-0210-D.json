@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.6153846153846154,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "初音ミク ライブパーティー 2013 in Sapporo（ミクパ♪）"
+    },
+    "zh": {
+      "name": "初音未来 Live Party 2013 in Sapporo（ミクパ♪）"
+    },
+    "en": {
+      "name": "Hatsune Miku Live Party 2013 in Sapporo (MikuPa♪)"
+    }
+  }
 }

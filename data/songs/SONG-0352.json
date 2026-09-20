@@ -23,5 +23,16 @@
     "SER-001"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2009-08-31"
+  "soloLastDate": "2009-08-31",
+  "i18n": {
+    "ja": {
+      "title": "牛乳飲め！"
+    },
+    "zh": {
+      "title": "牛乳飲め！"
+    },
+    "en": {
+      "title": "You Should Drink Milk!"
+    }
+  }
 }

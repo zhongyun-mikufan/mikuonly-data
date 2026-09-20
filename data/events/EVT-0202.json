@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.6666666666666666,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "初音ミク ライブパーティー 2011 -39's LIVE IN SINGAPORE-"
+    },
+    "zh": {
+      "name": "初音未来 Live Party 2011 -39's LIVE IN SINGAPORE-"
+    },
+    "en": {
+      "name": "Hatsune Miku Live Party 2011 -39's LIVE IN SINGAPORE-"
+    }
+  }
 }

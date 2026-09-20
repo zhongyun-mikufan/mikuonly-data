@@ -47,5 +47,16 @@
     "SER-002"
   ],
   "soloFirstDate": "2010-03-09",
-  "soloLastDate": "2018-12-04"
+  "soloLastDate": "2018-12-04",
+  "i18n": {
+    "ja": {
+      "title": "えれくとりっく・えんじぇぅ"
+    },
+    "zh": {
+      "title": "电子天使"
+    },
+    "en": {
+      "title": "Electric Angel"
+    }
+  }
 }

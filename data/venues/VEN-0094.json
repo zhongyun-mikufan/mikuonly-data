@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "確認済み",
-  "sourceRow": 94
+  "sourceRow": 94,
+  "i18n": {
+    "ja": {
+      "name": "仙台サンプラザホール",
+      "city": "仙台",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "仙台Sunplaza Hall",
+      "city": "仙台",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Sendai Sunplaza Hall",
+      "city": "Sendai",
+      "countryRegion": "Japan"
+    }
+  }
 }

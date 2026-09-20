@@ -19,5 +19,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "与你同行～B With U～"
+    },
+    "zh": {
+      "title": "与你同行～B With U～"
+    },
+    "en": {
+      "title": "与你同行～B With U～"
+    }
+  }
 }

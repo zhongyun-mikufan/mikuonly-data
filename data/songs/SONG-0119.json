@@ -27,6 +27,12 @@
   "soloFirstDate": "2017-11-25",
   "soloLastDate": "2017-11-25",
   "i18n": {
+    "ja": {
+      "title": "Shining Star (Miku Cover)"
+    },
+    "zh": {
+      "title": "Shining Star (Miku Cover)"
+    },
     "en": {
       "title": "Shining Star"
     }

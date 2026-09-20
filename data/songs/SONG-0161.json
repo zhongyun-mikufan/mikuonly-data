@@ -19,5 +19,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "アングレイデイズ"
+    },
+    "zh": {
+      "title": "アングレイデイズ"
+    },
+    "en": {
+      "title": "ungray days"
+    }
+  }
 }

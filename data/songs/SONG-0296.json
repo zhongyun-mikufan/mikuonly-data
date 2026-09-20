@@ -137,5 +137,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2024-03-31"
+  "soloLastDate": "2024-03-31",
+  "i18n": {
+    "ja": {
+      "title": "みくみくにしてあげる♪"
+    },
+    "zh": {
+      "title": "把你给MikuMiku掉♪"
+    },
+    "en": {
+      "title": "I'll Miku-Miku You♪ (For Reals)"
+    }
+  }
 }

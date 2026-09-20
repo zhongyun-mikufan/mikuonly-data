@@ -73,5 +73,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2013-08-30",
-  "soloLastDate": "2026-01-17"
+  "soloLastDate": "2026-01-17",
+  "i18n": {
+    "ja": {
+      "title": "ありふれたせかいせいふく"
+    },
+    "zh": {
+      "title": "普通不过的世界征服"
+    },
+    "en": {
+      "title": "Common World Domination"
+    }
+  }
 }

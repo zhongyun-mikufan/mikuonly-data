@@ -71,5 +71,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2015-09-04",
-  "soloLastDate": "2025-08-03"
+  "soloLastDate": "2025-08-03",
+  "i18n": {
+    "ja": {
+      "title": "独りんぼエンヴィー"
+    },
+    "zh": {
+      "title": "独りんぼエンヴィー"
+    },
+    "en": {
+      "title": "Hitorinbo Envy"
+    }
+  }
 }

@@ -29,7 +29,7 @@ MikuOnly Data 希望尽可能保留**可验证、可追溯、不过度推测**�
 
 ### 三语显示字段（Schema v2）
 
-`data/songs/` 与 `data/series/` 可通过 `i18n.ja`、`i18n.zh`、`i18n.en` 维护显示名称。原始 `title` / `name` 是 canonical 值，不要为了翻译而覆盖它。翻译可不完整，缺失时网站会回退到 canonical 值。普通歌单曲名从 `songId` 对应的歌曲翻译取得；仅特殊演奏版本继续由 `performedTitle` 保留版本差异。
+`data/songs/`、`data/series/`、`data/events/` 与 `data/venues/` 均可通过 `i18n.ja`、`i18n.zh`、`i18n.en` 维护显示字段。原始 `title` / `name` / `city` / `countryRegion` 是 canonical 值，不要为了翻译而覆盖它。Song 使用 `title`，Series / Event 使用 `name`，Venue 使用 `name`、`city`、`countryRegion`。翻译可不完整，缺失时网站会回退到 canonical 值。普通歌单曲名从 `songId` 对应的歌曲翻译取得；仅特殊演奏版本继续由 `performedTitle` 保留版本差异。
 
 ### 关于删除
 
@@ -77,7 +77,7 @@ merge 後も、本番公開前に MikuOnly 側で draft / validation / publish �
 
 ### 3言語表示フィールド（Schema v2）
 
-`data/songs/` と `data/series/` では `i18n.ja`、`i18n.zh`、`i18n.en` に表示名を追加できます。元の `title` / `name` は canonical 値なので、翻訳目的で上書きしません。翻訳は未完成でもよく、欠けている言語は canonical 値へ fallback します。通常のセットリスト曲名は `songId` の楽曲翻訳を使い、特殊な演奏版だけ `performedTitle` で版差分を保持します。
+`data/songs/`、`data/series/`、`data/events/`、`data/venues/` では `i18n.ja`、`i18n.zh`、`i18n.en` に表示フィールドを追加できます。元の `title` / `name` / `city` / `countryRegion` は canonical 値なので、翻訳目的で上書きしません。Song は `title`、Series / Event は `name`、Venue は `name`・`city`・`countryRegion` をローカライズします。翻訳は未完成でもよく、欠けている言語は canonical 値へ fallback します。通常のセットリスト曲名は `songId` の楽曲翻訳を使い、特殊な演奏版だけ `performedTitle` で版差分を保持します。
 
 ### 削除について
 
@@ -125,7 +125,7 @@ After merge, the data still goes through MikuOnly's separate draft / validation 
 
 ### Localized display fields (Schema v2)
 
-Files under `data/songs/` and `data/series/` may provide display strings in `i18n.ja`, `i18n.zh`, and `i18n.en`. The original `title` / `name` remains the canonical value and should not be overwritten merely to translate it. Translations may be incomplete; missing values fall back to canonical data. Normal setlist titles resolve through the referenced `songId`; only performance-specific versions should retain distinct `performedTitle` values.
+Files under `data/songs/`, `data/series/`, `data/events/`, and `data/venues/` may provide display strings in `i18n.ja`, `i18n.zh`, and `i18n.en`. The original `title` / `name` / `city` / `countryRegion` remains canonical data and should not be overwritten merely to translate it. Songs localize `title`, Series and Events localize `name`, and Venues localize `name`, `city`, and `countryRegion`. Translations may be incomplete; missing values fall back to canonical data. Normal setlist titles resolve through the referenced `songId`; only performance-specific versions should retain distinct `performedTitle` values.
 
 ### Deletions
 

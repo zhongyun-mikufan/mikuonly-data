@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 57
+  "sourceRow": 57,
+  "i18n": {
+    "ja": {
+      "name": "Uber Eats Music Hall",
+      "city": "Berlin",
+      "countryRegion": "Germany"
+    },
+    "zh": {
+      "name": "Uber Eats Music Hall",
+      "city": "Berlin",
+      "countryRegion": "德国"
+    },
+    "en": {
+      "name": "Uber Eats Music Hall",
+      "city": "Berlin",
+      "countryRegion": "Germany"
+    }
+  }
 }

@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 97
+  "sourceRow": 97,
+  "i18n": {
+    "ja": {
+      "name": "Guangdong Puppet Arts Theatre",
+      "city": "Guangzhou",
+      "countryRegion": "China"
+    },
+    "zh": {
+      "name": "Guangdong Puppet Arts Theatre",
+      "city": "Guangzhou",
+      "countryRegion": "中国"
+    },
+    "en": {
+      "name": "Guangdong Puppet Arts Theatre",
+      "city": "Guangzhou",
+      "countryRegion": "China"
+    }
+  }
 }

@@ -47,6 +47,12 @@
   "soloFirstDate": "2011-03-09",
   "soloLastDate": "2019-02-09",
   "i18n": {
+    "ja": {
+      "title": "Packaged"
+    },
+    "zh": {
+      "title": "Packaged"
+    },
     "en": {
       "title": "Packaged"
     }

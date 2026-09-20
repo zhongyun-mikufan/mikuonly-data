@@ -73,5 +73,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2011-03-09",
-  "soloLastDate": "2018-06-03"
+  "soloLastDate": "2018-06-03",
+  "i18n": {
+    "ja": {
+      "title": "結ンデ開イテ羅刹ト骸"
+    },
+    "zh": {
+      "title": "结而又解的罗刹与骸"
+    },
+    "en": {
+      "title": "Musunde Hiraite Rasetsu To Mukuro"
+    }
+  }
 }

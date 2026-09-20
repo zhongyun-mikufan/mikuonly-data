@@ -55,5 +55,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2020-11-28",
-  "soloLastDate": "2023-03-25"
+  "soloLastDate": "2023-03-25",
+  "i18n": {
+    "ja": {
+      "title": "シャボン"
+    },
+    "zh": {
+      "title": "シャボン"
+    },
+    "en": {
+      "title": "Soap"
+    }
+  }
 }

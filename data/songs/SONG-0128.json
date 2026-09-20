@@ -69,5 +69,16 @@
     "SER-002"
   ],
   "soloFirstDate": "2010-03-09",
-  "soloLastDate": "2025-08-31"
+  "soloLastDate": "2025-08-31",
+  "i18n": {
+    "ja": {
+      "title": "StargazeR"
+    },
+    "zh": {
+      "title": "StargazeR"
+    },
+    "en": {
+      "title": "StargazeR"
+    }
+  }
 }

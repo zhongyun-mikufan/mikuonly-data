@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 14
+  "sourceRow": 14,
+  "i18n": {
+    "ja": {
+      "name": "The Warfield",
+      "city": "San Francisco",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "The Warfield",
+      "city": "San Francisco",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "The Warfield",
+      "city": "San Francisco",
+      "countryRegion": "United States"
+    }
+  }
 }

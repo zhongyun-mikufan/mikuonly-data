@@ -43,6 +43,12 @@
   "soloFirstDate": "2017-09-01",
   "soloLastDate": "2021-11-06",
   "i18n": {
+    "ja": {
+      "title": "Singularity"
+    },
+    "zh": {
+      "title": "Singularity"
+    },
     "en": {
       "title": "Singularity"
     }

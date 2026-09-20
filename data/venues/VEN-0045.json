@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 48
+  "sourceRow": 48,
+  "i18n": {
+    "ja": {
+      "name": "Prudential Center",
+      "city": "Newark",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Prudential Center",
+      "city": "Newark",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Prudential Center",
+      "city": "Newark",
+      "countryRegion": "United States"
+    }
+  }
 }

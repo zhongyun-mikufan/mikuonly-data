@@ -57,5 +57,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2025-04-19",
-  "soloLastDate": "2026-01-18"
+  "soloLastDate": "2026-01-18",
+  "i18n": {
+    "ja": {
+      "title": "プシ"
+    },
+    "zh": {
+      "title": "プシ"
+    },
+    "en": {
+      "title": "Psi"
+    }
+  }
 }

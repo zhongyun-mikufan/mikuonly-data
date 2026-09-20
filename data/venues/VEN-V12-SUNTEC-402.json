@@ -7,5 +7,22 @@
   "capacityNote": "会場・ホール確認済み／公演時キャパ未確認",
   "capacitySourceUrl": "https://blog.piapro.net/2011/10/post-479.html",
   "verificationStatus": "公式資料で確認済み",
-  "sourceRow": 107
+  "sourceRow": 107,
+  "i18n": {
+    "ja": {
+      "name": "Suntec Singapore Exhibition Hall 402",
+      "city": "Singapore",
+      "countryRegion": "Singapore"
+    },
+    "zh": {
+      "name": "Suntec Singapore Exhibition Hall 402",
+      "city": "Singapore",
+      "countryRegion": "新加坡"
+    },
+    "en": {
+      "name": "Suntec Singapore Exhibition Hall 402",
+      "city": "Singapore",
+      "countryRegion": "Singapore"
+    }
+  }
 }

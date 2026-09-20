@@ -41,5 +41,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2024-04-09",
-  "soloLastDate": "2024-11-26"
+  "soloLastDate": "2024-11-26",
+  "i18n": {
+    "ja": {
+      "title": "Thousand Little Voices"
+    },
+    "zh": {
+      "title": "Thousand Little Voices"
+    },
+    "en": {
+      "title": "Thousand Little Voices"
+    }
+  }
 }

@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 49
+  "sourceRow": 49,
+  "i18n": {
+    "ja": {
+      "name": "Wang Theatre",
+      "city": "Boston",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Wang Theatre",
+      "city": "Boston",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Wang Theatre",
+      "city": "Boston",
+      "countryRegion": "United States"
+    }
+  }
 }

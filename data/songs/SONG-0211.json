@@ -27,5 +27,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2026-01-17",
-  "soloLastDate": "2026-01-18"
+  "soloLastDate": "2026-01-18",
+  "i18n": {
+    "ja": {
+      "title": "シアンブルー"
+    },
+    "zh": {
+      "title": "シアンブルー"
+    },
+    "en": {
+      "title": "Cyan Blue"
+    }
+  }
 }

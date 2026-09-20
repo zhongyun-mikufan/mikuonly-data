@@ -237,6 +237,12 @@
   "soloFirstDate": "2013-08-30",
   "soloLastDate": "2026-05-19",
   "i18n": {
+    "ja": {
+      "title": "39"
+    },
+    "zh": {
+      "title": "39"
+    },
     "en": {
       "title": "39"
     }

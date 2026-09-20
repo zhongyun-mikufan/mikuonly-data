@@ -52,5 +52,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "Caged Flower"
+    },
+    "zh": {
+      "title": "Caged Flower"
+    },
+    "en": {
+      "title": "Caged Flower"
+    }
+  }
 }

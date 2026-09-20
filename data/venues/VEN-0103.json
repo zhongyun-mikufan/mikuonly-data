@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 95
+  "sourceRow": 95,
+  "i18n": {
+    "ja": {
+      "name": "NEW BUND 31 Performing Arts Center - Grand Theater",
+      "city": "Shanghai",
+      "countryRegion": "China"
+    },
+    "zh": {
+      "name": "NEW BUND 31 Performing Arts Center - Grand Theater",
+      "city": "Shanghai",
+      "countryRegion": "中国"
+    },
+    "en": {
+      "name": "NEW BUND 31 Performing Arts Center - Grand Theater",
+      "city": "Shanghai",
+      "countryRegion": "China"
+    }
+  }
 }

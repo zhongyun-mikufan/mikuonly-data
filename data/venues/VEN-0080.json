@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 83
+  "sourceRow": 83,
+  "i18n": {
+    "ja": {
+      "name": "PSD Bank Dome",
+      "city": "Düsseldorf",
+      "countryRegion": "Germany"
+    },
+    "zh": {
+      "name": "PSD Bank Dome",
+      "city": "Düsseldorf",
+      "countryRegion": "德国"
+    },
+    "en": {
+      "name": "PSD Bank Dome",
+      "city": "Düsseldorf",
+      "countryRegion": "Germany"
+    }
+  }
 }

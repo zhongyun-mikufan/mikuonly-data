@@ -99,5 +99,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2021-11-07"
+  "soloLastDate": "2021-11-07",
+  "i18n": {
+    "ja": {
+      "title": "恋色病棟"
+    },
+    "zh": {
+      "title": "恋色病栋"
+    },
+    "en": {
+      "title": "Love Ward"
+    }
+  }
 }

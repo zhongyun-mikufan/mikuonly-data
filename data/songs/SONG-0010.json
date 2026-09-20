@@ -79,5 +79,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "Amazing Dolce"
+    },
+    "zh": {
+      "title": "Amazing Dolce"
+    },
+    "en": {
+      "title": "Amazing Dolce"
+    }
+  }
 }

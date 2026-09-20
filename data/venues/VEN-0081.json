@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 84
+  "sourceRow": 84,
+  "i18n": {
+    "ja": {
+      "name": "Accor Arena",
+      "city": "Paris",
+      "countryRegion": "France"
+    },
+    "zh": {
+      "name": "Accor Arena",
+      "city": "Paris",
+      "countryRegion": "法国"
+    },
+    "en": {
+      "name": "Accor Arena",
+      "city": "Paris",
+      "countryRegion": "France"
+    }
+  }
 }

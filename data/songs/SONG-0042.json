@@ -77,8 +77,14 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
-    "en": {
+    "ja": {
       "title": "Fire◎Flower"
+    },
+    "zh": {
+      "title": "Fire◎Flower"
+    },
+    "en": {
+      "title": "Fire◎Flower (Sparkler Ver.)"
     }
   }
 }

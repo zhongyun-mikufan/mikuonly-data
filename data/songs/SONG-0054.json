@@ -69,5 +69,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "Hand in Hand（6人版）"
+    },
+    "zh": {
+      "title": "Hand in Hand（6人版）"
+    },
+    "en": {
+      "title": "Hand in Hand（6人版）"
+    }
+  }
 }

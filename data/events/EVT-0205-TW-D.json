@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.64,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "初音ミク 台湾ファーストコンサート “ミクパ♪”"
+    },
+    "zh": {
+      "name": "初音未来 台湾首场演唱会 “MIKUPA♪”"
+    },
+    "en": {
+      "name": "Hatsune Miku First Concert in Taiwan \"MikuPa♪\""
+    }
+  }
 }

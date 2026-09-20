@@ -145,6 +145,12 @@
   "soloFirstDate": "2009-08-31",
   "soloLastDate": "2025-08-31",
   "i18n": {
+    "ja": {
+      "title": "Last Night, Good Night"
+    },
+    "zh": {
+      "title": "Last Night, Good Night"
+    },
     "en": {
       "title": "Last Night, Good Night"
     }

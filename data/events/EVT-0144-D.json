@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.6111111111111112,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "初音ミク「マジカルミライ 2020」"
+    },
+    "zh": {
+      "name": "初音未来“魔法未来（MAGICAL MIRAI）2020”"
+    },
+    "en": {
+      "name": "Hatsune Miku \"Magical Mirai 2020\""
+    }
+  }
 }

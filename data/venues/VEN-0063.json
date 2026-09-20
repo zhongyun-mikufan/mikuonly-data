@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 66
+  "sourceRow": 66,
+  "i18n": {
+    "ja": {
+      "name": "SM Mall of Asia Arena",
+      "city": "Manila",
+      "countryRegion": "Philippines"
+    },
+    "zh": {
+      "name": "SM Mall of Asia Arena",
+      "city": "Manila",
+      "countryRegion": "菲律宾"
+    },
+    "en": {
+      "name": "SM Mall of Asia Arena",
+      "city": "Manila",
+      "countryRegion": "Philippines"
+    }
+  }
 }

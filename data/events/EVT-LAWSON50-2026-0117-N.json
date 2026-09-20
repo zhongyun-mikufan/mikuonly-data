@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.6666666666666666,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "初音ミク LAWSON 50th Anniversary Special LIVE"
+    },
+    "zh": {
+      "name": "初音未来 LAWSON 50周年纪念 Special LIVE"
+    },
+    "en": {
+      "name": "Hatsune Miku LAWSON 50th Anniversary Special LIVE"
+    }
+  }
 }

@@ -73,5 +73,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2023-02-23",
-  "soloLastDate": "2025-05-31"
+  "soloLastDate": "2025-05-31",
+  "i18n": {
+    "ja": {
+      "title": "THUNDERBOLT"
+    },
+    "zh": {
+      "title": "THUNDERBOLT"
+    },
+    "en": {
+      "title": "THUNDERBOLT"
+    }
+  }
 }

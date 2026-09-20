@@ -157,5 +157,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2024-04-04",
-  "soloLastDate": "2026-05-19"
+  "soloLastDate": "2026-05-19",
+  "i18n": {
+    "ja": {
+      "title": "M@GICAL☆CURE! LOVE ♥ SHOT!"
+    },
+    "zh": {
+      "title": "M@GICAL☆CURE! LOVE ♥ SHOT!"
+    },
+    "en": {
+      "title": "M@GICAL☆CURE! LOVE ♥ SHOT!"
+    }
+  }
 }

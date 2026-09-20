@@ -73,5 +73,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2015-09-04",
-  "soloLastDate": "2024-03-31"
+  "soloLastDate": "2024-03-31",
+  "i18n": {
+    "ja": {
+      "title": "ラズベリー*モンスター"
+    },
+    "zh": {
+      "title": "ラズベリー*モンスター"
+    },
+    "en": {
+      "title": "Raspberry＊Monster"
+    }
+  }
 }

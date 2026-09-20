@@ -50,5 +50,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "抜錨"
+    },
+    "zh": {
+      "title": "拔锚"
+    },
+    "en": {
+      "title": "Weigh anchor"
+    }
+  }
 }

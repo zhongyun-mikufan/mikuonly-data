@@ -123,5 +123,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2024-04-04",
-  "soloLastDate": "2025-11-30"
+  "soloLastDate": "2025-11-30",
+  "i18n": {
+    "ja": {
+      "title": "Intergalactic Bound"
+    },
+    "zh": {
+      "title": "Intergalactic Bound"
+    },
+    "en": {
+      "title": "Intergalactic Bound"
+    }
+  }
 }

@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.44,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "初音ミク「マジカルミライ 2025」"
+    },
+    "zh": {
+      "name": "初音未来“魔法未来（MAGICAL MIRAI）2025”"
+    },
+    "en": {
+      "name": "Hatsune Miku \"Magical Mirai 2025\""
+    }
+  }
 }

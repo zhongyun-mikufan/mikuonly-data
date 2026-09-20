@@ -51,5 +51,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "みかぼし"
+    },
+    "zh": {
+      "title": "みかぼし"
+    },
+    "en": {
+      "title": "Star of Heaven"
+    }
+  }
 }

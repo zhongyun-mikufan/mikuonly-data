@@ -55,5 +55,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2019-08-10",
-  "soloLastDate": "2024-10-14"
+  "soloLastDate": "2024-10-14",
+  "i18n": {
+    "ja": {
+      "title": "すきなことだけでいいです"
+    },
+    "zh": {
+      "title": "只要做喜欢的事就好了"
+    },
+    "en": {
+      "title": "All I Need are Things I Like"
+    }
+  }
 }

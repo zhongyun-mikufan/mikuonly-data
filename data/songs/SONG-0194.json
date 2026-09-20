@@ -77,5 +77,16 @@
     "SER-006"
   ],
   "soloFirstDate": "2011-03-09",
-  "soloLastDate": "2025-05-31"
+  "soloLastDate": "2025-05-31",
+  "i18n": {
+    "ja": {
+      "title": "キャットフード"
+    },
+    "zh": {
+      "title": "Cat Food"
+    },
+    "en": {
+      "title": "Cat Food"
+    }
+  }
 }

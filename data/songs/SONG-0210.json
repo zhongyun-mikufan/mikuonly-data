@@ -29,5 +29,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "サンドリヨン"
+    },
+    "zh": {
+      "title": "灰姑娘"
+    },
+    "en": {
+      "title": "Cendrillon"
+    }
+  }
 }

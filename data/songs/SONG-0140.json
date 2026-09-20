@@ -23,5 +23,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "trick and treat"
+    },
+    "zh": {
+      "title": "trick and treat"
+    },
+    "en": {
+      "title": "trick and treat"
+    }
+  }
 }

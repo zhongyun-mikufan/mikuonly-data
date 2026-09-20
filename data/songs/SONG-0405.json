@@ -75,5 +75,16 @@
     "SER-011"
   ],
   "soloFirstDate": "2011-03-09",
-  "soloLastDate": "2026-02-14"
+  "soloLastDate": "2026-02-14",
+  "i18n": {
+    "ja": {
+      "title": "二息歩行"
+    },
+    "zh": {
+      "title": "二息步行"
+    },
+    "en": {
+      "title": "Two Breaths Walking"
+    }
+  }
 }

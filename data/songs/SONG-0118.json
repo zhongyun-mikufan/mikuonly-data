@@ -25,6 +25,12 @@
   "soloFirstDate": "2018-07-19",
   "soloLastDate": "2018-07-19",
   "i18n": {
+    "ja": {
+      "title": "Sharing The World (Spn ver.)"
+    },
+    "zh": {
+      "title": "Sharing The World (Spn ver.)"
+    },
     "en": {
       "title": "Sharing The World (Spn ver.)"
     }

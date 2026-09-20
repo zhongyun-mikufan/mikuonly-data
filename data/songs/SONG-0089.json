@@ -39,6 +39,12 @@
   "soloFirstDate": "2020-01-11",
   "soloLastDate": "2024-11-20",
   "i18n": {
+    "ja": {
+      "title": "MikuFiesta"
+    },
+    "zh": {
+      "title": "MikuFiesta"
+    },
     "en": {
       "title": "MikuFiesta"
     }

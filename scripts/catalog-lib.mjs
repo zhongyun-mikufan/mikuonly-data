@@ -132,7 +132,7 @@ export function validateCatalog(catalog, sourceFiles) {
   const allowedPerformanceTypes = new Set(["miku_solo", "miku_collaboration", "other", "unknown"]);
 
   const allowedLocales = new Set(["ja", "zh", "en"]);
-  const validateI18n = (kind, item, field) => {
+  const validateI18n = (kind, item, fields) => {
     if (item.i18n === undefined) return;
     if (!item.i18n || typeof item.i18n !== "object" || Array.isArray(item.i18n)) {
       errors.push(`${kind} ${item.id}: invalid i18n`);
@@ -140,21 +140,30 @@ export function validateCatalog(catalog, sourceFiles) {
     }
     for (const [locale, values] of Object.entries(item.i18n)) {
       if (!allowedLocales.has(locale)) errors.push(`${kind} ${item.id}: unsupported locale ${locale}`);
-      const value = values?.[field];
-      if (typeof value !== "string" || !value.trim()) errors.push(`${kind} ${item.id}: invalid ${locale}.${field}`);
+      for (const field of fields) {
+        const value = values?.[field];
+        if (typeof value !== "string" || !value.trim()) errors.push(`${kind} ${item.id}: invalid ${locale}.${field}`);
+      }
     }
   };
   for (const item of catalog.series) {
     if (!item.name?.trim()) errors.push(`series ${item.id}: missing name`);
-    validateI18n("series", item, "name");
+    validateI18n("series", item, ["name"]);
   }
   for (const item of catalog.songs) {
     if (!item.title?.trim()) errors.push(`song ${item.id}: missing title`);
-    validateI18n("song", item, "title");
+    validateI18n("song", item, ["title"]);
+  }
+  for (const item of catalog.venues) {
+    if (!item.name?.trim()) errors.push(`venue ${item.id}: missing name`);
+    if (!item.city?.trim()) errors.push(`venue ${item.id}: missing city`);
+    if (!item.countryRegion?.trim()) errors.push(`venue ${item.id}: missing countryRegion`);
+    validateI18n("venue", item, ["name", "city", "countryRegion"]);
   }
   const sequences = new Map();
   for (const event of catalog.events) {
     if (!event.name?.trim()) errors.push(`event ${event.id}: missing name`);
+    validateI18n("event", event, ["name"]);
     if (event.seriesId && !seriesIds.has(event.seriesId)) errors.push(`event ${event.id}: unknown series ${event.seriesId}`);
     if (event.venueId && !venueIds.has(event.venueId)) errors.push(`event ${event.id}: unknown venue ${event.venueId}`);
     if (!["performance", "aggregate"].includes(event.recordUnit)) errors.push(`event ${event.id}: invalid recordUnit`);

@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 21
+  "sourceRow": 21,
+  "i18n": {
+    "ja": {
+      "name": "El Plaza Condesa",
+      "city": "Mexico City",
+      "countryRegion": "Mexico"
+    },
+    "zh": {
+      "name": "El Plaza Condesa",
+      "city": "Mexico City",
+      "countryRegion": "墨西哥"
+    },
+    "en": {
+      "name": "El Plaza Condesa",
+      "city": "Mexico City",
+      "countryRegion": "Mexico"
+    }
+  }
 }

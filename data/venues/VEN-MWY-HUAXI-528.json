@@ -7,5 +7,22 @@
   "capacityNote": "公演時構成の収容人数は未確認",
   "capacitySourceUrl": "https://blog.piapro.net/2018/09/z180920-1.html",
   "verificationStatus": "会場確認済み／キャパ未確認",
-  "sourceRow": 101
+  "sourceRow": 101,
+  "i18n": {
+    "ja": {
+      "name": "華熙LIVE・528空間",
+      "city": "成都",
+      "countryRegion": "中国大陸"
+    },
+    "zh": {
+      "name": "华熙LIVE·528空间",
+      "city": "成都",
+      "countryRegion": "中国大陆"
+    },
+    "en": {
+      "name": "Huaxi LIVE·528 Space",
+      "city": "Chengdu",
+      "countryRegion": "Mainland China"
+    }
+  }
 }

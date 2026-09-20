@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 75
+  "sourceRow": 75,
+  "i18n": {
+    "ja": {
+      "name": "Texas Trust CU Theatre",
+      "city": "Grand Prairie",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Texas Trust CU Theatre",
+      "city": "Grand Prairie",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Texas Trust CU Theatre",
+      "city": "Grand Prairie",
+      "countryRegion": "United States"
+    }
+  }
 }

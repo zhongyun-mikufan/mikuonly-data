@@ -35,5 +35,16 @@
     "SER-006"
   ],
   "soloFirstDate": "2018-06-29",
-  "soloLastDate": "2018-07-19"
+  "soloLastDate": "2018-07-19",
+  "i18n": {
+    "ja": {
+      "title": "アゲアゲアゲイン"
+    },
+    "zh": {
+      "title": "Ageage Again"
+    },
+    "en": {
+      "title": "Ageage Again"
+    }
+  }
 }

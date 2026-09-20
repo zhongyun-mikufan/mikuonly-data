@@ -45,5 +45,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2023-08-11",
-  "soloLastDate": "2023-09-03"
+  "soloLastDate": "2023-09-03",
+  "i18n": {
+    "ja": {
+      "title": "king妃jack躍"
+    },
+    "zh": {
+      "title": "king妃jack躍"
+    },
+    "en": {
+      "title": "King Queen Jack Dance"
+    }
+  }
 }

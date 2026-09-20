@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 82
+  "sourceRow": 82,
+  "i18n": {
+    "ja": {
+      "name": "Velodrom",
+      "city": "Berlin",
+      "countryRegion": "Germany"
+    },
+    "zh": {
+      "name": "Velodrom",
+      "city": "Berlin",
+      "countryRegion": "德国"
+    },
+    "en": {
+      "name": "Velodrom",
+      "city": "Berlin",
+      "countryRegion": "Germany"
+    }
+  }
 }

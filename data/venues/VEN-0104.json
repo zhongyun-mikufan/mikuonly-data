@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 96
+  "sourceRow": 96,
+  "i18n": {
+    "ja": {
+      "name": "Huaxi LIVE·Wukesong M Space",
+      "city": "Beijing",
+      "countryRegion": "China"
+    },
+    "zh": {
+      "name": "Huaxi LIVE·Wukesong M Space",
+      "city": "Beijing",
+      "countryRegion": "中国"
+    },
+    "en": {
+      "name": "Huaxi LIVE·Wukesong M Space",
+      "city": "Beijing",
+      "countryRegion": "China"
+    }
+  }
 }

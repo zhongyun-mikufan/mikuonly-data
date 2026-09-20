@@ -37,5 +37,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "きみとぼくのレゾナンス"
+    },
+    "zh": {
+      "title": "きみとぼくのレゾナンス"
+    },
+    "en": {
+      "title": "Resonance Between You and Me."
+    }
+  }
 }

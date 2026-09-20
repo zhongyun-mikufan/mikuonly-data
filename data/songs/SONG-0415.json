@@ -43,5 +43,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "忘却心中"
+    },
+    "zh": {
+      "title": "忘却心中"
+    },
+    "en": {
+      "title": "Lover's Suicide Oblivion"
+    }
+  }
 }

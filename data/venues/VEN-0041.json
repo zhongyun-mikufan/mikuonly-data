@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 44
+  "sourceRow": 44,
+  "i18n": {
+    "ja": {
+      "name": "Mission Ballroom",
+      "city": "Denver",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Mission Ballroom",
+      "city": "Denver",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Mission Ballroom",
+      "city": "Denver",
+      "countryRegion": "United States"
+    }
+  }
 }

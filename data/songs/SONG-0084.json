@@ -67,6 +67,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "magnet"
+    },
+    "zh": {
+      "title": "magnet"
+    },
     "en": {
       "title": "magnet"
     }

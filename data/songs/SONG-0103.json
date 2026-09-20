@@ -53,6 +53,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "Pane dhiria"
+    },
+    "zh": {
+      "title": "Pane dhiria"
+    },
     "en": {
       "title": "Pane dhiria"
     }

@@ -51,5 +51,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2024-07-13",
-  "soloLastDate": "2025-12-21"
+  "soloLastDate": "2025-12-21",
+  "i18n": {
+    "ja": {
+      "title": "跨时空日记 (Kuà Shíkōng Rìjì)"
+    },
+    "zh": {
+      "title": "跨时空日记 (Kuà Shíkōng Rìjì)"
+    },
+    "en": {
+      "title": "HATSUNE MIKU WITH YOU 2025"
+    }
+  }
 }

@@ -33,5 +33,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": null,
   "recordUnit": "performance",
-  "setlistScope": "none"
+  "setlistScope": "none",
+  "i18n": {
+    "ja": {
+      "name": "HATSUNE MIKU EXPO Rewind"
+    },
+    "zh": {
+      "name": "HATSUNE MIKU EXPO Rewind"
+    },
+    "en": {
+      "name": "HATSUNE MIKU EXPO Rewind"
+    }
+  }
 }

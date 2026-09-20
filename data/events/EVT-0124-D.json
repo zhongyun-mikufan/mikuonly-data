@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.7037037037037037,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "初音ミク「マジカルミライ 2015」"
+    },
+    "zh": {
+      "name": "初音未来“魔法未来（MAGICAL MIRAI）2015”"
+    },
+    "en": {
+      "name": "Hatsune Miku \"Magical Mirai 2015\""
+    }
+  }
 }

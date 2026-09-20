@@ -25,5 +25,16 @@
     "SER-011"
   ],
   "soloFirstDate": "2026-02-14",
-  "soloLastDate": "2026-02-14"
+  "soloLastDate": "2026-02-14",
+  "i18n": {
+    "ja": {
+      "title": "モザイクロール (Reloaded)"
+    },
+    "zh": {
+      "title": "Mosaic Roll (Reloaded)"
+    },
+    "en": {
+      "title": "Mozaik Role (Reloaded)"
+    }
+  }
 }

@@ -23,5 +23,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2019-07-19",
-  "soloLastDate": "2019-07-19"
+  "soloLastDate": "2019-07-19",
+  "i18n": {
+    "ja": {
+      "title": "四秒之眷"
+    },
+    "zh": {
+      "title": "四秒之眷"
+    },
+    "en": {
+      "title": "四秒之眷"
+    }
+  }
 }

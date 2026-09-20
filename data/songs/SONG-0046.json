@@ -41,6 +41,12 @@
   "soloFirstDate": "2013-08-30",
   "soloLastDate": "2026-01-18",
   "i18n": {
+    "ja": {
+      "title": "FREELY TOMORROW"
+    },
+    "zh": {
+      "title": "FREELY TOMORROW"
+    },
     "en": {
       "title": "FREELY TOMORROW"
     }

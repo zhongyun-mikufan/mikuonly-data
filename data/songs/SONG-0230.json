@@ -95,5 +95,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2021-10-22",
-  "soloLastDate": "2026-05-11"
+  "soloLastDate": "2026-05-11",
+  "i18n": {
+    "ja": {
+      "title": "ダーリンダンス"
+    },
+    "zh": {
+      "title": "Darling Dance"
+    },
+    "en": {
+      "title": "DarlingDance"
+    }
+  }
 }

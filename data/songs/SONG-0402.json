@@ -55,5 +55,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2020-12-25",
-  "soloLastDate": "2025-12-21"
+  "soloLastDate": "2025-12-21",
+  "i18n": {
+    "ja": {
+      "title": "踏步、出发 (Tàbù, Chūfā)"
+    },
+    "zh": {
+      "title": "踏步、出发 (Tàbù, Chūfā)"
+    },
+    "en": {
+      "title": "Step Forward"
+    }
+  }
 }

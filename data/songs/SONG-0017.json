@@ -59,5 +59,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "Blessing"
+    },
+    "zh": {
+      "title": "Blessing"
+    },
+    "en": {
+      "title": "Blessing"
+    }
+  }
 }

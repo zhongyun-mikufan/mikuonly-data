@@ -83,5 +83,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2019-08-30",
-  "soloLastDate": "2026-05-19"
+  "soloLastDate": "2026-05-19",
+  "i18n": {
+    "ja": {
+      "title": "Catch the Wave"
+    },
+    "zh": {
+      "title": "Catch the Wave"
+    },
+    "en": {
+      "title": "Catch the Wave"
+    }
+  }
 }

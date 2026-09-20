@@ -23,5 +23,16 @@
     "SER-001"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2009-08-31"
+  "soloLastDate": "2009-08-31",
+  "i18n": {
+    "ja": {
+      "title": "私は人間じゃないから。"
+    },
+    "zh": {
+      "title": "因为我不是人类。"
+    },
+    "en": {
+      "title": "Maybe I'm not a human."
+    }
+  }
 }

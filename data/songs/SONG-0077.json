@@ -31,6 +31,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "Leia"
+    },
+    "zh": {
+      "title": "Leia"
+    },
     "en": {
       "title": "Leia"
     }

@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 56
+  "sourceRow": 56,
+  "i18n": {
+    "ja": {
+      "name": "Mitsubishi Electric Halle",
+      "city": "Düsseldorf",
+      "countryRegion": "Germany"
+    },
+    "zh": {
+      "name": "Mitsubishi Electric Halle",
+      "city": "Düsseldorf",
+      "countryRegion": "德国"
+    },
+    "en": {
+      "name": "Mitsubishi Electric Halle",
+      "city": "Düsseldorf",
+      "countryRegion": "Germany"
+    }
+  }
 }

@@ -35,5 +35,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "ラヴィ"
+    },
+    "zh": {
+      "title": "ラヴィ"
+    },
+    "en": {
+      "title": "Lavie"
+    }
+  }
 }

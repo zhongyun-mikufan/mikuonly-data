@@ -29,5 +29,16 @@
     "SER-002"
   ],
   "soloFirstDate": "2010-03-09",
-  "soloLastDate": "2011-07-02"
+  "soloLastDate": "2011-07-02",
+  "i18n": {
+    "ja": {
+      "title": "VOiCE"
+    },
+    "zh": {
+      "title": "VOiCE"
+    },
+    "en": {
+      "title": "VOiCE"
+    }
+  }
 }

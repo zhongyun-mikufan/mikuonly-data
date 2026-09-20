@@ -34,5 +34,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "SUPERHERO"
+    },
+    "zh": {
+      "title": "SUPERHERO"
+    },
+    "en": {
+      "title": "SUPERHERO"
+    }
+  }
 }

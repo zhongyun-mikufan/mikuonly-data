@@ -85,6 +85,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "Just Be Friends"
+    },
+    "zh": {
+      "title": "Just Be Friends"
+    },
     "en": {
       "title": "Just Be Friends"
     }

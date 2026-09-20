@@ -7,5 +7,22 @@
   "capacityNote": "最大席数参考",
   "capacitySourceUrl": "https://www.nipponbudokan.or.jp/",
   "verificationStatus": "確認済み",
-  "sourceRow": 90
+  "sourceRow": 90,
+  "i18n": {
+    "ja": {
+      "name": "日本武道館",
+      "city": "東京",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "日本武道馆",
+      "city": "东京",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Nippon Budokan",
+      "city": "Tokyo",
+      "countryRegion": "Japan"
+    }
+  }
 }

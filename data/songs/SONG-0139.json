@@ -49,6 +49,12 @@
   "soloFirstDate": "2017-09-01",
   "soloLastDate": "2018-09-02",
   "i18n": {
+    "ja": {
+      "title": "TODAY THE FUTURE"
+    },
+    "zh": {
+      "title": "今天未来"
+    },
     "en": {
       "title": "TODAY THE FUTURE"
     }

@@ -219,5 +219,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2011-03-09",
-  "soloLastDate": "2026-01-18"
+  "soloLastDate": "2026-01-18",
+  "i18n": {
+    "ja": {
+      "title": "初音ミクの激唱"
+    },
+    "zh": {
+      "title": "初音未来的激唱"
+    },
+    "en": {
+      "title": "The Intense Voice of Hatsune Miku"
+    }
+  }
 }

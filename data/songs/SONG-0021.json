@@ -38,5 +38,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "Call!!"
+    },
+    "zh": {
+      "title": "Call!!"
+    },
+    "en": {
+      "title": "Call!!"
+    }
+  }
 }

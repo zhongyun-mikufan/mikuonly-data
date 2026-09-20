@@ -28,5 +28,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "番凩"
+    },
+    "zh": {
+      "title": "番凩"
+    },
+    "en": {
+      "title": "TSUGAIKOGARASHI"
+    }
+  }
 }

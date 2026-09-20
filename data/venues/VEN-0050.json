@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 53
+  "sourceRow": 53,
+  "i18n": {
+    "ja": {
+      "name": "Wembley Arena",
+      "city": "London",
+      "countryRegion": "United Kingdom"
+    },
+    "zh": {
+      "name": "Wembley Arena",
+      "city": "London",
+      "countryRegion": "英国"
+    },
+    "en": {
+      "name": "Wembley Arena",
+      "city": "London",
+      "countryRegion": "United Kingdom"
+    }
+  }
 }

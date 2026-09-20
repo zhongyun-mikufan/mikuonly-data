@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 69
+  "sourceRow": 69,
+  "i18n": {
+    "ja": {
+      "name": "Taipei Arena",
+      "city": "Taipei",
+      "countryRegion": "Taiwan"
+    },
+    "zh": {
+      "name": "台北小巨蛋",
+      "city": "Taipei",
+      "countryRegion": "台湾"
+    },
+    "en": {
+      "name": "Taipei Arena",
+      "city": "Taipei",
+      "countryRegion": "Taiwan"
+    }
+  }
 }

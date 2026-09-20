@@ -147,5 +147,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2019-02-09",
-  "soloLastDate": "2026-05-19"
+  "soloLastDate": "2026-05-19",
+  "i18n": {
+    "ja": {
+      "title": "テオ"
+    },
+    "zh": {
+      "title": "Teo"
+    },
+    "en": {
+      "title": "Teo"
+    }
+  }
 }

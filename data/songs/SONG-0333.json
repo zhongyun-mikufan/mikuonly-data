@@ -33,5 +33,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2011-07-02",
-  "soloLastDate": "2014-09-20"
+  "soloLastDate": "2014-09-20",
+  "i18n": {
+    "ja": {
+      "title": "ワンダーランドと羊の歌"
+    },
+    "zh": {
+      "title": "ワンダーランドと羊の歌"
+    },
+    "en": {
+      "title": "Wonderland and the Sheep's Song"
+    }
+  }
 }

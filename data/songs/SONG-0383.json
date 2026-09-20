@@ -109,5 +109,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2023-08-11",
-  "soloLastDate": "2026-05-19"
+  "soloLastDate": "2026-05-19",
+  "i18n": {
+    "ja": {
+      "title": "神っぽいな"
+    },
+    "zh": {
+      "title": "像神一样呐"
+    },
+    "en": {
+      "title": "God-ish"
+    }
+  }
 }

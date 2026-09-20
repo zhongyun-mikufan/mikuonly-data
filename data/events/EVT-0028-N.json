@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.6153846153846154,
   "recordUnit": "performance",
-  "setlistScope": "shared"
+  "setlistScope": "shared",
+  "i18n": {
+    "ja": {
+      "name": "HATSUNE MIKU EXPO 2016 in TAIWAN"
+    },
+    "zh": {
+      "name": "HATSUNE MIKU EXPO 2016 in TAIWAN"
+    },
+    "en": {
+      "name": "HATSUNE MIKU EXPO 2016 in TAIWAN"
+    }
+  }
 }

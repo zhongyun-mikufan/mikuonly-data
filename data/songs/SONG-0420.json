@@ -71,5 +71,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2020-11-28",
-  "soloLastDate": "2024-10-14"
+  "soloLastDate": "2024-10-14",
+  "i18n": {
+    "ja": {
+      "title": "命に嫌われている。"
+    },
+    "zh": {
+      "title": "被生命所厌恶。"
+    },
+    "en": {
+      "title": "Hated by Life"
+    }
+  }
 }

@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.875,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "MIKUNOPOLIS 2011 in LOS ANGELES"
+    },
+    "zh": {
+      "name": "MIKUNOPOLIS 2011 in LOS ANGELES"
+    },
+    "en": {
+      "name": "MIKUNOPOLIS 2011 in LOS ANGELES"
+    }
+  }
 }

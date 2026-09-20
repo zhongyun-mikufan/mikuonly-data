@@ -77,5 +77,16 @@
     "SER-002"
   ],
   "soloFirstDate": "2010-03-09",
-  "soloLastDate": "2018-09-02"
+  "soloLastDate": "2018-09-02",
+  "i18n": {
+    "ja": {
+      "title": "愛言葉"
+    },
+    "zh": {
+      "title": "爱言叶"
+    },
+    "en": {
+      "title": "Love Password"
+    }
+  }
 }

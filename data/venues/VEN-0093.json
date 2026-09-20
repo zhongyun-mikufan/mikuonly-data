@@ -7,5 +7,22 @@
   "capacityNote": "大ホール座席数",
   "capacitySourceUrl": "https://www.f-sunpalace.com/",
   "verificationStatus": "確認済み",
-  "sourceRow": 93
+  "sourceRow": 93,
+  "i18n": {
+    "ja": {
+      "name": "福岡サンパレス",
+      "city": "福岡",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "福冈太阳宫",
+      "city": "福冈",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Fukuoka Sunpalace",
+      "city": "Fukuoka",
+      "countryRegion": "Japan"
+    }
+  }
 }

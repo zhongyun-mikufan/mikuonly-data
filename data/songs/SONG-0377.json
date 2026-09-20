@@ -35,5 +35,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "少女A"
+    },
+    "zh": {
+      "title": "少女A"
+    },
+    "en": {
+      "title": "Young Girl A"
+    }
+  }
 }

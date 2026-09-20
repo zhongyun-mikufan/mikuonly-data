@@ -71,5 +71,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2017-03-04",
-  "soloLastDate": "2025-05-17"
+  "soloLastDate": "2025-05-17",
+  "i18n": {
+    "ja": {
+      "title": "エイリアンエイリアン"
+    },
+    "zh": {
+      "title": "Alien Alien"
+    },
+    "en": {
+      "title": "Alien Alien"
+    }
+  }
 }

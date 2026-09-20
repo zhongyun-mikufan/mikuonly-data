@@ -125,5 +125,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2016-03-23",
-  "soloLastDate": "2026-08-30"
+  "soloLastDate": "2026-08-30",
+  "i18n": {
+    "ja": {
+      "title": "積乱雲グラフィティ"
+    },
+    "zh": {
+      "title": "积雨云涂鸦"
+    },
+    "en": {
+      "title": "Sekiranun Graffiti"
+    }
+  }
 }

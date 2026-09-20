@@ -49,5 +49,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "炉心融解"
+    },
+    "zh": {
+      "title": "炉心融解"
+    },
+    "en": {
+      "title": "Roshin Yuukai (meltdown)"
+    }
+  }
 }

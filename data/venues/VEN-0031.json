@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 34
+  "sourceRow": 34,
+  "i18n": {
+    "ja": {
+      "name": "Brixton Academy",
+      "city": "London",
+      "countryRegion": "United Kingdom"
+    },
+    "zh": {
+      "name": "Brixton Academy",
+      "city": "London",
+      "countryRegion": "英国"
+    },
+    "en": {
+      "name": "Brixton Academy",
+      "city": "London",
+      "countryRegion": "United Kingdom"
+    }
+  }
 }

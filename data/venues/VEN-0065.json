@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 68
+  "sourceRow": 68,
+  "i18n": {
+    "ja": {
+      "name": "Idea Live KL",
+      "city": "Kuala Lumpur",
+      "countryRegion": "Malaysia"
+    },
+    "zh": {
+      "name": "Idea Live KL",
+      "city": "Kuala Lumpur",
+      "countryRegion": "马来西亚"
+    },
+    "en": {
+      "name": "Idea Live KL",
+      "city": "Kuala Lumpur",
+      "countryRegion": "Malaysia"
+    }
+  }
 }

@@ -91,5 +91,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2019-08-10",
-  "soloLastDate": "2026-02-14"
+  "soloLastDate": "2026-02-14",
+  "i18n": {
+    "ja": {
+      "title": "ヒバナ"
+    },
+    "zh": {
+      "title": "火花"
+    },
+    "en": {
+      "title": "HIBANA"
+    }
+  }
 }

@@ -145,6 +145,12 @@
   "soloFirstDate": "2016-04-23",
   "soloLastDate": "2024-11-26",
   "i18n": {
+    "ja": {
+      "title": "Miku"
+    },
+    "zh": {
+      "title": "Miku"
+    },
     "en": {
       "title": "Miku"
     }

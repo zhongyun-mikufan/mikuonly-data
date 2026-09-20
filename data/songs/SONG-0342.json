@@ -102,5 +102,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "右肩の蝶"
+    },
+    "zh": {
+      "title": "右肩之蝶"
+    },
+    "en": {
+      "title": "Butterfly on Your Right Shoulder"
+    }
+  }
 }

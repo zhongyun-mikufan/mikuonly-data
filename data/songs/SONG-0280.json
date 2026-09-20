@@ -93,5 +93,16 @@
     "SER-011"
   ],
   "soloFirstDate": "2023-08-11",
-  "soloLastDate": "2026-02-14"
+  "soloLastDate": "2026-02-14",
+  "i18n": {
+    "ja": {
+      "title": "ブループラネット"
+    },
+    "zh": {
+      "title": "蓝色星球"
+    },
+    "en": {
+      "title": "Blue Planet"
+    }
+  }
 }

@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 63
+  "sourceRow": 63,
+  "i18n": {
+    "ja": {
+      "name": "UOB LIVE",
+      "city": "Bangkok",
+      "countryRegion": "Thailand"
+    },
+    "zh": {
+      "name": "UOB LIVE",
+      "city": "Bangkok",
+      "countryRegion": "泰国"
+    },
+    "en": {
+      "name": "UOB LIVE",
+      "city": "Bangkok",
+      "countryRegion": "Thailand"
+    }
+  }
 }

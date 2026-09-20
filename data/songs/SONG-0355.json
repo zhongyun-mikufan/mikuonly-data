@@ -23,5 +23,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "孤独の果て"
+    },
+    "zh": {
+      "title": "孤独的尽头"
+    },
+    "en": {
+      "title": "Solitude's End"
+    }
+  }
 }

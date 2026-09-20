@@ -21,6 +21,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "Miku (Mino Mino Remix)"
+    },
+    "zh": {
+      "title": "Miku (Mino Mino Remix)"
+    },
     "en": {
       "title": "Miku (Mino Mino Remix)"
     }

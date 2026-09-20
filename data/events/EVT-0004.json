@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.6666666666666666,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "HATSUNE MIKU EXPO 2014 in LOS ANGELES and NEW YORK"
+    },
+    "zh": {
+      "name": "HATSUNE MIKU EXPO 2014 in LOS ANGELES and NEW YORK"
+    },
+    "en": {
+      "name": "HATSUNE MIKU EXPO 2014 in LOS ANGELES and NEW YORK"
+    }
+  }
 }

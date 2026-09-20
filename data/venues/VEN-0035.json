@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 38
+  "sourceRow": 38,
+  "i18n": {
+    "ja": {
+      "name": "Sant Jordi Club",
+      "city": "Barcelona",
+      "countryRegion": "Spain"
+    },
+    "zh": {
+      "name": "Sant Jordi Club",
+      "city": "Barcelona",
+      "countryRegion": "西班牙"
+    },
+    "en": {
+      "name": "Sant Jordi Club",
+      "city": "Barcelona",
+      "countryRegion": "Spain"
+    }
+  }
 }

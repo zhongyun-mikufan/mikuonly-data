@@ -97,6 +97,12 @@
   "soloFirstDate": "2018-10-13",
   "soloLastDate": "2025-12-21",
   "i18n": {
+    "ja": {
+      "title": "Pick Me Up"
+    },
+    "zh": {
+      "title": "Pick Me Up"
+    },
     "en": {
       "title": "Pick Me Up"
     }

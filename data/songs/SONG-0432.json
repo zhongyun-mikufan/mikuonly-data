@@ -95,5 +95,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "劣等上等"
+    },
+    "zh": {
+      "title": "劣等上等"
+    },
+    "en": {
+      "title": "BRING IT ON"
+    }
+  }
 }

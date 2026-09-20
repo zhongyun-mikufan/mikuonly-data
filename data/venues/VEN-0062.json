@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 65
+  "sourceRow": 65,
+  "i18n": {
+    "ja": {
+      "name": "Tennis Indoor Senayan",
+      "city": "Jakarta",
+      "countryRegion": "Indonesia"
+    },
+    "zh": {
+      "name": "Tennis Indoor Senayan",
+      "city": "Jakarta",
+      "countryRegion": "印度尼西亚"
+    },
+    "en": {
+      "name": "Tennis Indoor Senayan",
+      "city": "Jakarta",
+      "countryRegion": "Indonesia"
+    }
+  }
 }

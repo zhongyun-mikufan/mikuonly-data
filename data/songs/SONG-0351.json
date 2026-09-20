@@ -163,5 +163,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2016-12-03",
-  "soloLastDate": "2026-08-30"
+  "soloLastDate": "2026-08-30",
+  "i18n": {
+    "ja": {
+      "title": "気まぐれメルシィ"
+    },
+    "zh": {
+      "title": "任性Mercy"
+    },
+    "en": {
+      "title": "Kimagure Mercy"
+    }
+  }
 }

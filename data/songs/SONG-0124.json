@@ -64,5 +64,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "Someday'z Coming"
+    },
+    "zh": {
+      "title": "Someday'z Coming"
+    },
+    "en": {
+      "title": "Someday'z Coming"
+    }
+  }
 }

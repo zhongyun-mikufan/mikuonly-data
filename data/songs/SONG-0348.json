@@ -71,5 +71,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2019-08-10",
-  "soloLastDate": "2026-08-30"
+  "soloLastDate": "2026-08-30",
+  "i18n": {
+    "ja": {
+      "title": "快晴"
+    },
+    "zh": {
+      "title": "快晴"
+    },
+    "en": {
+      "title": "Good Weather"
+    }
+  }
 }

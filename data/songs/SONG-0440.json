@@ -51,5 +51,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2024-07-13",
-  "soloLastDate": "2025-12-21"
+  "soloLastDate": "2025-12-21",
+  "i18n": {
+    "ja": {
+      "title": "梦色星球 (Mèngsè Xīngqiú)"
+    },
+    "zh": {
+      "title": "梦色星球 (Mèngsè Xīngqiú)"
+    },
+    "en": {
+      "title": "Dream Color Planet"
+    }
+  }
 }

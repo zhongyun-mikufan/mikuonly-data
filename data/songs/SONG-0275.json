@@ -48,5 +48,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "フェレス"
+    },
+    "zh": {
+      "title": "フェレス"
+    },
+    "en": {
+      "title": "Pheles"
+    }
+  }
 }

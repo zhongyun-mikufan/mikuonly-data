@@ -7,5 +7,22 @@
   "capacityNote": "会場確認済み／公演時キャパ未確認",
   "capacitySourceUrl": "https://blog.piapro.net/2012/06/2013-2.html",
   "verificationStatus": "公式資料で確認済み",
-  "sourceRow": 109
+  "sourceRow": 109,
+  "i18n": {
+    "ja": {
+      "name": "Taipeishow（台北展演二館）",
+      "city": "Taipei",
+      "countryRegion": "Taiwan"
+    },
+    "zh": {
+      "name": "台北展演二馆（Taipei Show）",
+      "city": "Taipei",
+      "countryRegion": "台湾"
+    },
+    "en": {
+      "name": "Taipei Show Hall 2",
+      "city": "Taipei",
+      "countryRegion": "Taiwan"
+    }
+  }
 }

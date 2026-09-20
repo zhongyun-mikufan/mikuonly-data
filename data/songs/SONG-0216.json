@@ -67,5 +67,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "スイートマジック"
+    },
+    "zh": {
+      "title": "甜蜜魔法"
+    },
+    "en": {
+      "title": "Sweet Magic"
+    }
+  }
 }

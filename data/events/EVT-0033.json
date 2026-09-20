@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.5625,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "HATSUNE MIKU EXPO 2017 MALAYSIA"
+    },
+    "zh": {
+      "name": "HATSUNE MIKU EXPO 2017 MALAYSIA"
+    },
+    "en": {
+      "name": "HATSUNE MIKU EXPO 2017 MALAYSIA"
+    }
+  }
 }

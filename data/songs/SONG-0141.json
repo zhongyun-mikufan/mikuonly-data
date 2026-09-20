@@ -54,5 +54,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "TYQOON"
+    },
+    "zh": {
+      "title": "TYQOON"
+    },
+    "en": {
+      "title": "TYQOON"
+    }
+  }
 }

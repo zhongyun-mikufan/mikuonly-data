@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.6296296296296297,
   "recordUnit": "performance",
-  "setlistScope": "shared"
+  "setlistScope": "shared",
+  "i18n": {
+    "ja": {
+      "name": "HATSUNE MIKU EXPO 2015 in SHANGHAI"
+    },
+    "zh": {
+      "name": "HATSUNE MIKU EXPO 2015 in SHANGHAI"
+    },
+    "en": {
+      "name": "HATSUNE MIKU EXPO 2015 in SHANGHAI"
+    }
+  }
 }

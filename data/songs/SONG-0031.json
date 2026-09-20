@@ -33,6 +33,12 @@
   "soloFirstDate": "2018-12-01",
   "soloLastDate": "2019-07-27",
   "i18n": {
+    "ja": {
+      "title": "Cybernetic"
+    },
+    "zh": {
+      "title": "Cybernetic"
+    },
     "en": {
       "title": "Cybernetic"
     }

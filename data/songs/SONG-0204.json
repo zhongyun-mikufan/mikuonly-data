@@ -85,5 +85,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2011-03-09",
-  "soloLastDate": "2018-02-10"
+  "soloLastDate": "2018-02-10",
+  "i18n": {
+    "ja": {
+      "title": "こっち向いて Baby"
+    },
+    "zh": {
+      "title": "看向这边 Baby"
+    },
+    "en": {
+      "title": "Look This Way, Baby"
+    }
+  }
 }

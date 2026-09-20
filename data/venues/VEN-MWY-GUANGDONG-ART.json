@@ -7,5 +7,22 @@
   "capacityNote": "公演時構成の収容人数は未確認",
   "capacitySourceUrl": "https://w.atwiki.jp/hmiku/pages/67177.html",
   "verificationStatus": "会場確認済み／キャパ未確認",
-  "sourceRow": 103
+  "sourceRow": 103,
+  "i18n": {
+    "ja": {
+      "name": "広東芸術劇院",
+      "city": "広州",
+      "countryRegion": "中国大陸"
+    },
+    "zh": {
+      "name": "广东艺术剧院",
+      "city": "广州",
+      "countryRegion": "中国大陆"
+    },
+    "en": {
+      "name": "Guangdong Arts Theatre",
+      "city": "Guangzhou",
+      "countryRegion": "Mainland China"
+    }
+  }
 }

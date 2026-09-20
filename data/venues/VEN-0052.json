@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 55
+  "sourceRow": 55,
+  "i18n": {
+    "ja": {
+      "name": "AFAS Live",
+      "city": "Amsterdam",
+      "countryRegion": "Netherlands"
+    },
+    "zh": {
+      "name": "AFAS Live",
+      "city": "Amsterdam",
+      "countryRegion": "荷兰"
+    },
+    "en": {
+      "name": "AFAS Live",
+      "city": "Amsterdam",
+      "countryRegion": "Netherlands"
+    }
+  }
 }

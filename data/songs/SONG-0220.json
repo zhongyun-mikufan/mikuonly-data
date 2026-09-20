@@ -29,5 +29,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2019-02-09",
-  "soloLastDate": "2019-02-10"
+  "soloLastDate": "2019-02-10",
+  "i18n": {
+    "ja": {
+      "title": "スターナイトスノウ"
+    },
+    "zh": {
+      "title": "Star Night Snow"
+    },
+    "en": {
+      "title": "Star Night Snow"
+    }
+  }
 }

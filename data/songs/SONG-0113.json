@@ -29,5 +29,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "RIP=RELEASE"
+    },
+    "zh": {
+      "title": "RIP=RELEASE"
+    },
+    "en": {
+      "title": "RIP=RELEASE"
+    }
+  }
 }

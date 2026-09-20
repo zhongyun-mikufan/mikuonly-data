@@ -105,6 +105,12 @@
   "soloFirstDate": "2014-10-11",
   "soloLastDate": "2019-02-06",
   "i18n": {
+    "ja": {
+      "title": "Glass Wall"
+    },
+    "zh": {
+      "title": "Glass Wall"
+    },
     "en": {
       "title": "Glass Wall"
     }

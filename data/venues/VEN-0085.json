@@ -7,5 +7,22 @@
   "capacityNote": "約",
   "capacitySourceUrl": null,
   "verificationStatus": "確認済み",
-  "sourceRow": 88
+  "sourceRow": 88,
+  "i18n": {
+    "ja": {
+      "name": "インテックス大阪",
+      "city": "大阪",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "INTEX大阪",
+      "city": "大阪",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "INTEX Osaka",
+      "city": "Osaka",
+      "countryRegion": "Japan"
+    }
+  }
 }

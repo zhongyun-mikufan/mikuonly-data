@@ -37,5 +37,16 @@
     "SER-002"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2012-03-09"
+  "soloLastDate": "2012-03-09",
+  "i18n": {
+    "ja": {
+      "title": "恋スルVOC＠LOID"
+    },
+    "zh": {
+      "title": "恋スルVOC＠LOID"
+    },
+    "en": {
+      "title": "VOC@LOID in Love"
+    }
+  }
 }

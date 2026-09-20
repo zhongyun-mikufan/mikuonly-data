@@ -54,5 +54,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "メランコリック"
+    },
+    "zh": {
+      "title": "メランコリック"
+    },
+    "en": {
+      "title": "Melancholic"
+    }
+  }
 }

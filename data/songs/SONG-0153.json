@@ -19,5 +19,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "アドバンス"
+    },
+    "zh": {
+      "title": "アドバンス"
+    },
+    "en": {
+      "title": "Advance"
+    }
+  }
 }

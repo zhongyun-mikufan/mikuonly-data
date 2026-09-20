@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 30
+  "sourceRow": 30,
+  "i18n": {
+    "ja": {
+      "name": "La Seine Musicale",
+      "city": "Paris",
+      "countryRegion": "France"
+    },
+    "zh": {
+      "name": "La Seine Musicale",
+      "city": "Paris",
+      "countryRegion": "法国"
+    },
+    "en": {
+      "name": "La Seine Musicale",
+      "city": "Paris",
+      "countryRegion": "France"
+    }
+  }
 }

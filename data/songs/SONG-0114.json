@@ -59,5 +59,16 @@
     "SER-006"
   ],
   "soloFirstDate": "2026-04-12",
-  "soloLastDate": "2026-05-19"
+  "soloLastDate": "2026-05-19",
+  "i18n": {
+    "ja": {
+      "title": "Room for a Fantasy"
+    },
+    "zh": {
+      "title": "Room for a Fantasy"
+    },
+    "en": {
+      "title": "Room for a Fantasy"
+    }
+  }
 }

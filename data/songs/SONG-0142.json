@@ -41,6 +41,12 @@
   "soloFirstDate": "2014-05-28",
   "soloLastDate": "2017-12-16",
   "i18n": {
+    "ja": {
+      "title": "Venus di Ujung Jari"
+    },
+    "zh": {
+      "title": "Venus di Ujung Jari"
+    },
     "en": {
       "title": "Venus at The Fingertips"
     }

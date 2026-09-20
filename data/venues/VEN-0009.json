@@ -7,5 +7,22 @@
   "capacityNote": "会場確認済み／公演時キャパ未確認",
   "capacitySourceUrl": "https://blog.piapro.net/2010/03/post-346.html",
   "verificationStatus": "公式資料で確認済み",
-  "sourceRow": 12
+  "sourceRow": 12,
+  "i18n": {
+    "ja": {
+      "name": "Zepp Tokyo",
+      "city": "東京",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "Zepp Tokyo",
+      "city": "东京",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Zepp Tokyo",
+      "city": "Tokyo",
+      "countryRegion": "Japan"
+    }
+  }
 }

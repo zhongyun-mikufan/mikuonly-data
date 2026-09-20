@@ -37,5 +37,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "完全性コンプレックス"
+    },
+    "zh": {
+      "title": "完全性コンプレックス"
+    },
+    "en": {
+      "title": "Perfectionist Complex"
+    }
+  }
 }

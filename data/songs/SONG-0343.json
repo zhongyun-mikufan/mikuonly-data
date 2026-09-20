@@ -57,5 +57,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2018-10-13",
-  "soloLastDate": "2019-11-24"
+  "soloLastDate": "2019-11-24",
+  "i18n": {
+    "ja": {
+      "title": "越过海岸线 (Yuèguò Hǎi'ànxiàn)"
+    },
+    "zh": {
+      "title": "越过海岸线 (Yuèguò Hǎi'ànxiàn)"
+    },
+    "en": {
+      "title": "Crossing Over the Coastline"
+    }
+  }
 }

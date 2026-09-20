@@ -21,6 +21,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "Die For You"
+    },
+    "zh": {
+      "title": "Die For You"
+    },
     "en": {
       "title": "Die For You"
     }

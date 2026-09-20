@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.6521739130434783,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "初音ミク JAPAN TOUR 2023 ～THUNDERBOLT～"
+    },
+    "zh": {
+      "name": "初音未来 JAPAN TOUR 2023 ～THUNDERBOLT～"
+    },
+    "en": {
+      "name": "Hatsune Miku JAPAN TOUR 2023 ～THUNDERBOLT～"
+    }
+  }
 }

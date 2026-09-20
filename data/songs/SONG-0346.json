@@ -93,5 +93,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2011-03-09",
-  "soloLastDate": "2022-09-03"
+  "soloLastDate": "2022-09-03",
+  "i18n": {
+    "ja": {
+      "title": "歌に形はないけれど"
+    },
+    "zh": {
+      "title": "虽然歌声无形"
+    },
+    "en": {
+      "title": "Though My Song Has No Shape"
+    }
+  }
 }

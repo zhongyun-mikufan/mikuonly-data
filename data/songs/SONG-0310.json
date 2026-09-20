@@ -101,5 +101,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2012-03-09",
-  "soloLastDate": "2026-02-14"
+  "soloLastDate": "2026-02-14",
+  "i18n": {
+    "ja": {
+      "title": "ゆめゆめ"
+    },
+    "zh": {
+      "title": "ゆめゆめ"
+    },
+    "en": {
+      "title": "Dream Dream"
+    }
+  }
 }

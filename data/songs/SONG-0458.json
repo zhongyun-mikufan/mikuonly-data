@@ -37,8 +37,14 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "青炎"
+    },
+    "zh": {
+      "title": "青炎"
+    },
     "en": {
-      "title": "Seien"
+      "title": "Blue Fire"
     }
   }
 }

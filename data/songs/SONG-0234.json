@@ -33,5 +33,16 @@
     "SER-012"
   ],
   "soloFirstDate": "2026-03-20",
-  "soloLastDate": "2026-03-22"
+  "soloLastDate": "2026-03-22",
+  "i18n": {
+    "ja": {
+      "title": "たびのまえ、たびのあと"
+    },
+    "zh": {
+      "title": "たびのまえ、たびのあと"
+    },
+    "en": {
+      "title": "Journey's Prequels, Journey's Traces"
+    }
+  }
 }

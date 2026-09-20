@@ -163,5 +163,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2025-12-21"
+  "soloLastDate": "2025-12-21",
+  "i18n": {
+    "ja": {
+      "title": "ロミオとシンデレラ"
+    },
+    "zh": {
+      "title": "罗密欧与灰姑娘"
+    },
+    "en": {
+      "title": "Romeo & Cinderella"
+    }
+  }
 }

@@ -33,5 +33,16 @@
     "SER-012"
   ],
   "soloFirstDate": "2026-03-20",
-  "soloLastDate": "2026-03-22"
+  "soloLastDate": "2026-03-22",
+  "i18n": {
+    "ja": {
+      "title": "しんかしんかしんか"
+    },
+    "zh": {
+      "title": "しんかしんかしんか"
+    },
+    "en": {
+      "title": "EVOLVE EVOLVE EVOLVE"
+    }
+  }
 }

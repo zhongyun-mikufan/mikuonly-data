@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 4
+  "sourceRow": 4,
+  "i18n": {
+    "ja": {
+      "name": "Jakarta Convention Center",
+      "city": "Jakarta",
+      "countryRegion": "Indonesia"
+    },
+    "zh": {
+      "name": "Jakarta Convention Center",
+      "city": "Jakarta",
+      "countryRegion": "印度尼西亚"
+    },
+    "en": {
+      "name": "Jakarta Convention Center",
+      "city": "Jakarta",
+      "countryRegion": "Indonesia"
+    }
+  }
 }

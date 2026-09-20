@@ -97,5 +97,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2026-01-18"
+  "soloLastDate": "2026-01-18",
+  "i18n": {
+    "ja": {
+      "title": "初めての恋が終わる時"
+    },
+    "zh": {
+      "title": "初恋结束之时"
+    },
+    "en": {
+      "title": "When First Love Ends"
+    }
+  }
 }

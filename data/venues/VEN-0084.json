@@ -7,5 +7,22 @@
   "capacityNote": "活动形式最大约17,000",
   "capacitySourceUrl": "https://www.yokohama-arena.co.jp/",
   "verificationStatus": "確認済み",
-  "sourceRow": 87
+  "sourceRow": 87,
+  "i18n": {
+    "ja": {
+      "name": "横浜アリーナ",
+      "city": "横浜",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "横滨体育馆",
+      "city": "横滨",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Yokohama Arena",
+      "city": "Yokohama",
+      "countryRegion": "Japan"
+    }
+  }
 }

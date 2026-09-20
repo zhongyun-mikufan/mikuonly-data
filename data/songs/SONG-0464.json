@@ -35,5 +35,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "天樂 -双響-"
+    },
+    "zh": {
+      "title": "天乐 -双响-"
+    },
+    "en": {
+      "title": "Heaven's Song"
+    }
+  }
 }

@@ -25,5 +25,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "いろは唄"
+    },
+    "zh": {
+      "title": "伊吕波歌"
+    },
+    "en": {
+      "title": "Iroha Song"
+    }
+  }
 }

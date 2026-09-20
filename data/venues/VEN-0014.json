@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 17
+  "sourceRow": 17,
+  "i18n": {
+    "ja": {
+      "name": "NRG Arena",
+      "city": "Houston",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "NRG Arena",
+      "city": "Houston",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "NRG Arena",
+      "city": "Houston",
+      "countryRegion": "United States"
+    }
+  }
 }

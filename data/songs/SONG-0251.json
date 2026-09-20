@@ -51,5 +51,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2018-08-25",
-  "soloLastDate": "2025-05-17"
+  "soloLastDate": "2025-05-17",
+  "i18n": {
+    "ja": {
+      "title": "ドリームレス・ドリームス"
+    },
+    "zh": {
+      "title": "Dreamless Dreams"
+    },
+    "en": {
+      "title": "Dreamless Dreams"
+    }
+  }
 }

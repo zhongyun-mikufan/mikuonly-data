@@ -7,5 +7,22 @@
   "capacityNote": "公演時構成の収容人数は未確認",
   "capacitySourceUrl": "https://blog.piapro.net/2017/11/mon171120.html",
   "verificationStatus": "会場・所在地確認済み／キャパ未確認",
-  "sourceRow": 99
+  "sourceRow": 99,
+  "i18n": {
+    "ja": {
+      "name": "上海新国際博覧センター E5展示スペース",
+      "city": "上海",
+      "countryRegion": "中国大陸"
+    },
+    "zh": {
+      "name": "上海新国际博览中心 E5展馆",
+      "city": "上海",
+      "countryRegion": "中国大陆"
+    },
+    "en": {
+      "name": "Shanghai New International Expo Centre, Hall E5",
+      "city": "Shanghai",
+      "countryRegion": "Mainland China"
+    }
+  }
 }

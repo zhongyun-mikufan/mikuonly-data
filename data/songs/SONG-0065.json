@@ -23,5 +23,16 @@
     "SER-001"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2009-08-31"
+  "soloLastDate": "2009-08-31",
+  "i18n": {
+    "ja": {
+      "title": "intro (デP Megamix)"
+    },
+    "zh": {
+      "title": "intro (デP Megamix)"
+    },
+    "en": {
+      "title": "intro (デP Megamix)"
+    }
+  }
 }

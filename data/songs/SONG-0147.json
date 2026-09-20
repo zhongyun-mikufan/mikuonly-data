@@ -49,6 +49,12 @@
   "soloFirstDate": "2020-11-28",
   "soloLastDate": "2020-12-20",
   "i18n": {
+    "ja": {
+      "title": "YY"
+    },
+    "zh": {
+      "title": "YY"
+    },
     "en": {
       "title": "YY"
     }

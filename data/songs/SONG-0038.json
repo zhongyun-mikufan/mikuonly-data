@@ -31,6 +31,12 @@
   "soloFirstDate": "2014-08-30",
   "soloLastDate": "2014-09-20",
   "i18n": {
+    "ja": {
+      "title": "EARTH DAY"
+    },
+    "zh": {
+      "title": "EARTH DAY"
+    },
     "en": {
       "title": "EARTH DAY"
     }

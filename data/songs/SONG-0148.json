@@ -47,5 +47,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2019-02-09",
-  "soloLastDate": "2023-03-19"
+  "soloLastDate": "2023-03-19",
+  "i18n": {
+    "ja": {
+      "title": "アイ"
+    },
+    "zh": {
+      "title": "爱"
+    },
+    "en": {
+      "title": "AI"
+    }
+  }
 }

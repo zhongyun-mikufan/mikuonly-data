@@ -51,5 +51,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2019-08-10",
-  "soloLastDate": "2021-11-07"
+  "soloLastDate": "2021-11-07",
+  "i18n": {
+    "ja": {
+      "title": "ある計画は今も密かに"
+    },
+    "zh": {
+      "title": "ある計画は今も密かに"
+    },
+    "en": {
+      "title": "A Plan Is Still In Progress Covertly"
+    }
+  }
 }

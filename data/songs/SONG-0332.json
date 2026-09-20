@@ -391,5 +391,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2024-11-26"
+  "soloLastDate": "2024-11-26",
+  "i18n": {
+    "ja": {
+      "title": "ワールドイズマイン"
+    },
+    "zh": {
+      "title": "世界属于我"
+    },
+    "en": {
+      "title": "The World is Mine"
+    }
+  }
 }

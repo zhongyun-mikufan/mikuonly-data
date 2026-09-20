@@ -37,6 +37,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "バッドシャーク"
+    },
+    "zh": {
+      "title": "バッドシャーク"
+    },
     "en": {
       "title": "Bad Shark"
     }

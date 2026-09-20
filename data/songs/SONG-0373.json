@@ -63,5 +63,16 @@
     "SER-002"
   ],
   "soloFirstDate": "2010-03-09",
-  "soloLastDate": "2024-03-31"
+  "soloLastDate": "2024-03-31",
+  "i18n": {
+    "ja": {
+      "title": "初音ミクの消失"
+    },
+    "zh": {
+      "title": "初音未来的消失"
+    },
+    "en": {
+      "title": "THE END OF HATSUNE MIKU"
+    }
+  }
 }

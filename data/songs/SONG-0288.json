@@ -99,5 +99,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2010-03-09",
-  "soloLastDate": "2025-05-06"
+  "soloLastDate": "2025-05-06",
+  "i18n": {
+    "ja": {
+      "title": "ぽっぴっぽー"
+    },
+    "zh": {
+      "title": "PoPiPo"
+    },
+    "en": {
+      "title": "Vegetable Juice"
+    }
+  }
 }

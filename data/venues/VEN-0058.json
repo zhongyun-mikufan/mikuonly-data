@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 61
+  "sourceRow": 61,
+  "i18n": {
+    "ja": {
+      "name": "John Cain Arena",
+      "city": "Melbourne",
+      "countryRegion": "Australia"
+    },
+    "zh": {
+      "name": "John Cain Arena",
+      "city": "Melbourne",
+      "countryRegion": "澳大利亚"
+    },
+    "en": {
+      "name": "John Cain Arena",
+      "city": "Melbourne",
+      "countryRegion": "Australia"
+    }
+  }
 }

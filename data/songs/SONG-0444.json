@@ -21,5 +21,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "SHAKE"
+    },
+    "zh": {
+      "title": "SHAKE"
+    },
+    "en": {
+      "title": "SHAKE"
+    }
+  }
 }

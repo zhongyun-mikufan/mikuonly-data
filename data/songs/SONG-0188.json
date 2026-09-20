@@ -46,5 +46,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "カラフル×メロディ"
+    },
+    "zh": {
+      "title": "カラフル×メロディ"
+    },
+    "en": {
+      "title": "Colorful × Melody"
+    }
+  }
 }

@@ -183,5 +183,16 @@
     "SER-011"
   ],
   "soloFirstDate": "2022-08-12",
-  "soloLastDate": "2026-08-30"
+  "soloLastDate": "2026-08-30",
+  "i18n": {
+    "ja": {
+      "title": "ヴァンパイア"
+    },
+    "zh": {
+      "title": "吸血鬼"
+    },
+    "en": {
+      "title": "The Vampire"
+    }
+  }
 }

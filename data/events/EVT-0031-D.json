@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.6538461538461539,
   "recordUnit": "performance",
-  "setlistScope": "shared"
+  "setlistScope": "shared",
+  "i18n": {
+    "ja": {
+      "name": "HATSUNE MIKU EXPO 2016 CHINA TOUR"
+    },
+    "zh": {
+      "name": "HATSUNE MIKU EXPO 2016 CHINA TOUR"
+    },
+    "en": {
+      "name": "HATSUNE MIKU EXPO 2016 CHINA TOUR"
+    }
+  }
 }

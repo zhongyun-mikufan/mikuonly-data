@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 23
+  "sourceRow": 23,
+  "i18n": {
+    "ja": {
+      "name": "Happy Valley Shanghai",
+      "city": "Shanghai",
+      "countryRegion": "China"
+    },
+    "zh": {
+      "name": "上海欢乐谷",
+      "city": "Shanghai",
+      "countryRegion": "中国"
+    },
+    "en": {
+      "name": "Happy Valley Shanghai",
+      "city": "Shanghai",
+      "countryRegion": "China"
+    }
+  }
 }

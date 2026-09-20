@@ -31,5 +31,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "インタビュア"
+    },
+    "zh": {
+      "title": "Interviewer"
+    },
+    "en": {
+      "title": "Interviewer"
+    }
+  }
 }

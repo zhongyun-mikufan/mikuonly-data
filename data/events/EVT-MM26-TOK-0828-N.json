@@ -33,5 +33,16 @@
   "mikuSoloRatio": 0.5,
   "importCategory": "2026年公式公演情報・確認済み歌唱曲",
   "recordUnit": "performance",
-  "setlistScope": "shared"
+  "setlistScope": "shared",
+  "i18n": {
+    "ja": {
+      "name": "初音ミク「マジカルミライ 2026」"
+    },
+    "zh": {
+      "name": "初音未来“魔法未来（MAGICAL MIRAI）2026”"
+    },
+    "en": {
+      "name": "Hatsune Miku \"Magical Mirai 2026\""
+    }
+  }
 }

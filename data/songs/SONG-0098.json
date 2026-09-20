@@ -209,6 +209,12 @@
   "soloFirstDate": "2013-08-30",
   "soloLastDate": "2026-05-19",
   "i18n": {
+    "ja": {
+      "title": "ODDS&ENDS"
+    },
+    "zh": {
+      "title": "ODDS&ENDS"
+    },
     "en": {
       "title": "ODDS&ENDS"
     }

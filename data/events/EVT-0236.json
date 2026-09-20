@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": null,
   "recordUnit": "aggregate",
-  "setlistScope": "none"
+  "setlistScope": "none",
+  "i18n": {
+    "ja": {
+      "name": "Project Circles Live(予定)"
+    },
+    "zh": {
+      "name": "Project Circles Live（计划）"
+    },
+    "en": {
+      "name": "Project Circles Live (Scheduled)"
+    }
+  }
 }

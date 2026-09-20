@@ -50,5 +50,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "どりーみんチュチュ"
+    },
+    "zh": {
+      "title": "Dreamin Chuchu"
+    },
+    "en": {
+      "title": "dreamin chuchu"
+    }
+  }
 }

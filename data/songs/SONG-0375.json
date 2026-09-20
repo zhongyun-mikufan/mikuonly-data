@@ -101,5 +101,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2021-10-22",
-  "soloLastDate": "2025-08-31"
+  "soloLastDate": "2025-08-31",
+  "i18n": {
+    "ja": {
+      "title": "初音天地開闢神話"
+    },
+    "zh": {
+      "title": "初音天地开辟神话"
+    },
+    "en": {
+      "title": "Hatsune Creation Myth"
+    }
+  }
 }

@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 26
+  "sourceRow": 26,
+  "i18n": {
+    "ja": {
+      "name": "City National Civic",
+      "city": "San Jose",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "City National Civic",
+      "city": "San Jose",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "City National Civic",
+      "city": "San Jose",
+      "countryRegion": "United States"
+    }
+  }
 }

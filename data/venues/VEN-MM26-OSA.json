@@ -6,5 +6,22 @@
   "capacity": null,
   "capacityNote": "イベント時の収容人数はレイアウトにより変動",
   "capacitySourceUrl": "https://magicalmirai.com/2026/osaka_ticket.html",
-  "verificationStatus": "公式情報確認済み"
+  "verificationStatus": "公式情報確認済み",
+  "i18n": {
+    "ja": {
+      "name": "インテックス大阪 5号館A",
+      "city": "大阪",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "INTEX大阪 5号馆A",
+      "city": "大阪",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "INTEX Osaka Hall 5A",
+      "city": "Osaka",
+      "countryRegion": "Japan"
+    }
+  }
 }

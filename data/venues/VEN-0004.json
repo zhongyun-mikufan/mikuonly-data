@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 7
+  "sourceRow": 7,
+  "i18n": {
+    "ja": {
+      "name": "Shanghai Fengyun E-Sports Arena",
+      "city": "Shanghai",
+      "countryRegion": "China"
+    },
+    "zh": {
+      "name": "上海风云电竞馆",
+      "city": "Shanghai",
+      "countryRegion": "中国"
+    },
+    "en": {
+      "name": "Shanghai Fengyun E-Sports Arena",
+      "city": "Shanghai",
+      "countryRegion": "China"
+    }
+  }
 }

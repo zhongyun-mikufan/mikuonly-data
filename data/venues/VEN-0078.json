@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 81
+  "sourceRow": 81,
+  "i18n": {
+    "ja": {
+      "name": "The O2 Arena",
+      "city": "London",
+      "countryRegion": "United Kingdom"
+    },
+    "zh": {
+      "name": "The O2 Arena",
+      "city": "London",
+      "countryRegion": "英国"
+    },
+    "en": {
+      "name": "The O2 Arena",
+      "city": "London",
+      "countryRegion": "United Kingdom"
+    }
+  }
 }

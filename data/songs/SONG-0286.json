@@ -28,5 +28,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "ぼかろころしあむ"
+    },
+    "zh": {
+      "title": "ぼかろころしあむ"
+    },
+    "en": {
+      "title": "Vocalo-Colosseum"
+    }
+  }
 }

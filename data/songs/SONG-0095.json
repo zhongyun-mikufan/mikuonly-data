@@ -47,6 +47,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "Nostalogic"
+    },
+    "zh": {
+      "title": "Nostalogic"
+    },
     "en": {
       "title": "Nostalogic"
     }

@@ -51,5 +51,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "ラムネイドブルーの憧憬"
+    },
+    "zh": {
+      "title": "ラムネイドブルーの憧憬"
+    },
+    "en": {
+      "title": "Ramnade blue longing"
+    }
+  }
 }

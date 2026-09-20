@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 37
+  "sourceRow": 37,
+  "i18n": {
+    "ja": {
+      "name": "Ziggo Dome",
+      "city": "Amsterdam",
+      "countryRegion": "Netherlands"
+    },
+    "zh": {
+      "name": "Ziggo Dome",
+      "city": "Amsterdam",
+      "countryRegion": "荷兰"
+    },
+    "en": {
+      "name": "Ziggo Dome",
+      "city": "Amsterdam",
+      "countryRegion": "Netherlands"
+    }
+  }
 }

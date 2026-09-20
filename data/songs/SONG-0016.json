@@ -30,5 +30,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "Birthday Song for ミク"
+    },
+    "zh": {
+      "title": "Birthday Song for ミク"
+    },
+    "en": {
+      "title": "Birthday Song for Miku"
+    }
+  }
 }

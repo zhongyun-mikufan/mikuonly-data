@@ -27,5 +27,16 @@
     "SER-008"
   ],
   "soloFirstDate": "2017-03-04",
-  "soloLastDate": "2017-03-05"
+  "soloLastDate": "2017-03-05",
+  "i18n": {
+    "ja": {
+      "title": "蜂の風"
+    },
+    "zh": {
+      "title": "蜂の風"
+    },
+    "en": {
+      "title": "蜂の風"
+    }
+  }
 }

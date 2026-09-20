@@ -19,5 +19,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "再来一单"
+    },
+    "zh": {
+      "title": "再来一单"
+    },
+    "en": {
+      "title": "再来一单"
+    }
+  }
 }

@@ -63,5 +63,16 @@
     "SER-006"
   ],
   "soloFirstDate": "2024-04-04",
-  "soloLastDate": "2024-11-22"
+  "soloLastDate": "2024-11-22",
+  "i18n": {
+    "ja": {
+      "title": "Plaything"
+    },
+    "zh": {
+      "title": "Plaything"
+    },
+    "en": {
+      "title": "Plaything"
+    }
+  }
 }

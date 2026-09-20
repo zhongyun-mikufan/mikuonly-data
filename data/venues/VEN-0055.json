@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 58
+  "sourceRow": 58,
+  "i18n": {
+    "ja": {
+      "name": "Spark Arena",
+      "city": "Auckland",
+      "countryRegion": "New Zealand"
+    },
+    "zh": {
+      "name": "Spark Arena",
+      "city": "Auckland",
+      "countryRegion": "新西兰"
+    },
+    "en": {
+      "name": "Spark Arena",
+      "city": "Auckland",
+      "countryRegion": "New Zealand"
+    }
+  }
 }

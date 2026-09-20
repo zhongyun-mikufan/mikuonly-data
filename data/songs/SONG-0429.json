@@ -43,5 +43,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "陽だまりのセツナ"
+    },
+    "zh": {
+      "title": "陽だまりのセツナ"
+    },
+    "en": {
+      "title": "Hidamari no Setsuna"
+    }
+  }
 }

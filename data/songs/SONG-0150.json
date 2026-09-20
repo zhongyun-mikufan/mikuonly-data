@@ -44,5 +44,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "アカツキアライヴァル"
+    },
+    "zh": {
+      "title": "晓之宿敌"
+    },
+    "en": {
+      "title": "Daybreak Arrival"
+    }
+  }
 }

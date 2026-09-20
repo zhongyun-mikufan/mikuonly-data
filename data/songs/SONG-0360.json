@@ -127,5 +127,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2017-09-01",
-  "soloLastDate": "2023-02-05"
+  "soloLastDate": "2023-02-05",
+  "i18n": {
+    "ja": {
+      "title": "砂の惑星"
+    },
+    "zh": {
+      "title": "砂之惑星"
+    },
+    "en": {
+      "title": "DUNE"
+    }
+  }
 }

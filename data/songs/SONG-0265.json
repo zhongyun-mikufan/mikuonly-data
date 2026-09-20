@@ -57,5 +57,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "ピアノ×フォルテ×スキャンダル"
+    },
+    "zh": {
+      "title": "ピアノ×フォルテ×スキャンダル"
+    },
+    "en": {
+      "title": "Piano × Forte × Scandal"
+    }
+  }
 }

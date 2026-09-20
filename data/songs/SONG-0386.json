@@ -43,5 +43,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "星空クロノグラフ"
+    },
+    "zh": {
+      "title": "星空クロノグラフ"
+    },
+    "en": {
+      "title": "Chronograph in the Starry Sky"
+    }
+  }
 }

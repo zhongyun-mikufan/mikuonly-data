@@ -43,5 +43,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2021-10-22",
-  "soloLastDate": "2021-11-07"
+  "soloLastDate": "2021-11-07",
+  "i18n": {
+    "ja": {
+      "title": "First Note"
+    },
+    "zh": {
+      "title": "First Note"
+    },
+    "en": {
+      "title": "First Note"
+    }
+  }
 }

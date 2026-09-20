@@ -34,5 +34,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "流星のパルス"
+    },
+    "zh": {
+      "title": "流星脉冲"
+    },
+    "en": {
+      "title": "Pulse of the Meteor"
+    }
+  }
 }

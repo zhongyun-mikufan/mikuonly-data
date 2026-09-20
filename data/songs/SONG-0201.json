@@ -93,5 +93,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2016-09-10",
-  "soloLastDate": "2026-02-14"
+  "soloLastDate": "2026-02-14",
+  "i18n": {
+    "ja": {
+      "title": "ゴーストルール"
+    },
+    "zh": {
+      "title": "幽灵法则"
+    },
+    "en": {
+      "title": "Ghost Rule"
+    }
+  }
 }

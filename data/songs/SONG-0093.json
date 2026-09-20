@@ -53,6 +53,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "Never Die"
+    },
+    "zh": {
+      "title": "Never Die"
+    },
     "en": {
       "title": "Never Die"
     }

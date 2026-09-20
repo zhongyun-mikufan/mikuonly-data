@@ -33,5 +33,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": null,
   "recordUnit": "performance",
-  "setlistScope": "none"
+  "setlistScope": "none",
+  "i18n": {
+    "ja": {
+      "name": "HATSUNE MIKU EXPO 2021 Online"
+    },
+    "zh": {
+      "name": "HATSUNE MIKU EXPO 2021 Online"
+    },
+    "en": {
+      "name": "HATSUNE MIKU EXPO 2021 Online"
+    }
+  }
 }

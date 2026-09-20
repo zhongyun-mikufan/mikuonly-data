@@ -161,5 +161,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2010-03-09",
-  "soloLastDate": "2025-05-31"
+  "soloLastDate": "2025-05-31",
+  "i18n": {
+    "ja": {
+      "title": "裏表ラバーズ"
+    },
+    "zh": {
+      "title": "里表情人"
+    },
+    "en": {
+      "title": "Ura-Omote Lovers"
+    }
+  }
 }

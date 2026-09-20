@@ -37,5 +37,16 @@
     "SER-003"
   ],
   "soloFirstDate": "2011-03-09",
-  "soloLastDate": "2014-05-29"
+  "soloLastDate": "2014-05-29",
+  "i18n": {
+    "ja": {
+      "title": "マージナル"
+    },
+    "zh": {
+      "title": "マージナル"
+    },
+    "en": {
+      "title": "Marginal"
+    }
+  }
 }

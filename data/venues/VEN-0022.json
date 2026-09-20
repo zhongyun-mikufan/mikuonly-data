@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 25
+  "sourceRow": 25,
+  "i18n": {
+    "ja": {
+      "name": "Axiata Arena",
+      "city": "Kuala Lumpur",
+      "countryRegion": "Malaysia"
+    },
+    "zh": {
+      "name": "Axiata Arena",
+      "city": "Kuala Lumpur",
+      "countryRegion": "马来西亚"
+    },
+    "en": {
+      "name": "Axiata Arena",
+      "city": "Kuala Lumpur",
+      "countryRegion": "Malaysia"
+    }
+  }
 }

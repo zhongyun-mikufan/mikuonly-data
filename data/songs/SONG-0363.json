@@ -81,5 +81,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2017-03-04",
-  "soloLastDate": "2024-03-31"
+  "soloLastDate": "2024-03-31",
+  "i18n": {
+    "ja": {
+      "title": "桜ノ雨"
+    },
+    "zh": {
+      "title": "樱之雨"
+    },
+    "en": {
+      "title": "Sakura Rain"
+    }
+  }
 }

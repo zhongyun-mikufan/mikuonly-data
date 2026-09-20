@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 76
+  "sourceRow": 76,
+  "i18n": {
+    "ja": {
+      "name": "H-E-B Center at Cedar Park",
+      "city": "Cedar Park",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "H-E-B Center at Cedar Park",
+      "city": "Cedar Park",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "H-E-B Center at Cedar Park",
+      "city": "Cedar Park",
+      "countryRegion": "United States"
+    }
+  }
 }

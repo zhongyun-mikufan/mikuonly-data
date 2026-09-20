@@ -23,5 +23,16 @@
     "SER-001"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2009-08-31"
+  "soloLastDate": "2009-08-31",
+  "i18n": {
+    "ja": {
+      "title": "木枯らしの朝"
+    },
+    "zh": {
+      "title": "木枯らしの朝"
+    },
+    "en": {
+      "title": "Anyway the Wind Blows"
+    }
+  }
 }

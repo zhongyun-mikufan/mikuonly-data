@@ -63,5 +63,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2018-12-01",
-  "soloLastDate": "2024-11-20"
+  "soloLastDate": "2024-11-20",
+  "i18n": {
+    "ja": {
+      "title": "魔法みたいなミュージック！"
+    },
+    "zh": {
+      "title": "如魔法般的音乐！"
+    },
+    "en": {
+      "title": "Music Like Magic!"
+    }
+  }
 }

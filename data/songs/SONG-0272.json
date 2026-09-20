@@ -33,5 +33,16 @@
     "SER-002"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2012-03-09"
+  "soloLastDate": "2012-03-09",
+  "i18n": {
+    "ja": {
+      "title": "ファインダー (DSLR remix-re:edit)"
+    },
+    "zh": {
+      "title": "ファインダー (DSLR remix-re:edit)"
+    },
+    "en": {
+      "title": "ファインダー (DSLR remix-re:edit)"
+    }
+  }
 }

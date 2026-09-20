@@ -87,5 +87,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2025-04-19",
-  "soloLastDate": "2026-08-30"
+  "soloLastDate": "2026-08-30",
+  "i18n": {
+    "ja": {
+      "title": "Over Flow(er)"
+    },
+    "zh": {
+      "title": "Over Flow(er)"
+    },
+    "en": {
+      "title": "Over Flow(er)"
+    }
+  }
 }

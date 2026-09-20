@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.7948717948717948,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "ミクの日感謝祭 39's Giving Day Project DIVA Presents"
+    },
+    "zh": {
+      "name": "初音未来感谢祭 39's Giving Day Project DIVA Presents"
+    },
+    "en": {
+      "name": "Hatsune Miku 39's Giving Day - Project DIVA Presents"
+    }
+  }
 }

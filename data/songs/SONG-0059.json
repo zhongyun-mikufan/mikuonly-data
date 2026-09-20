@@ -17,6 +17,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "High-energy Particle (ELEVENPLAY)"
+    },
+    "zh": {
+      "title": "High-energy Particle (ELEVENPLAY)"
+    },
     "en": {
       "title": "High-energy Particle (ELEVENPLAY)"
     }

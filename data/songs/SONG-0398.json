@@ -67,5 +67,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "天才ロック"
+    },
+    "zh": {
+      "title": "天才摇滚"
+    },
+    "en": {
+      "title": "Genius Rock"
+    }
+  }
 }

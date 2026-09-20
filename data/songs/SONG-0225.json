@@ -73,5 +73,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "スノーマン"
+    },
+    "zh": {
+      "title": "Snowman"
+    },
+    "en": {
+      "title": "Snowman"
+    }
+  }
 }

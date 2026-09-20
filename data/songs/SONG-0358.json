@@ -21,5 +21,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "紅一葉"
+    },
+    "zh": {
+      "title": "紅一葉"
+    },
+    "en": {
+      "title": "Crimson Leaf"
+    }
+  }
 }

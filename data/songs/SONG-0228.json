@@ -63,5 +63,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2020-11-28",
-  "soloLastDate": "2025-05-31"
+  "soloLastDate": "2025-05-31",
+  "i18n": {
+    "ja": {
+      "title": "セカイ"
+    },
+    "zh": {
+      "title": "SEKAI"
+    },
+    "en": {
+      "title": "SEKAI"
+    }
+  }
 }

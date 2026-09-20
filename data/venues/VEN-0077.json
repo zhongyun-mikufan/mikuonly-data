@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 80
+  "sourceRow": 80,
+  "i18n": {
+    "ja": {
+      "name": "TD Coliseum",
+      "city": "Hamilton",
+      "countryRegion": "Canada"
+    },
+    "zh": {
+      "name": "TD Coliseum",
+      "city": "Hamilton",
+      "countryRegion": "加拿大"
+    },
+    "en": {
+      "name": "TD Coliseum",
+      "city": "Hamilton",
+      "countryRegion": "Canada"
+    }
+  }
 }

@@ -39,6 +39,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "Hello, Worker"
+    },
+    "zh": {
+      "title": "Hello, Worker"
+    },
     "en": {
       "title": "Hello, Worker"
     }

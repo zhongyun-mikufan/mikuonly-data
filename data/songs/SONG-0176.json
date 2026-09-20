@@ -39,5 +39,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2011-03-09",
-  "soloLastDate": "2020-12-18"
+  "soloLastDate": "2020-12-18",
+  "i18n": {
+    "ja": {
+      "title": "え？あぁ、そう。"
+    },
+    "zh": {
+      "title": "咦？啊，是。"
+    },
+    "en": {
+      "title": "E? Ah,sou."
+    }
+  }
 }

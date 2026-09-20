@@ -59,5 +59,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "リテラシー"
+    },
+    "zh": {
+      "title": "リテラシー"
+    },
+    "en": {
+      "title": "Literacy"
+    }
+  }
 }

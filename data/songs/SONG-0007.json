@@ -131,5 +131,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2016-09-10",
-  "soloLastDate": "2026-08-30"
+  "soloLastDate": "2026-08-30",
+  "i18n": {
+    "ja": {
+      "title": "39みゅーじっく！"
+    },
+    "zh": {
+      "title": "39みゅーじっく！"
+    },
+    "en": {
+      "title": "39Music!"
+    }
+  }
 }

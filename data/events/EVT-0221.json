@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 1,
   "recordUnit": "aggregate",
-  "setlistScope": "aggregate"
+  "setlistScope": "aggregate",
+  "i18n": {
+    "ja": {
+      "name": "DIVE XR FESTIVAL"
+    },
+    "zh": {
+      "name": "DIVE XR FESTIVAL"
+    },
+    "en": {
+      "name": "DIVE XR FESTIVAL"
+    }
+  }
 }

@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.6470588235294118,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "未来有你・HATSUNE MIKU WITH YOU 2021"
+    },
+    "zh": {
+      "name": "未来有你・HATSUNE MIKU WITH YOU 2021"
+    },
+    "en": {
+      "name": "HATSUNE MIKU WITH YOU 2021"
+    }
+  }
 }

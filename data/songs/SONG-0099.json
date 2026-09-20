@@ -71,5 +71,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "on the rocks"
+    },
+    "zh": {
+      "title": "on the rocks"
+    },
+    "en": {
+      "title": "on the rocks"
+    }
+  }
 }

@@ -43,5 +43,16 @@
     "SER-012"
   ],
   "soloFirstDate": "2025-12-20",
-  "soloLastDate": "2026-03-22"
+  "soloLastDate": "2026-03-22",
+  "i18n": {
+    "ja": {
+      "title": "ポケットのモンスター"
+    },
+    "zh": {
+      "title": "心中的宝可梦"
+    },
+    "en": {
+      "title": "The Pokémon Inside My Heart"
+    }
+  }
 }

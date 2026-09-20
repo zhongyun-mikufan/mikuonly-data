@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 11
+  "sourceRow": 11,
+  "i18n": {
+    "ja": {
+      "name": "Zepp Sapporo",
+      "city": "札幌",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "Zepp Sapporo",
+      "city": "札幌",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Zepp Sapporo",
+      "city": "Sapporo",
+      "countryRegion": "Japan"
+    }
+  }
 }

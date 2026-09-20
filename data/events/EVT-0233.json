@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.5,
   "recordUnit": "performance",
-  "setlistScope": "presence_only"
+  "setlistScope": "presence_only",
+  "i18n": {
+    "ja": {
+      "name": "PENTATONIC"
+    },
+    "zh": {
+      "name": "PENTATONIC"
+    },
+    "en": {
+      "name": "PENTATONIC"
+    }
+  }
 }

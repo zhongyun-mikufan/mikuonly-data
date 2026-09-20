@@ -45,5 +45,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "いいねってYEAH!"
+    },
+    "zh": {
+      "title": "いいねってYEAH!"
+    },
+    "en": {
+      "title": "Good is YEAH!"
+    }
+  }
 }

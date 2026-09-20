@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 73
+  "sourceRow": 73,
+  "i18n": {
+    "ja": {
+      "name": "Peacock Theater",
+      "city": "Los Angeles",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Peacock Theater",
+      "city": "Los Angeles",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Peacock Theater",
+      "city": "Los Angeles",
+      "countryRegion": "United States"
+    }
+  }
 }

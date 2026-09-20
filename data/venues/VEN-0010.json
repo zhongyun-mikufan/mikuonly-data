@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 13
+  "sourceRow": 13,
+  "i18n": {
+    "ja": {
+      "name": "WaMu Theater",
+      "city": "Seattle",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "WaMu Theater",
+      "city": "Seattle",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "WaMu Theater",
+      "city": "Seattle",
+      "countryRegion": "United States"
+    }
+  }
 }

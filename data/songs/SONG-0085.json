@@ -85,6 +85,12 @@
   "soloFirstDate": "2018-08-25",
   "soloLastDate": "2025-08-31",
   "i18n": {
+    "ja": {
+      "title": "METEOR"
+    },
+    "zh": {
+      "title": "METEOR"
+    },
     "en": {
       "title": "METEOR"
     }

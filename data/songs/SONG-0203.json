@@ -65,5 +65,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2019-02-09",
-  "soloLastDate": "2025-08-31"
+  "soloLastDate": "2025-08-31",
+  "i18n": {
+    "ja": {
+      "title": "こちら、幸福安心委員会です。"
+    },
+    "zh": {
+      "title": "这里是、幸福安心委员会。"
+    },
+    "en": {
+      "title": "This is the Happiness and Peace of Mind Committee"
+    }
+  }
 }

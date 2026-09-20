@@ -75,5 +75,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2018-06-02",
-  "soloLastDate": "2019-07-27"
+  "soloLastDate": "2019-07-27",
+  "i18n": {
+    "ja": {
+      "title": "ビバハピ"
+    },
+    "zh": {
+      "title": "ビバハピ"
+    },
+    "en": {
+      "title": "Viva Happy"
+    }
+  }
 }

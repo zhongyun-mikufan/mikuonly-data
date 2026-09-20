@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 42
+  "sourceRow": 42,
+  "i18n": {
+    "ja": {
+      "name": "Mullett Arena",
+      "city": "Tempe",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Mullett Arena",
+      "city": "Tempe",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Mullett Arena",
+      "city": "Tempe",
+      "countryRegion": "United States"
+    }
+  }
 }

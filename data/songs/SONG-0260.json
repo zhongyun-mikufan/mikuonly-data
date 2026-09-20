@@ -119,5 +119,16 @@
     "SER-002"
   ],
   "soloFirstDate": "2010-03-09",
-  "soloLastDate": "2026-08-30"
+  "soloLastDate": "2026-08-30",
+  "i18n": {
+    "ja": {
+      "title": "ハジメテノオト"
+    },
+    "zh": {
+      "title": "最初的声音"
+    },
+    "en": {
+      "title": "Hajimete no Oto"
+    }
+  }
 }

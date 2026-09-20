@@ -37,5 +37,16 @@
     "SER-006"
   ],
   "soloFirstDate": "2025-11-05",
-  "soloLastDate": "2025-11-29"
+  "soloLastDate": "2025-11-29",
+  "i18n": {
+    "ja": {
+      "title": "🔪、🔪、🔪 (Knife, Knife, Knife)"
+    },
+    "zh": {
+      "title": "🔪、🔪、🔪 (Knife, Knife, Knife)"
+    },
+    "en": {
+      "title": "🔪、🔪、🔪 (Knife, Knife, Knife)"
+    }
+  }
 }

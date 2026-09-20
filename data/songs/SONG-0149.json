@@ -27,5 +27,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2026-01-17",
-  "soloLastDate": "2026-01-18"
+  "soloLastDate": "2026-01-18",
+  "i18n": {
+    "ja": {
+      "title": "アイドル戦士"
+    },
+    "zh": {
+      "title": "アイドル戦士"
+    },
+    "en": {
+      "title": "アイドル戦士"
+    }
+  }
 }

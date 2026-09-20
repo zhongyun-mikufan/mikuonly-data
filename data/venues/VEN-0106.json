@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 98
+  "sourceRow": 98,
+  "i18n": {
+    "ja": {
+      "name": "Jing'an Sports Center",
+      "city": "Shanghai",
+      "countryRegion": "China"
+    },
+    "zh": {
+      "name": "Jing'an Sports Center",
+      "city": "Shanghai",
+      "countryRegion": "中国"
+    },
+    "en": {
+      "name": "Jing'an Sports Center",
+      "city": "Shanghai",
+      "countryRegion": "China"
+    }
+  }
 }

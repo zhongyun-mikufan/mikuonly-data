@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 70
+  "sourceRow": 70,
+  "i18n": {
+    "ja": {
+      "name": "Hwajeong Gymnasium",
+      "city": "Seoul",
+      "countryRegion": "South Korea"
+    },
+    "zh": {
+      "name": "Hwajeong Gymnasium",
+      "city": "Seoul",
+      "countryRegion": "韩国"
+    },
+    "en": {
+      "name": "Hwajeong Gymnasium",
+      "city": "Seoul",
+      "countryRegion": "South Korea"
+    }
+  }
 }

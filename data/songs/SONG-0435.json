@@ -119,5 +119,16 @@
     "SER-001"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2026-05-19"
+  "soloLastDate": "2026-05-19",
+  "i18n": {
+    "ja": {
+      "title": "恋は戦争"
+    },
+    "zh": {
+      "title": "恋爱战争"
+    },
+    "en": {
+      "title": "Love is War"
+    }
+  }
 }

@@ -52,5 +52,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "GEDO"
+    },
+    "zh": {
+      "title": "GEDO"
+    },
+    "en": {
+      "title": "GEDO"
+    }
+  }
 }

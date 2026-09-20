@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 20
+  "sourceRow": 20,
+  "i18n": {
+    "ja": {
+      "name": "Auditorio Banamex",
+      "city": "Monterrey",
+      "countryRegion": "Mexico"
+    },
+    "zh": {
+      "name": "Auditorio Banamex",
+      "city": "Monterrey",
+      "countryRegion": "墨西哥"
+    },
+    "en": {
+      "name": "Auditorio Banamex",
+      "city": "Monterrey",
+      "countryRegion": "Mexico"
+    }
+  }
 }

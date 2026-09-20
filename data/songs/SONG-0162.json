@@ -71,5 +71,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2024-08-17",
-  "soloLastDate": "2025-08-31"
+  "soloLastDate": "2025-08-31",
+  "i18n": {
+    "ja": {
+      "title": "アンテナ39"
+    },
+    "zh": {
+      "title": "アンテナ39"
+    },
+    "en": {
+      "title": "Antenna 39"
+    }
+  }
 }

@@ -7,5 +7,22 @@
   "capacityNote": "当時資料の最大収容人数参考",
   "capacitySourceUrl": "https://w.atwiki.jp/hmiku/pages/67185.html",
   "verificationStatus": "ユーザー確認済み",
-  "sourceRow": 105
+  "sourceRow": 105,
+  "i18n": {
+    "ja": {
+      "name": "新木場STUDIO COAST",
+      "city": "東京",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "新木场STUDIO COAST",
+      "city": "东京",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Shinkiba STUDIO COAST",
+      "city": "Tokyo",
+      "countryRegion": "Japan"
+    }
+  }
 }

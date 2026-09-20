@@ -35,6 +35,12 @@
   "soloFirstDate": "2016-09-10",
   "soloLastDate": "2017-11-25",
   "i18n": {
+    "ja": {
+      "title": "Strangers"
+    },
+    "zh": {
+      "title": "Strangers"
+    },
     "en": {
       "title": "Strangers"
     }

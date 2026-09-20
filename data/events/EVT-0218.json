@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 1,
   "recordUnit": "performance",
-  "setlistScope": "presence_only"
+  "setlistScope": "presence_only",
+  "i18n": {
+    "ja": {
+      "name": "Hard Rock Family Live"
+    },
+    "zh": {
+      "name": "Hard Rock Family Live"
+    },
+    "en": {
+      "name": "Hard Rock Family Live"
+    }
+  }
 }

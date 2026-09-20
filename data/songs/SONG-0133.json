@@ -449,6 +449,12 @@
   "soloFirstDate": "2012-03-09",
   "soloLastDate": "2026-01-18",
   "i18n": {
+    "ja": {
+      "title": "Tell Your World"
+    },
+    "zh": {
+      "title": "Tell Your World"
+    },
     "en": {
       "title": "Tell Your World"
     }

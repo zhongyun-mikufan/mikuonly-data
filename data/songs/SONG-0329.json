@@ -25,5 +25,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "ロストワンの号哭"
+    },
+    "zh": {
+      "title": "Lost One的号哭"
+    },
+    "en": {
+      "title": "Lost One's Weeping"
+    }
+  }
 }

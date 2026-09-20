@@ -23,5 +23,16 @@
     "SER-001"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2009-08-31"
+  "soloLastDate": "2009-08-31",
+  "i18n": {
+    "ja": {
+      "title": "恋は戦争 (future retro remix by kz)"
+    },
+    "zh": {
+      "title": "恋は戦争 (future retro remix by kz)"
+    },
+    "en": {
+      "title": "恋は戦争 (future retro remix by kz)"
+    }
+  }
 }

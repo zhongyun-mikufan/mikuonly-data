@@ -99,6 +99,12 @@
   "soloFirstDate": "2013-02-09",
   "soloLastDate": "2024-10-14",
   "i18n": {
+    "ja": {
+      "title": "letter song"
+    },
+    "zh": {
+      "title": "letter song"
+    },
     "en": {
       "title": "letter song"
     }

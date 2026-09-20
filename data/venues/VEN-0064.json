@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 67
+  "sourceRow": 67,
+  "i18n": {
+    "ja": {
+      "name": "The Star Theatre",
+      "city": "Singapore",
+      "countryRegion": "Singapore"
+    },
+    "zh": {
+      "name": "The Star Theatre",
+      "city": "Singapore",
+      "countryRegion": "新加坡"
+    },
+    "en": {
+      "name": "The Star Theatre",
+      "city": "Singapore",
+      "countryRegion": "Singapore"
+    }
+  }
 }

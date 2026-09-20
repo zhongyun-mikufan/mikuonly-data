@@ -74,6 +74,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "Change me"
+    },
+    "zh": {
+      "title": "Change me"
+    },
     "en": {
       "title": "Change me"
     }

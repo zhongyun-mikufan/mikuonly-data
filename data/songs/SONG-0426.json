@@ -23,5 +23,16 @@
     "SER-004"
   ],
   "soloFirstDate": "2026-01-24",
-  "soloLastDate": "2026-01-24"
+  "soloLastDate": "2026-01-24",
+  "i18n": {
+    "ja": {
+      "title": "幽霊東京"
+    },
+    "zh": {
+      "title": "幽灵东京"
+    },
+    "en": {
+      "title": "Ghost City Tokyo"
+    }
+  }
 }

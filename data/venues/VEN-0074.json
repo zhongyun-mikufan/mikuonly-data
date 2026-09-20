@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 77
+  "sourceRow": 77,
+  "i18n": {
+    "ja": {
+      "name": "Gas South Arena",
+      "city": "Duluth",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Gas South Arena",
+      "city": "Duluth",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Gas South Arena",
+      "city": "Duluth",
+      "countryRegion": "United States"
+    }
+  }
 }

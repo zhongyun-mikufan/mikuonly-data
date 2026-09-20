@@ -2,9 +2,30 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "MikuOnly venue",
   "type": "object",
+  "$defs": {
+    "localizedVenue": {
+      "type": "object",
+      "required": ["name", "city", "countryRegion"],
+      "properties": {
+        "name": { "type": "string", "minLength": 1 },
+        "city": { "type": "string", "minLength": 1 },
+        "countryRegion": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    }
+  },
   "required": ["id"],
   "properties": {
-    "id": { "type": "string", "minLength": 1 }
+    "id": { "type": "string", "minLength": 1 },
+    "i18n": {
+      "type": "object",
+      "properties": {
+        "ja": { "$ref": "#/$defs/localizedVenue" },
+        "zh": { "$ref": "#/$defs/localizedVenue" },
+        "en": { "$ref": "#/$defs/localizedVenue" }
+      },
+      "additionalProperties": false
+    }
   },
   "additionalProperties": true
 }

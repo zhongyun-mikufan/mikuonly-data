@@ -179,5 +179,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2018-08-25",
-  "soloLastDate": "2026-01-18"
+  "soloLastDate": "2026-01-18",
+  "i18n": {
+    "ja": {
+      "title": "アンノウン・マザーグース"
+    },
+    "zh": {
+      "title": "Unknown Mother-Goose"
+    },
+    "en": {
+      "title": "Unknown Mother-Goose"
+    }
+  }
 }

@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0,
   "recordUnit": "aggregate",
-  "setlistScope": "aggregate"
+  "setlistScope": "aggregate",
+  "i18n": {
+    "ja": {
+      "name": "SATELIGHT 30th Anniversary SATEFES！"
+    },
+    "zh": {
+      "name": "SATELIGHT 30th Anniversary SATEFES！"
+    },
+    "en": {
+      "name": "SATELIGHT 30th Anniversary SATEFES！"
+    }
+  }
 }

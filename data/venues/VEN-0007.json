@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 10
+  "sourceRow": 10,
+  "i18n": {
+    "ja": {
+      "name": "Zepp Nagoya",
+      "city": "名古屋",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "Zepp Nagoya",
+      "city": "名古屋",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Zepp Nagoya",
+      "city": "Nagoya",
+      "countryRegion": "Japan"
+    }
+  }
 }

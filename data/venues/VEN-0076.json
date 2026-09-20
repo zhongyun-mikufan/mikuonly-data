@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 79
+  "sourceRow": 79,
+  "i18n": {
+    "ja": {
+      "name": "Wang Theatre At The Boch Center",
+      "city": "Boston",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Wang Theatre At The Boch Center",
+      "city": "Boston",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Wang Theatre At The Boch Center",
+      "city": "Boston",
+      "countryRegion": "United States"
+    }
+  }
 }

@@ -45,5 +45,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2013-08-30",
-  "soloLastDate": "2019-08-31"
+  "soloLastDate": "2019-08-31",
+  "i18n": {
+    "ja": {
+      "title": "どうぶつ占い"
+    },
+    "zh": {
+      "title": "どうぶつ占い"
+    },
+    "en": {
+      "title": "Animal Fortune-telling"
+    }
+  }
 }

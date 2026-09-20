@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 24
+  "sourceRow": 24,
+  "i18n": {
+    "ja": {
+      "name": "Beijing Exhibition Center",
+      "city": "Beijing",
+      "countryRegion": "China"
+    },
+    "zh": {
+      "name": "北京展览馆",
+      "city": "Beijing",
+      "countryRegion": "中国"
+    },
+    "en": {
+      "name": "Beijing Exhibition Center",
+      "city": "Beijing",
+      "countryRegion": "China"
+    }
+  }
 }

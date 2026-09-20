@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": null,
   "recordUnit": "performance",
-  "setlistScope": "none"
+  "setlistScope": "none",
+  "i18n": {
+    "ja": {
+      "name": "初音ミク×TOUCH！WOWOW2014 スペシャルライブ"
+    },
+    "zh": {
+      "name": "初音未来×TOUCH！WOWOW2014 Special Live"
+    },
+    "en": {
+      "name": "Hatsune Miku × TOUCH! WOWOW 2014 Special Live"
+    }
+  }
 }

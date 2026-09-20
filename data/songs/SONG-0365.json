@@ -53,5 +53,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2018-02-09",
-  "soloLastDate": "2025-05-31"
+  "soloLastDate": "2025-05-31",
+  "i18n": {
+    "ja": {
+      "title": "四角い地球を丸くする"
+    },
+    "zh": {
+      "title": "将方形地球变圆"
+    },
+    "en": {
+      "title": "Round off the Square Earth"
+    }
+  }
 }

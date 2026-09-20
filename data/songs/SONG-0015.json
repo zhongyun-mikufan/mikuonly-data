@@ -51,6 +51,12 @@
   "soloFirstDate": "2017-09-01",
   "soloLastDate": "2019-02-10",
   "i18n": {
+    "ja": {
+      "title": "Birthday"
+    },
+    "zh": {
+      "title": "Birthday"
+    },
     "en": {
       "title": "Birthday"
     }

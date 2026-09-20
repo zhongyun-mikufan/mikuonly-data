@@ -77,5 +77,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "Gimme×Gimme"
+    },
+    "zh": {
+      "title": "Gimme×Gimme"
+    },
+    "en": {
+      "title": "Gimme×Gimme"
+    }
+  }
 }

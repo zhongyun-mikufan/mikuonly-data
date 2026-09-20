@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 46
+  "sourceRow": 46,
+  "i18n": {
+    "ja": {
+      "name": "Gateway Center Arena",
+      "city": "College Park",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Gateway Center Arena",
+      "city": "College Park",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Gateway Center Arena",
+      "city": "College Park",
+      "countryRegion": "United States"
+    }
+  }
 }

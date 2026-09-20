@@ -34,5 +34,16 @@
   "unknownTrackCount": 1,
   "mikuSoloRatio": 0,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "HATSUNE MIKU EXPO 2026 EUROPE"
+    },
+    "zh": {
+      "name": "HATSUNE MIKU EXPO 2026 EUROPE"
+    },
+    "en": {
+      "name": "HATSUNE MIKU EXPO 2026 EUROPE"
+    }
+  }
 }

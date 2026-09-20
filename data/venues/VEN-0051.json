@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 54
+  "sourceRow": 54,
+  "i18n": {
+    "ja": {
+      "name": "ING Arena",
+      "city": "Brussels",
+      "countryRegion": "Belgium"
+    },
+    "zh": {
+      "name": "ING Arena",
+      "city": "Brussels",
+      "countryRegion": "比利时"
+    },
+    "en": {
+      "name": "ING Arena",
+      "city": "Brussels",
+      "countryRegion": "Belgium"
+    }
+  }
 }

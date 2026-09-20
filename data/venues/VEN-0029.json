@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 32
+  "sourceRow": 32,
+  "i18n": {
+    "ja": {
+      "name": "Olympia London",
+      "city": "London",
+      "countryRegion": "United Kingdom"
+    },
+    "zh": {
+      "name": "Olympia London",
+      "city": "London",
+      "countryRegion": "英国"
+    },
+    "en": {
+      "name": "Olympia London",
+      "city": "London",
+      "countryRegion": "United Kingdom"
+    }
+  }
 }

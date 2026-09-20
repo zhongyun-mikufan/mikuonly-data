@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 1,
   "recordUnit": "performance",
-  "setlistScope": "presence_only"
+  "setlistScope": "presence_only",
+  "i18n": {
+    "ja": {
+      "name": "JOIN ALIVE 2015"
+    },
+    "zh": {
+      "name": "JOIN ALIVE 2015"
+    },
+    "en": {
+      "name": "JOIN ALIVE 2015"
+    }
+  }
 }

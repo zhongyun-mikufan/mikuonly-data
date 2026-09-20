@@ -35,5 +35,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "HELLO, NEW WORLD!"
+    },
+    "zh": {
+      "title": "HELLO, NEW WORLD!"
+    },
+    "en": {
+      "title": "HELLO, NEW WORLD!"
+    }
+  }
 }

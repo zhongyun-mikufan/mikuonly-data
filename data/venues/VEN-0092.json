@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "確認済み",
-  "sourceRow": 92
+  "sourceRow": 92,
+  "i18n": {
+    "ja": {
+      "name": "札幌文化芸術劇場 hitaru",
+      "city": "札幌",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "札幌文化艺术剧场 hitaru",
+      "city": "札幌",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Sapporo Cultural Arts Theater hitaru",
+      "city": "Sapporo",
+      "countryRegion": "Japan"
+    }
+  }
 }

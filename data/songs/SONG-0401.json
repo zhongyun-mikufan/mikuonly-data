@@ -77,5 +77,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "東京テディベア"
+    },
+    "zh": {
+      "title": "东京泰迪熊"
+    },
+    "en": {
+      "title": "Tokyo Teddy Bear"
+    }
+  }
 }

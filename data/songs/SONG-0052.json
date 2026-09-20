@@ -91,8 +91,14 @@
   "soloFirstDate": "2013-08-30",
   "soloLastDate": "2023-06-04",
   "i18n": {
+    "ja": {
+      "title": "glow"
+    },
+    "zh": {
+      "title": "glow"
+    },
     "en": {
-      "title": "Glow"
+      "title": "glow"
     }
   }
 }

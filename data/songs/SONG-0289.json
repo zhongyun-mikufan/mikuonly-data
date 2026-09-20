@@ -73,5 +73,16 @@
     "SER-012"
   ],
   "soloFirstDate": "2024-08-17",
-  "soloLastDate": "2026-03-22"
+  "soloLastDate": "2026-03-22",
+  "i18n": {
+    "ja": {
+      "title": "ボルテッカー"
+    },
+    "zh": {
+      "title": "伏特攻击"
+    },
+    "en": {
+      "title": "Volt Tackle"
+    }
+  }
 }

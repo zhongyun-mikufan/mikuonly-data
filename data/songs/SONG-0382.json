@@ -163,5 +163,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2013-08-30",
-  "soloLastDate": "2026-01-18"
+  "soloLastDate": "2026-01-18",
+  "i18n": {
+    "ja": {
+      "title": "深海少女"
+    },
+    "zh": {
+      "title": "深海少女"
+    },
+    "en": {
+      "title": "Shinkai Shoujo"
+    }
+  }
 }

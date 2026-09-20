@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 8
+  "sourceRow": 8,
+  "i18n": {
+    "ja": {
+      "name": "Zepp Fukuoka",
+      "city": "福岡",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "Zepp Fukuoka",
+      "city": "福冈",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Zepp Fukuoka",
+      "city": "Fukuoka",
+      "countryRegion": "Japan"
+    }
+  }
 }

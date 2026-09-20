@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.68,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "未来有你・HATSUNE MIKU WITH YOU 2018 未来之旅・期待有你"
+    },
+    "zh": {
+      "name": "未来有你・HATSUNE MIKU WITH YOU 2018 未来之旅・期待有你"
+    },
+    "en": {
+      "name": "HATSUNE MIKU WITH YOU 2018 未来之旅・期待有你"
+    }
+  }
 }

@@ -23,6 +23,12 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
+    "ja": {
+      "title": "Nostalogic (MEIKO-SAN mix)"
+    },
+    "zh": {
+      "title": "Nostalogic (MEIKO-SAN mix)"
+    },
     "en": {
       "title": "Nostalogic (MEIKO-SAN mix)"
     }

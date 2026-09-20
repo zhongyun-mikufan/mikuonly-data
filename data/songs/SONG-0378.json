@@ -33,5 +33,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "心がどっか寂しいんだ"
+    },
+    "zh": {
+      "title": "心がどっか寂しいんだ"
+    },
+    "en": {
+      "title": "＃I Feel Kinda Lonely"
+    }
+  }
 }

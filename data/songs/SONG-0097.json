@@ -49,6 +49,12 @@
   "soloFirstDate": "2017-09-01",
   "soloLastDate": "2018-07-19",
   "i18n": {
+    "ja": {
+      "title": "Nyanyanyanyanyanyanya!"
+    },
+    "zh": {
+      "title": "Nyanyanyanyanyanyanya!"
+    },
     "en": {
       "title": "Nyanyanyanyanyanyanya!"
     }

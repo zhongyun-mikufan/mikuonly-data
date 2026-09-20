@@ -25,5 +25,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2017-11-25",
-  "soloLastDate": "2017-11-25"
+  "soloLastDate": "2017-11-25",
+  "i18n": {
+    "ja": {
+      "title": "你好 (Nǐhǎo)"
+    },
+    "zh": {
+      "title": "你好 (Nǐhǎo)"
+    },
+    "en": {
+      "title": "你好 (Nǐhǎo)"
+    }
+  }
 }

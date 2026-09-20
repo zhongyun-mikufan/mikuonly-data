@@ -33,5 +33,16 @@
   "mikuSoloRatio": null,
   "recordUnit": "performance",
   "setlistScope": "none",
-  "importCategory": "2026年公式公演情報"
+  "importCategory": "2026年公式公演情報",
+  "i18n": {
+    "ja": {
+      "name": "MIKU WITH YOU 2026"
+    },
+    "zh": {
+      "name": "未来有你・HATSUNE MIKU WITH YOU 2026"
+    },
+    "en": {
+      "name": "MIKU WITH YOU 2026"
+    }
+  }
 }

@@ -29,5 +29,16 @@
     "SER-002"
   ],
   "soloFirstDate": "2011-07-02",
-  "soloLastDate": "2012-03-09"
+  "soloLastDate": "2012-03-09",
+  "i18n": {
+    "ja": {
+      "title": "クローバー♣クラブ"
+    },
+    "zh": {
+      "title": "クローバー♣クラブ"
+    },
+    "en": {
+      "title": "Clover♣Club"
+    }
+  }
 }

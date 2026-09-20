@@ -133,5 +133,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2011-03-09",
-  "soloLastDate": "2025-11-30"
+  "soloLastDate": "2025-11-30",
+  "i18n": {
+    "ja": {
+      "title": "ローリンガール"
+    },
+    "zh": {
+      "title": "Rolling Girl"
+    },
+    "en": {
+      "title": "Rollin Girl"
+    }
+  }
 }

@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.7058823529411765,
   "recordUnit": "performance",
-  "setlistScope": "presence_only"
+  "setlistScope": "presence_only",
+  "i18n": {
+    "ja": {
+      "name": "UNTITLED 0"
+    },
+    "zh": {
+      "name": "UNTITLED 0"
+    },
+    "en": {
+      "name": "UNTITLED 0"
+    }
+  }
 }

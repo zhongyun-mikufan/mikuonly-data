@@ -21,8 +21,14 @@
   "soloFirstDate": null,
   "soloLastDate": null,
   "i18n": {
-    "en": {
+    "ja": {
       "title": "Re:Actor"
+    },
+    "zh": {
+      "title": "Re:Actor"
+    },
+    "en": {
+      "title": "Meltdown"
     }
   }
 }

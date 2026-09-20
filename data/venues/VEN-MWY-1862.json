@@ -7,5 +7,22 @@
   "capacityNote": "公演時構成の収容人数は未確認",
   "capacitySourceUrl": "https://blog.piapro.net/2018/09/z180920-1.html",
   "verificationStatus": "会場確認済み／キャパ未確認",
-  "sourceRow": 102
+  "sourceRow": 102,
+  "i18n": {
+    "ja": {
+      "name": "1862時尚芸術中心",
+      "city": "上海",
+      "countryRegion": "中国大陸"
+    },
+    "zh": {
+      "name": "1862时尚艺术中心",
+      "city": "上海",
+      "countryRegion": "中国大陆"
+    },
+    "en": {
+      "name": "1862 Fashion Art Center",
+      "city": "Shanghai",
+      "countryRegion": "Mainland China"
+    }
+  }
 }

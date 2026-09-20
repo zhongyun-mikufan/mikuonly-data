@@ -23,5 +23,16 @@
     "SER-001"
   ],
   "soloFirstDate": "2009-08-31",
-  "soloLastDate": "2009-08-31"
+  "soloLastDate": "2009-08-31",
+  "i18n": {
+    "ja": {
+      "title": "HATUNEtive"
+    },
+    "zh": {
+      "title": "HATUNEtive"
+    },
+    "en": {
+      "title": "HATUNEtive"
+    }
+  }
 }

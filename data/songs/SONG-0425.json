@@ -42,5 +42,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "夜舞うシルエット"
+    },
+    "zh": {
+      "title": "夜舞剪影"
+    },
+    "en": {
+      "title": "Silhouette Dancing in the Night"
+    }
+  }
 }

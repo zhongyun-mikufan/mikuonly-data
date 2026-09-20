@@ -77,5 +77,16 @@
     "SER-003"
   ],
   "soloFirstDate": "2011-03-09",
-  "soloLastDate": "2024-07-28"
+  "soloLastDate": "2024-07-28",
+  "i18n": {
+    "ja": {
+      "title": "タイムマシン"
+    },
+    "zh": {
+      "title": "タイムマシン"
+    },
+    "en": {
+      "title": "Time Machine"
+    }
+  }
 }

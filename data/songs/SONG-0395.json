@@ -111,5 +111,16 @@
     "SER-008"
   ],
   "soloFirstDate": "2020-11-28",
-  "soloLastDate": "2025-11-29"
+  "soloLastDate": "2025-11-29",
+  "i18n": {
+    "ja": {
+      "title": "太陽系デスコ"
+    },
+    "zh": {
+      "title": "太阳系Disco"
+    },
+    "en": {
+      "title": "Solar System Disco"
+    }
+  }
 }

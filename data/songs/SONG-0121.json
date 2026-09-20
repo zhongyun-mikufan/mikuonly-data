@@ -61,5 +61,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2015-02-07",
-  "soloLastDate": "2025-05-17"
+  "soloLastDate": "2025-05-17",
+  "i18n": {
+    "ja": {
+      "title": "Snow Fairy Story"
+    },
+    "zh": {
+      "title": "Snow Fairy Story"
+    },
+    "en": {
+      "title": "Snow Fairy Story"
+    }
+  }
 }

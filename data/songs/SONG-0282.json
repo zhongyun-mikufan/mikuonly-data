@@ -65,5 +65,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2019-07-19",
-  "soloLastDate": "2019-11-24"
+  "soloLastDate": "2019-11-24",
+  "i18n": {
+    "ja": {
+      "title": "ぶれないアイで"
+    },
+    "zh": {
+      "title": "坚定的Eye"
+    },
+    "en": {
+      "title": "Burenai ai de"
+    }
+  }
 }

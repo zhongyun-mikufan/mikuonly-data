@@ -21,5 +21,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "能菅＋平胴"
+    },
+    "zh": {
+      "title": "能菅＋平胴"
+    },
+    "en": {
+      "title": "能菅＋平胴"
+    }
+  }
 }

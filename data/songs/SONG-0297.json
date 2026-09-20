@@ -25,5 +25,16 @@
     "SER-002"
   ],
   "soloFirstDate": "2010-03-09",
-  "soloLastDate": "2010-03-09"
+  "soloLastDate": "2010-03-09",
+  "i18n": {
+    "ja": {
+      "title": "みくみく菌にご注意!"
+    },
+    "zh": {
+      "title": "みくみく菌にご注意!"
+    },
+    "en": {
+      "title": "Beware of the Miku Miku Germs♪ (PD)"
+    }
+  }
 }

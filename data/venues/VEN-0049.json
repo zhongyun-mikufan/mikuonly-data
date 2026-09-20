@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 52
+  "sourceRow": 52,
+  "i18n": {
+    "ja": {
+      "name": "Coca-Cola Coliseum",
+      "city": "Toronto",
+      "countryRegion": "Canada"
+    },
+    "zh": {
+      "name": "Coca-Cola Coliseum",
+      "city": "Toronto",
+      "countryRegion": "加拿大"
+    },
+    "en": {
+      "name": "Coca-Cola Coliseum",
+      "city": "Toronto",
+      "countryRegion": "Canada"
+    }
+  }
 }

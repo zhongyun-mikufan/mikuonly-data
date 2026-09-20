@@ -127,5 +127,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2019-05-11",
-  "soloLastDate": "2024-11-26"
+  "soloLastDate": "2024-11-26",
+  "i18n": {
+    "ja": {
+      "title": "ラッキー☆オーブ"
+    },
+    "zh": {
+      "title": "ラッキー☆オーブ"
+    },
+    "en": {
+      "title": "Lucky☆Orb"
+    }
+  }
 }

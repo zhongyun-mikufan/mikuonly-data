@@ -127,5 +127,16 @@
     "SER-008"
   ],
   "soloFirstDate": "2018-08-25",
-  "soloLastDate": "2024-10-13"
+  "soloLastDate": "2024-10-13",
+  "i18n": {
+    "ja": {
+      "title": "グリーンライツ・セレナーデ"
+    },
+    "zh": {
+      "title": "Greenlights Serenade"
+    },
+    "en": {
+      "title": "Greenlights Serenade"
+    }
+  }
 }

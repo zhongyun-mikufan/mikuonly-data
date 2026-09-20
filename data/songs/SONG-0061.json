@@ -57,6 +57,12 @@
   "soloFirstDate": "2016-04-23",
   "soloLastDate": "2016-06-26",
   "i18n": {
+    "ja": {
+      "title": "Hoshi no Kakera"
+    },
+    "zh": {
+      "title": "Hoshi no Kakera"
+    },
     "en": {
       "title": "Fragments of a Star"
     }

@@ -52,5 +52,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "星屑ユートピア"
+    },
+    "zh": {
+      "title": "星屑ユートピア"
+    },
+    "en": {
+      "title": "Stardust Utopia"
+    }
+  }
 }

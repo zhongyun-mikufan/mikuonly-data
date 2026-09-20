@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.5641025641025641,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "ミクパ 2011 in Tokyo"
+    },
+    "zh": {
+      "name": "MIKUPA 2011 in Tokyo"
+    },
+    "en": {
+      "name": "MikuPa 2011 in Tokyo"
+    }
+  }
 }

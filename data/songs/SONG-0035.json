@@ -129,5 +129,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2017-09-01",
-  "soloLastDate": "2026-05-19"
+  "soloLastDate": "2026-05-19",
+  "i18n": {
+    "ja": {
+      "title": "DECORATOR"
+    },
+    "zh": {
+      "title": "DECORATOR"
+    },
+    "en": {
+      "title": "DECORATOR"
+    }
+  }
 }

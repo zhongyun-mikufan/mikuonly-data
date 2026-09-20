@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 62
+  "sourceRow": 62,
+  "i18n": {
+    "ja": {
+      "name": "Perth Arena",
+      "city": "Perth",
+      "countryRegion": "Australia"
+    },
+    "zh": {
+      "name": "Perth Arena",
+      "city": "Perth",
+      "countryRegion": "澳大利亚"
+    },
+    "en": {
+      "name": "Perth Arena",
+      "city": "Perth",
+      "countryRegion": "Australia"
+    }
+  }
 }

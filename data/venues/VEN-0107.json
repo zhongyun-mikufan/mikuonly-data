@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 104
+  "sourceRow": 104,
+  "i18n": {
+    "ja": {
+      "name": "NHKホール",
+      "city": "東京",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "NHK Hall",
+      "city": "东京",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "NHK Hall",
+      "city": "Tokyo",
+      "countryRegion": "Japan"
+    }
+  }
 }

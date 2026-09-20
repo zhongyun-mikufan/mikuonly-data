@@ -25,6 +25,12 @@
   "soloFirstDate": "2017-12-16",
   "soloLastDate": "2017-12-16",
   "i18n": {
+    "ja": {
+      "title": "Chentaku (Miku Cover)"
+    },
+    "zh": {
+      "title": "Chentaku (Miku Cover)"
+    },
     "en": {
       "title": "My Love"
     }

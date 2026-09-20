@@ -171,5 +171,16 @@
     "SER-009"
   ],
   "soloFirstDate": "2013-08-30",
-  "soloLastDate": "2026-08-30"
+  "soloLastDate": "2026-08-30",
+  "i18n": {
+    "ja": {
+      "title": "アンハッピーリフレイン"
+    },
+    "zh": {
+      "title": "Unhappy Refrain"
+    },
+    "en": {
+      "title": "Unhappy Refrain"
+    }
+  }
 }

@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.7307692307692307,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "HATSUNE MIKU EXPO 2018 EUROPE"
+    },
+    "zh": {
+      "name": "HATSUNE MIKU EXPO 2018 EUROPE"
+    },
+    "en": {
+      "name": "HATSUNE MIKU EXPO 2018 EUROPE"
+    }
+  }
 }

@@ -7,5 +7,22 @@
   "capacityNote": "会場確認済み／公演時キャパ未確認",
   "capacitySourceUrl": "https://blog.piapro.net/2013/03/inkansai.html",
   "verificationStatus": "公式資料で確認済み",
-  "sourceRow": 111
+  "sourceRow": 111,
+  "i18n": {
+    "ja": {
+      "name": "和歌山ビッグホエール",
+      "city": "和歌山",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "和歌山Big Whale",
+      "city": "和歌山",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "Wakayama Big Whale",
+      "city": "Wakayama",
+      "countryRegion": "Japan"
+    }
+  }
 }

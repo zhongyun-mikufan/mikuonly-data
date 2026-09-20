@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 45
+  "sourceRow": 45,
+  "i18n": {
+    "ja": {
+      "name": "The Factory in Deep Ellum",
+      "city": "Dallas",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "The Factory in Deep Ellum",
+      "city": "Dallas",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "The Factory in Deep Ellum",
+      "city": "Dallas",
+      "countryRegion": "United States"
+    }
+  }
 }

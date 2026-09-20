@@ -2,10 +2,27 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "MikuOnly event",
   "type": "object",
+  "$defs": {
+    "localizedName": {
+      "type": "object",
+      "required": ["name"],
+      "properties": { "name": { "type": "string", "minLength": 1 } },
+      "additionalProperties": false
+    }
+  },
   "required": ["id", "name", "recordUnit", "setlistScope"],
   "properties": {
     "id": { "type": "string", "minLength": 1 },
     "name": { "type": "string", "minLength": 1 },
+    "i18n": {
+      "type": "object",
+      "properties": {
+        "ja": { "$ref": "#/$defs/localizedName" },
+        "zh": { "$ref": "#/$defs/localizedName" },
+        "en": { "$ref": "#/$defs/localizedName" }
+      },
+      "additionalProperties": false
+    },
     "recordUnit": { "enum": ["performance", "aggregate"] },
     "setlistScope": { "enum": ["exact", "shared", "presence_only", "aggregate", "none"] }
   },

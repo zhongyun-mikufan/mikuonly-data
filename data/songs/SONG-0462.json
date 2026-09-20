@@ -56,5 +56,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2026-07-24",
-  "soloLastDate": "2026-08-30"
+  "soloLastDate": "2026-08-30",
+  "i18n": {
+    "ja": {
+      "title": "泥中に咲く"
+    },
+    "zh": {
+      "title": "绽放于泥泞中"
+    },
+    "en": {
+      "title": "Bloom in mud"
+    }
+  }
 }

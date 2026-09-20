@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 51
+  "sourceRow": 51,
+  "i18n": {
+    "ja": {
+      "name": "Auditorium Theatre",
+      "city": "Chicago",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Auditorium Theatre",
+      "city": "Chicago",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Auditorium Theatre",
+      "city": "Chicago",
+      "countryRegion": "United States"
+    }
+  }
 }

@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 85
+  "sourceRow": 85,
+  "i18n": {
+    "ja": {
+      "name": "Palacio Vistalegre",
+      "city": "Madrid",
+      "countryRegion": "Spain"
+    },
+    "zh": {
+      "name": "Palacio Vistalegre",
+      "city": "Madrid",
+      "countryRegion": "西班牙"
+    },
+    "en": {
+      "name": "Palacio Vistalegre",
+      "city": "Madrid",
+      "countryRegion": "Spain"
+    }
+  }
 }

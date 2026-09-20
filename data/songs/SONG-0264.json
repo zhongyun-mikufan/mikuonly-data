@@ -95,5 +95,16 @@
     "SER-005"
   ],
   "soloFirstDate": "2025-08-01",
-  "soloLastDate": "2026-05-19"
+  "soloLastDate": "2026-05-19",
+  "i18n": {
+    "ja": {
+      "title": "ヒアソビ"
+    },
+    "zh": {
+      "title": "玩火"
+    },
+    "en": {
+      "title": "Play-With-Fire"
+    }
+  }
 }

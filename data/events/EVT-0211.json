@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 1,
   "recordUnit": "aggregate",
-  "setlistScope": "aggregate"
+  "setlistScope": "aggregate",
+  "i18n": {
+    "ja": {
+      "name": "Lantis Festival 2015 in Las Vegas"
+    },
+    "zh": {
+      "name": "Lantis Festival 2015 in Las Vegas"
+    },
+    "en": {
+      "name": "Lantis Festival 2015 in Las Vegas"
+    }
+  }
 }

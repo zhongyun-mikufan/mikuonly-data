@@ -58,6 +58,12 @@
   "soloFirstDate": "2026-07-24",
   "soloLastDate": "2026-08-30",
   "i18n": {
+    "ja": {
+      "title": "ドーピングダンス"
+    },
+    "zh": {
+      "title": "ドーピングダンス"
+    },
     "en": {
       "title": "Doping Dance"
     }

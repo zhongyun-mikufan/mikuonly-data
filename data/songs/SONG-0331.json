@@ -106,5 +106,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "ワールズエンド・ダンスホール"
+    },
+    "zh": {
+      "title": "World's End Dancehall"
+    },
+    "en": {
+      "title": "World's End Dancehall"
+    }
+  }
 }

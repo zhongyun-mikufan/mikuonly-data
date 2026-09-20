@@ -143,6 +143,12 @@
   "soloFirstDate": "2016-03-23",
   "soloLastDate": "2024-11-22",
   "i18n": {
+    "ja": {
+      "title": "Ten Thousand Stars"
+    },
+    "zh": {
+      "title": "Ten Thousand Stars"
+    },
     "en": {
       "title": "Ten Thousand Stars"
     }

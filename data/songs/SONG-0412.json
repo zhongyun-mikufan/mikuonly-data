@@ -165,5 +165,16 @@
     "SER-007"
   ],
   "soloFirstDate": "2013-03-09",
-  "soloLastDate": "2023-03-25"
+  "soloLastDate": "2023-03-25",
+  "i18n": {
+    "ja": {
+      "title": "秘密警察"
+    },
+    "zh": {
+      "title": "秘密警察"
+    },
+    "en": {
+      "title": "Secret Police"
+    }
+  }
 }

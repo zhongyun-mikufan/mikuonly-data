@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0,
   "recordUnit": "aggregate",
-  "setlistScope": "aggregate"
+  "setlistScope": "aggregate",
+  "i18n": {
+    "ja": {
+      "name": "Ado SPECIAL LIVE 2024「心臓」"
+    },
+    "zh": {
+      "name": "Ado SPECIAL LIVE 2024「心臓」"
+    },
+    "en": {
+      "name": "Ado SPECIAL LIVE 2024「心臓」"
+    }
+  }
 }

@@ -7,5 +7,22 @@
   "capacityNote": "要確認",
   "capacitySourceUrl": null,
   "verificationStatus": "要確認",
-  "sourceRow": 31
+  "sourceRow": 31,
+  "i18n": {
+    "ja": {
+      "name": "Lanxess Arena",
+      "city": "Cologne",
+      "countryRegion": "Germany"
+    },
+    "zh": {
+      "name": "Lanxess Arena",
+      "city": "Cologne",
+      "countryRegion": "德国"
+    },
+    "en": {
+      "name": "Lanxess Arena",
+      "city": "Cologne",
+      "countryRegion": "Germany"
+    }
+  }
 }

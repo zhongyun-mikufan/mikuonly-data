@@ -34,5 +34,16 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 0.625,
   "recordUnit": "performance",
-  "setlistScope": "exact"
+  "setlistScope": "exact",
+  "i18n": {
+    "ja": {
+      "name": "HATSUNE MIKU EXPO 2025 ASIA"
+    },
+    "zh": {
+      "name": "HATSUNE MIKU EXPO 2025 ASIA"
+    },
+    "en": {
+      "name": "HATSUNE MIKU EXPO 2025 ASIA"
+    }
+  }
 }

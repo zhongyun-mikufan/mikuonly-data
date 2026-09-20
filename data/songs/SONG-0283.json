@@ -39,5 +39,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "フロイライン＝ビブリォチカ (Fräulein=Biblioteca)"
+    },
+    "zh": {
+      "title": "フロイライン＝ビブリォチカ (Fräulein=Biblioteca)"
+    },
+    "en": {
+      "title": "フロイライン＝ビブリォチカ (Fräulein=Biblioteca)"
+    }
+  }
 }

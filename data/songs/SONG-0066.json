@@ -19,5 +19,16 @@
   "soloEventIds": [],
   "soloSeriesIds": [],
   "soloFirstDate": null,
-  "soloLastDate": null
+  "soloLastDate": null,
+  "i18n": {
+    "ja": {
+      "title": "Japanese Ninja No.1"
+    },
+    "zh": {
+      "title": "Japanese Ninja No.1"
+    },
+    "en": {
+      "title": "Japanese Ninja No.1"
+    }
+  }
 }

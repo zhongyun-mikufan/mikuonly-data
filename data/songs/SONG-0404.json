@@ -91,5 +91,16 @@
     "SER-010"
   ],
   "soloFirstDate": "2013-08-30",
-  "soloLastDate": "2026-05-11"
+  "soloLastDate": "2026-05-11",
+  "i18n": {
+    "ja": {
+      "title": "二次元ドリームフィーバー"
+    },
+    "zh": {
+      "title": "二次元Dream Fever"
+    },
+    "en": {
+      "title": "2Dimension Dream Fever"
+    }
+  }
 }
