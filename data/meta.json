@@ -2,7 +2,7 @@
   "schemaVersion": 2,
   "catalogMeta": {
     "updatedAt": "2026-09-20",
-    "version": "v26",
+    "version": "v27",
     "sourceFile": "mikuonly-data"
   },
   "performers": [
@@ -3391,6 +3391,10 @@
     {
       "項目": "MIKU EXPO オンライン巡演追加（2026-09-18）",
       "内容": "公式サイトに存在するが未収録だったオンライン巡演を11公演追加（2021 Online 3、Rewind 3、Rewind+ 2、2023 VR 3）。開演時刻は公式ページの表記（OPEN/START、JST）を24時間表記で記録。セットリストは公式に公開がないため未収録（空）。IDはEVT-ME-YYYY-MMDD-n。2020 USA & Canada（全13公演中止）は公式が全行Cancelledと記載し、中止公演は公開ソースに置けない規則のためdata/には追加せず報告書に記録。"
+    },
+    {
+      "項目": "v27翻訳監査（2026-09-20）",
+      "内容": "Song英語i18nの誤割当4件を修正（SONG-0424/0446/0449/0466）。v26時点の翻訳候補143曲を公式・Project SEKAI・VocaDB・Vocaloid Wiki・Bilibili等で監査し、docs/song-translation-audit-v26.* にレビュー結果を記録。監査表の候補訳はこのリリースでは一括適用せず、確定済み4件のみデータへ反映。"
     }
   ]
 }
