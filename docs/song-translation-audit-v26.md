@@ -1,6 +1,6 @@
 # Song Translation Audit v26
 
-> Generated for review. Only the four P0 English misassignments listed below are changed in data by this branch. The 143-row recommendations are NOT bulk-applied.
+> Generated for review. The four P0 English misassignments and all entries marked `TRANSLATE` have been corrected. Following an expanded common-name review, the entries formerly marked `REVIEW` have also been applied. Later v28 normalization additionally replaces Japanese kana in Chinese display titles with an established English rendering and removes all CJK characters from English display titles. The action labels below describe the original v26 audit decision and are retained as historical evidence.
 
 ## Policy
 
@@ -23,8 +23,8 @@
 ## Audit summary
 
 - Candidate songs: **143**
-- Chinese gaps: **127** -> TRANSLATE 22, REVIEW 5, KEEP_ORIGINAL 100
-- English gaps: **28** -> TRANSLATE 19, REVIEW 2, KEEP_ORIGINAL 7
+- Chinese gaps audited: **127** -> TRANSLATE 22 (applied), REVIEW 5 (applied after review), KEEP_ORIGINAL 100
+- English gaps audited: **28** -> TRANSLATE 19 (applied), REVIEW 2 (applied after review), KEEP_ORIGINAL 7
 - Full machine-readable review sheet: [song-translation-audit-v26.csv](./song-translation-audit-v26.csv)
 
 ## Recommended changes / review items

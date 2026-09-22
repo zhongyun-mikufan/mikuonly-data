@@ -132,6 +132,8 @@ export function validateCatalog(catalog, sourceFiles) {
   const allowedPerformanceTypes = new Set(["miku_solo", "miku_collaboration", "other", "unknown"]);
 
   const allowedLocales = new Set(["ja", "zh", "en"]);
+  const kanaCharacters = /[\p{Script=Hiragana}\p{Script=Katakana}]/u;
+  const cjkCharacters = /[\p{Script=Hiragana}\p{Script=Katakana}\p{Unified_Ideograph}]/u;
   const validateI18n = (kind, item, fields) => {
     if (item.i18n === undefined) return;
     if (!item.i18n || typeof item.i18n !== "object" || Array.isArray(item.i18n)) {
@@ -153,6 +155,14 @@ export function validateCatalog(catalog, sourceFiles) {
   for (const item of catalog.songs) {
     if (!item.title?.trim()) errors.push(`song ${item.id}: missing title`);
     validateI18n("song", item, ["title"]);
+    const zhTitle = item.i18n?.zh?.title;
+    const enTitle = item.i18n?.en?.title;
+    if (typeof zhTitle === "string" && kanaCharacters.test(zhTitle) && zhTitle !== item.title) {
+      errors.push(`song ${item.id}: zh.title must not contain hiragana or katakana unless it preserves the complete canonical title`);
+    }
+    if (typeof enTitle === "string" && cjkCharacters.test(enTitle)) {
+      errors.push(`song ${item.id}: en.title must not contain Han characters, hiragana, or katakana`);
+    }
   }
   for (const item of catalog.venues) {
     if (!item.name?.trim()) errors.push(`venue ${item.id}: missing name`);

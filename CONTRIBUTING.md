@@ -31,6 +31,12 @@ MikuOnly Data 希望尽可能保留**可验证、可追溯、不过度推测**�
 
 `data/songs/`、`data/series/`、`data/events/` 与 `data/venues/` 均可通过 `i18n.ja`、`i18n.zh`、`i18n.en` 维护显示字段。原始 `title` / `name` / `city` / `countryRegion` 是 canonical 值，不要为了翻译而覆盖它。Song 使用 `title`，Series / Event 使用 `name`，Venue 使用 `name`、`city`、`countryRegion`。翻译可不完整，缺失时网站会回退到 canonical 值。普通歌单曲名从 `songId` 对应的歌曲翻译取得；仅特殊演奏版本继续由 `performedTitle` 保留版本差异。
 
+歌曲标题还应遵守以下本地化规则：
+
+1. canonical 曲名本身以英语命名时，中文和英文显示均可直接沿用原曲名，无需为了产生不同字符串而强行翻译。
+2. `i18n.zh.title` 不得包含平假名或片假名；没有稳定中文译名时，应以对应英文名替代假名部分。只有确认完全没有可用中英文译名时，才可完整保留 canonical 日文原题，不得生成中日文混合标题。
+3. `i18n.en.title` 不得包含汉字、平假名或片假名，应使用英文字母表示；数字、标点和 `☆`、`・` 等无需翻译的特殊符号可以保留。
+
 ### 关于删除
 
 已公开的公演、歌曲或会场记录不会因为社区同步而自动删除。  
@@ -79,6 +85,8 @@ merge 後も、本番公開前に MikuOnly 側で draft / validation / publish �
 
 `data/songs/`、`data/series/`、`data/events/`、`data/venues/` では `i18n.ja`、`i18n.zh`、`i18n.en` に表示フィールドを追加できます。元の `title` / `name` / `city` / `countryRegion` は canonical 値なので、翻訳目的で上書きしません。Song は `title`、Series / Event は `name`、Venue は `name`・`city`・`countryRegion` をローカライズします。翻訳は未完成でもよく、欠けている言語は canonical 値へ fallback します。通常のセットリスト曲名は `songId` の楽曲翻訳を使い、特殊な演奏版だけ `performedTitle` で版差分を保持します。
 
+楽曲名のローカライズでは、英語で命名された canonical title は中国語・英語とも原題をそのまま使用できます。`i18n.zh.title` に平仮名・片仮名を含めず、安定した中国語訳がない場合は該当部分を英語名に置き換えます。利用可能な中国語名・英語名がまったく確認できない場合に限り、canonical の日本語原題全体を保持できます。中日混在の題名は作りません。`i18n.en.title` は漢字・平仮名・片仮名を含めず、英字で表記します（数字・句読点・記号は保持可能です）。
+
 ### 削除について
 
 公開済みの公演・楽曲・会場レコードは、コミュニティ同期だけでは自動削除されません。  
@@ -126,6 +134,8 @@ After merge, the data still goes through MikuOnly's separate draft / validation 
 ### Localized display fields (Schema v2)
 
 Files under `data/songs/`, `data/series/`, `data/events/`, and `data/venues/` may provide display strings in `i18n.ja`, `i18n.zh`, and `i18n.en`. The original `title` / `name` / `city` / `countryRegion` remains canonical data and should not be overwritten merely to translate it. Songs localize `title`, Series and Events localize `name`, and Venues localize `name`, `city`, and `countryRegion`. Translations may be incomplete; missing values fall back to canonical data. Normal setlist titles resolve through the referenced `songId`; only performance-specific versions should retain distinct `performedTitle` values.
+
+Song-title localization follows three additional rules. An English canonical title may be retained unchanged for both Chinese and English instead of being translated merely to make the strings differ. `i18n.zh.title` must not contain hiragana or katakana; use the corresponding English name where no stable Chinese rendering exists. The complete canonical Japanese title may be retained only when no usable Chinese or English name can be verified; do not construct mixed Chinese/Japanese titles. `i18n.en.title` must not contain Han characters, hiragana, or katakana and should use Latin letters; numbers, punctuation, and non-translatable symbols may remain.
 
 ### Deletions
 

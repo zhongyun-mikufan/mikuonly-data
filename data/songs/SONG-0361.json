@@ -1,6 +1,6 @@
 {
   "id": "SONG-0361",
-  "title": "再来一单",
+  "title": "再来一杯",
   "englishTitle": null,
   "vocalsText": "初音ミク/洛天依/22/33",
   "producer": "DMyoung",
@@ -22,13 +22,13 @@
   "soloLastDate": null,
   "i18n": {
     "ja": {
-      "title": "再来一单"
+      "title": "再来一杯"
     },
     "zh": {
-      "title": "再来一单"
+      "title": "再来一杯"
     },
     "en": {
-      "title": "再来一单"
+      "title": "Another One"
     }
   }
 }
