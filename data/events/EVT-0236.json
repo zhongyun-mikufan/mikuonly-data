@@ -2,7 +2,7 @@
   "id": "EVT-0236",
   "seriesId": "SER-004",
   "seriesName": "その他公式ライブ／出演",
-  "name": "Project Circles Live(予定)",
+  "name": "Project Circles Live",
   "startDate": "2026-04-30",
   "endDate": "2026-05-04",
   "year": 2026,
@@ -16,12 +16,12 @@
   "setlistVariant": "ライブ単位集計",
   "status": "開催済",
   "granularity": "ライブ単位",
-  "roleType": "ゲスト",
+  "roleType": "複数形式",
   "organizer": "Project Circles実行委員会",
   "videoRelease": "円盤未収録",
   "verificationStatus": "フォルダ内集計資料を初音ミクWiki索引と照合",
-  "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-  "notes": "曲目の出演有無を収録。公開資料で曲順・公演別差分が確認できない場合、曲順は未確定。",
+  "sourceUrl": "https://pjcircles.com/kt-zepp-yokohama.html",
+  "notes": "公式日程は2026年4月30日から5月4日まで複数公演を掲載。初音ミクはゲスト出演と単独出演の両方があり、この集計レコードは個別公演の出演形態・曲目を特定しない。",
   "recordedTrackCount": 0,
   "importCategory": "v7更新",
   "sourceRow": 310,
@@ -37,13 +37,13 @@
   "setlistScope": "none",
   "i18n": {
     "ja": {
-      "name": "Project Circles Live(予定)"
+      "name": "Project Circles Live"
     },
     "zh": {
-      "name": "Project Circles Live（计划）"
+      "name": "Project Circles Live"
     },
     "en": {
-      "name": "Project Circles Live (Scheduled)"
+      "name": "Project Circles Live"
     }
   }
 }
