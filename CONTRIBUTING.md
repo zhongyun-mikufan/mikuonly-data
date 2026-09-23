@@ -13,7 +13,7 @@ MikuOnly Data 希望尽可能保留**可验证、可追溯、不过度推测**�
 2. 修改歌单、曲序、演唱者、举办日期、会场等事实数据时，请附上来源。
 3. 不要因为“同一巡演其他场次是这样”就推测当前场次。无法确认的数据请保持未知。
 4. 已存在的 `event id`、`song id`、`series id`、`setlist item id` 属于稳定 ID。即使纠错导致排序变化，也不要无必要修改这些 ID。
-5. 请只修改 `data/` 下的源数据，不要手工编辑 `dist/catalog.json`。
+5. 数据修正请修改 `data/` 下的源数据，再用 `npm run build` 更新 `dist/catalog.json`，不要手工编辑生成文件。文档或工具任务可修改对应文件。
 
 ### Pull Request 流程
 
@@ -67,7 +67,7 @@ MikuOnly Data では、**確認可能・追跡可能で、推測に頼らない�
 2. セットリスト、曲順、歌唱者、開催日、会場などの事実データを変更する場合は出典を付けてください。
 3. 「同じツアーの別公演も同じだった」という理由だけで推測して埋めないでください。確認できないものは不明のまま残します。
 4. 既存の `event id`、`song id`、`series id`、`setlist item id` は stable ID です。誤り訂正によって並び順が変わる場合でも、不要に変更しないでください。
-5. 編集対象は `data/` 以下です。`dist/catalog.json` は直接編集しません。
+5. データ修正は `data/` 以下を編集し、`npm run build` で `dist/catalog.json` を更新します。生成物は直接編集しません。文書・ツールの変更は対応するファイルを編集できます。
 
 ### Pull Request の流れ
 
@@ -117,7 +117,7 @@ MikuOnly Data prioritizes information that is **verifiable, traceable, and not b
 2. Provide a source when changing factual data such as setlists, song order, performers, dates, or venues.
 3. Do not fill unknown values simply because another performance in the same tour used the same data. Leave unverifiable information unknown.
 4. Existing `event id`, `song id`, `series id`, and `setlist item id` values are stable IDs. Do not change them unnecessarily, even when a correction changes ordering.
-5. Edit source data under `data/`. Do not manually edit `dist/catalog.json`.
+5. For data corrections, edit source files under `data/`, then update `dist/catalog.json` with `npm run build`; never hand-edit generated files. Documentation or tool tasks may edit the corresponding files.
 
 ### Pull Request workflow
 
