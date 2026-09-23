@@ -5,7 +5,7 @@
       "id": "EVT-0215-06347",
       "eventId": "EVT-0215",
       "songId": "SONG-0332",
-      "sequence": null,
+      "sequence": 1,
       "sequenceStatus": "確認済み",
       "importOrder": 6370,
       "sourceNumber": null,
@@ -18,15 +18,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2017/pudong-expo-pudong-china-338aa4b1.html",
+      "notes": "単一公演の公開セットリストで曲順を照合。",
       "sourceRow": 6374
     },
     {
       "id": "EVT-0215-06348",
       "eventId": "EVT-0215",
       "songId": "SONG-0313",
-      "sequence": null,
+      "sequence": 2,
       "sequenceStatus": "確認済み",
       "importOrder": 6371,
       "sourceNumber": null,
@@ -39,15 +39,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2017/pudong-expo-pudong-china-338aa4b1.html",
+      "notes": "単一公演の公開セットリストで曲順を照合。",
       "sourceRow": 6375
     },
     {
       "id": "EVT-0215-06349",
       "eventId": "EVT-0215",
       "songId": "SONG-0430",
-      "sequence": null,
+      "sequence": 3,
       "sequenceStatus": "確認済み",
       "importOrder": 6372,
       "sourceNumber": null,
@@ -60,15 +60,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2017/pudong-expo-pudong-china-338aa4b1.html",
+      "notes": "単一公演の公開セットリストで曲順を照合。",
       "sourceRow": 6376
     },
     {
       "id": "EVT-0215-06350",
       "eventId": "EVT-0215",
       "songId": "SONG-0187",
-      "sequence": null,
+      "sequence": 4,
       "sequenceStatus": "確認済み",
       "importOrder": 6373,
       "sourceNumber": null,
@@ -81,15 +81,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2017/pudong-expo-pudong-china-338aa4b1.html",
+      "notes": "単一公演の公開セットリストで曲順を照合。",
       "sourceRow": 6377
     },
     {
       "id": "EVT-0215-06351",
       "eventId": "EVT-0215",
       "songId": "SONG-0115",
-      "sequence": null,
+      "sequence": 5,
       "sequenceStatus": "確認済み",
       "importOrder": 6374,
       "sourceNumber": null,
@@ -102,15 +102,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2017/pudong-expo-pudong-china-338aa4b1.html",
+      "notes": "単一公演の公開セットリストで曲順を照合。",
       "sourceRow": 6378
     },
     {
       "id": "EVT-0215-06352",
       "eventId": "EVT-0215",
       "songId": "SONG-0004",
-      "sequence": null,
+      "sequence": 6,
       "sequenceStatus": "確認済み",
       "importOrder": 6375,
       "sourceNumber": null,
@@ -123,15 +123,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2017/pudong-expo-pudong-china-338aa4b1.html",
+      "notes": "単一公演の公開セットリストで曲順を照合。",
       "sourceRow": 6379
     },
     {
       "id": "EVT-0215-06353",
       "eventId": "EVT-0215",
       "songId": "SONG-0346",
-      "sequence": null,
+      "sequence": 7,
       "sequenceStatus": "確認済み",
       "importOrder": 6376,
       "sourceNumber": null,
@@ -144,15 +144,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2017/pudong-expo-pudong-china-338aa4b1.html",
+      "notes": "単一公演の公開セットリストで曲順を照合。",
       "sourceRow": 6380
     },
     {
       "id": "EVT-0215-06354",
       "eventId": "EVT-0215",
       "songId": "SONG-0133",
-      "sequence": null,
+      "sequence": 8,
       "sequenceStatus": "確認済み",
       "importOrder": 6377,
       "sourceNumber": null,
@@ -165,8 +165,8 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2017/pudong-expo-pudong-china-338aa4b1.html",
+      "notes": "単一公演の公開セットリストで曲順を照合。",
       "sourceRow": 6381
     }
   ]

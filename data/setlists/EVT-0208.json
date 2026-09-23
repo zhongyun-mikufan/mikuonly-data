@@ -5,7 +5,7 @@
       "id": "EVT-0208-06277",
       "eventId": "EVT-0208",
       "songId": "SONG-0133",
-      "sequence": null,
+      "sequence": 1,
       "sequenceStatus": "確認済み",
       "importOrder": 6297,
       "sourceNumber": null,
@@ -18,15 +18,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://blog.piapro.net/2013/08/sonic-mania-wowow.html",
+      "notes": "クリプトン公式の出演レポート掲載順。冒頭と最後も明記。",
       "sourceRow": 6301
     },
     {
       "id": "EVT-0208-06278",
       "eventId": "EVT-0208",
       "songId": "SONG-0405",
-      "sequence": null,
+      "sequence": 2,
       "sequenceStatus": "確認済み",
       "importOrder": 6298,
       "sourceNumber": null,
@@ -39,15 +39,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://blog.piapro.net/2013/08/sonic-mania-wowow.html",
+      "notes": "クリプトン公式の出演レポート掲載順。冒頭と最後も明記。",
       "sourceRow": 6302
     },
     {
       "id": "EVT-0208-06279",
       "eventId": "EVT-0208",
       "songId": "SONG-0252",
-      "sequence": null,
+      "sequence": 3,
       "sequenceStatus": "確認済み",
       "importOrder": 6299,
       "sourceNumber": null,
@@ -60,15 +60,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://blog.piapro.net/2013/08/sonic-mania-wowow.html",
+      "notes": "クリプトン公式の出演レポート掲載順。冒頭と最後も明記。",
       "sourceRow": 6303
     },
     {
       "id": "EVT-0208-06280",
       "eventId": "EVT-0208",
       "songId": "SONG-0146",
-      "sequence": null,
+      "sequence": 4,
       "sequenceStatus": "確認済み",
       "importOrder": 6300,
       "sourceNumber": null,
@@ -81,36 +81,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://blog.piapro.net/2013/08/sonic-mania-wowow.html",
+      "notes": "クリプトン公式の出演レポート掲載順。冒頭と最後も明記。",
       "sourceRow": 6304
-    },
-    {
-      "id": "EVT-0208-06281",
-      "eventId": "EVT-0208",
-      "songId": "SONG-0372",
-      "sequence": null,
-      "sequenceStatus": "確認済み",
-      "importOrder": 6301,
-      "sourceNumber": null,
-      "performedTitle": "初音ミクの激唱",
-      "englishTitle": null,
-      "vocalsText": "初音ミク",
-      "producer": "Storyteller(GAiA×cosMo＠暴走P)",
-      "sideDancersText": null,
-      "performerIds": [
-        "PER-01"
-      ],
-      "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
-      "sourceRow": 6305
     },
     {
       "id": "EVT-0208-06282",
       "eventId": "EVT-0208",
       "songId": "SONG-0412",
-      "sequence": null,
+      "sequence": 5,
       "sequenceStatus": "確認済み",
       "importOrder": 6302,
       "sourceNumber": null,
@@ -123,15 +102,36 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://blog.piapro.net/2013/08/sonic-mania-wowow.html",
+      "notes": "クリプトン公式の出演レポート掲載順。冒頭と最後も明記。",
       "sourceRow": 6306
+    },
+    {
+      "id": "EVT-0208-06281",
+      "eventId": "EVT-0208",
+      "songId": "SONG-0372",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 6301,
+      "sourceNumber": null,
+      "performedTitle": "初音ミクの激唱",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "Storyteller(GAiA×cosMo＠暴走P)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://blog.piapro.net/2013/08/sonic-mania-wowow.html",
+      "notes": "クリプトン公式の出演レポート掲載順。冒頭と最後も明記。",
+      "sourceRow": 6305
     },
     {
       "id": "EVT-0208-06283",
       "eventId": "EVT-0208",
       "songId": "SONG-0306",
-      "sequence": null,
+      "sequence": 7,
       "sequenceStatus": "確認済み",
       "importOrder": 6303,
       "sourceNumber": null,
@@ -144,8 +144,8 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://blog.piapro.net/2013/08/sonic-mania-wowow.html",
+      "notes": "クリプトン公式の出演レポート掲載順。冒頭と最後も明記。",
       "sourceRow": 6307
     }
   ]

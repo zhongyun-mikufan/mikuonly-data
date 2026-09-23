@@ -19,9 +19,9 @@
   "roleType": "メイン",
   "organizer": null,
   "videoRelease": null,
-  "verificationStatus": "公式日程・配信時刻を確認済み／セットリスト未公開",
+  "verificationStatus": "曲順を公開セットリストで照合済み",
   "sourceUrl": "https://mikuexpo.com/vr2023/",
-  "notes": "オンライン配信（公式表記：11:00 AM (JST) START／JST）。配信プラットフォームは公式HISTORYページによる。公式ページにセットリストの公開はない。開演時刻出典：https://mikuexpo.com/vr2023/",
+  "notes": "オンライン配信（公式表記：11:00 AM (JST) START／JST）。配信プラットフォームは公式HISTORYページによる。公式ページ自体には曲目の掲載がなく、曲順は下記の公開記録で照合。開演時刻出典：https://mikuexpo.com/vr2023/ 曲順出典：https://w.atwiki.jp/hmiku/pages/67143.html。同一内容の複数配信は公式確認：https://mikuexpo.com/vr2023/index_en.html",
   "recordedTrackCount": 0,
   "importCategory": "MIKU EXPO 公式サイト追加 2026-09-18",
   "actualTrackCount": 0,
@@ -33,7 +33,7 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": null,
   "recordUnit": "performance",
-  "setlistScope": "none",
+  "setlistScope": "shared",
   "i18n": {
     "ja": {
       "name": "HATSUNE MIKU EXPO 2023 VR"
