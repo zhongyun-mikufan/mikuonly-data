@@ -13,15 +13,15 @@
   "venueName": null,
   "venueId": null,
   "capacitySnapshot": null,
-  "setlistVariant": "ライブ単位集計",
+  "setlistVariant": "単一公演",
   "status": "開催済",
   "granularity": "公演単位",
   "roleType": "メイン",
   "organizer": "WOWOW",
   "videoRelease": "円盤未収録",
-  "verificationStatus": "単一公演を確認済み／歌唱曲未収録",
+  "verificationStatus": "曲順を公開セットリストで照合済み",
   "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-  "notes": "曲目の出演有無を収録。公開資料で曲順・公演別差分が確認できない場合、曲順は未確定。",
+  "notes": "曲順出典：https://nat.hatenadiary.com/entry/20141101/p1",
   "recordedTrackCount": 0,
   "importCategory": "既存データ（日本語化）",
   "sourceRow": 29,
@@ -34,7 +34,7 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": null,
   "recordUnit": "performance",
-  "setlistScope": "none",
+  "setlistScope": "exact",
   "i18n": {
     "ja": {
       "name": "初音ミク×TOUCH！WOWOW2014 スペシャルライブ"

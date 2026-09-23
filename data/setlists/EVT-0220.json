@@ -5,7 +5,7 @@
       "id": "EVT-0220-06446",
       "eventId": "EVT-0220",
       "songId": "SONG-0296",
-      "sequence": null,
+      "sequence": 1,
       "sequenceStatus": "確認済み",
       "importOrder": 6474,
       "sourceNumber": null,
@@ -18,7 +18,7 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "「みんなみくみくにしてあげる♪」として演奏",
       "sourceRow": 6478
     },
@@ -26,7 +26,7 @@
       "id": "EVT-0220-06447",
       "eventId": "EVT-0220",
       "songId": "SONG-0282",
-      "sequence": null,
+      "sequence": 2,
       "sequenceStatus": "確認済み",
       "importOrder": 6475,
       "sourceNumber": null,
@@ -39,7 +39,7 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
       "sourceRow": 6479
     },
@@ -47,7 +47,7 @@
       "id": "EVT-0220-06448",
       "eventId": "EVT-0220",
       "songId": "SONG-0106",
-      "sequence": null,
+      "sequence": 3,
       "sequenceStatus": "確認済み",
       "importOrder": 6476,
       "sourceNumber": null,
@@ -60,7 +60,7 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "「MIKU WITH YOU 2018」楽曲コンテストグランプリ楽曲",
       "sourceRow": 6480
     },
@@ -68,7 +68,7 @@
       "id": "EVT-0220-06449",
       "eventId": "EVT-0220",
       "songId": "SONG-0321",
-      "sequence": null,
+      "sequence": 4,
       "sequenceStatus": "確認済み",
       "importOrder": 6477,
       "sourceNumber": null,
@@ -82,7 +82,7 @@
         "PER-03"
       ],
       "performanceType": "other",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
       "sourceRow": 6481
     },
@@ -90,7 +90,7 @@
       "id": "EVT-0220-06450",
       "eventId": "EVT-0220",
       "songId": "SONG-0432",
-      "sequence": null,
+      "sequence": 5,
       "sequenceStatus": "確認済み",
       "importOrder": 6478,
       "sourceNumber": null,
@@ -104,7 +104,7 @@
         "PER-03"
       ],
       "performanceType": "other",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "「鏡音リン鏡音レン10thAnniversary」テーマソング",
       "sourceRow": 6482
     },
@@ -112,7 +112,7 @@
       "id": "EVT-0220-06451",
       "eventId": "EVT-0220",
       "songId": "SONG-0250",
-      "sequence": null,
+      "sequence": 6,
       "sequenceStatus": "確認済み",
       "importOrder": 6479,
       "sourceNumber": null,
@@ -125,7 +125,7 @@
         "PER-04"
       ],
       "performanceType": "other",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
       "sourceRow": 6483
     },
@@ -133,7 +133,7 @@
       "id": "EVT-0220-06452",
       "eventId": "EVT-0220",
       "songId": "SONG-0148",
-      "sequence": null,
+      "sequence": 7,
       "sequenceStatus": "確認済み",
       "importOrder": 6480,
       "sourceNumber": null,
@@ -146,7 +146,7 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "「SNOW MIKU 2019」テーマソング",
       "sourceRow": 6484
     },
@@ -154,7 +154,7 @@
       "id": "EVT-0220-06453",
       "eventId": "EVT-0220",
       "songId": "SONG-0332",
-      "sequence": null,
+      "sequence": 8,
       "sequenceStatus": "確認済み",
       "importOrder": 6481,
       "sourceNumber": null,
@@ -167,7 +167,7 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
       "sourceRow": 6485
     },
@@ -175,7 +175,7 @@
       "id": "EVT-0220-06454",
       "eventId": "EVT-0220",
       "songId": "SONG-0035",
-      "sequence": null,
+      "sequence": 9,
       "sequenceStatus": "確認済み",
       "importOrder": 6482,
       "sourceNumber": null,
@@ -188,7 +188,7 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
       "sourceRow": 6486
     },
@@ -196,7 +196,7 @@
       "id": "EVT-0220-06455",
       "eventId": "EVT-0220",
       "songId": "SONG-0454",
-      "sequence": null,
+      "sequence": 10,
       "sequenceStatus": "確認済み",
       "importOrder": 6483,
       "sourceNumber": null,
@@ -209,15 +209,28 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "「マジカルミライ 2015」テーマソング",
       "sourceRow": 6487
+    },
+    {
+      "id": "EVT-0220-S011",
+      "eventId": "EVT-0220",
+      "songId": "SONG-0330",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "performedTitle": "ロミオとシンデレラ",
+      "vocalsText": "初音ミク/洛天依",
+      "producer": "doriko",
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
+      "notes": "Encore。洛天依との共演。"
     },
     {
       "id": "EVT-0220-06456",
       "eventId": "EVT-0220",
       "songId": "SONG-0366",
-      "sequence": null,
+      "sequence": 12,
       "sequenceStatus": "確認済み",
       "importOrder": 6484,
       "sourceNumber": null,
@@ -230,7 +243,7 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "原曲を初音ミクがカバー",
       "sourceRow": 6488
     },
@@ -238,7 +251,7 @@
       "id": "EVT-0220-06457",
       "eventId": "EVT-0220",
       "songId": "SONG-0427",
-      "sequence": null,
+      "sequence": 13,
       "sequenceStatus": "確認済み",
       "importOrder": 6485,
       "sourceNumber": null,
@@ -251,7 +264,7 @@
         "PER-01"
       ],
       "performanceType": "miku_collaboration",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "原曲を初音ミク、洛天依がカバー",
       "sourceRow": 6489
     },
@@ -259,7 +272,7 @@
       "id": "EVT-0220-06458",
       "eventId": "EVT-0220",
       "songId": "SONG-0361",
-      "sequence": null,
+      "sequence": 14,
       "sequenceStatus": "確認済み",
       "importOrder": 6486,
       "sourceNumber": null,
@@ -272,7 +285,7 @@
         "PER-01"
       ],
       "performanceType": "miku_collaboration",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+      "sourceUrl": "https://www.setlist.fm/setlist/hatsune-miku/2019/mercedes-benz-arena-shanghai-china-5b54c770.html",
       "notes": "原曲を初音ミク、洛天依、22、33がカバー",
       "sourceRow": 6490
     }

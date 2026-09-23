@@ -13,15 +13,15 @@
   "venueName": null,
   "venueId": null,
   "capacitySnapshot": null,
-  "setlistVariant": "ライブ単位集計",
+  "setlistVariant": "単一公演",
   "status": "開催済",
   "granularity": "公演単位",
   "roleType": "ゲスト",
   "organizer": "クリエイティブマンプロダクション",
   "videoRelease": "円盤未収録",
-  "verificationStatus": "単一公演と歌唱曲を確認済み／曲順未確認",
+  "verificationStatus": "公式レポートで7曲と曲順を確認済み",
   "sourceUrl": "https://blog.piapro.net/2013/07/sonicmania-2013-1.html",
-  "notes": "曲目の出演有無を収録。公開資料で曲順・公演別差分が確認できない場合、曲順は未確定。",
+  "notes": "曲順出典：https://blog.piapro.net/2013/08/sonic-mania-wowow.html",
   "recordedTrackCount": 7,
   "importCategory": "既存データ（日本語化）",
   "sourceRow": 15,
@@ -34,7 +34,7 @@
   "unknownTrackCount": 0,
   "mikuSoloRatio": 1,
   "recordUnit": "performance",
-  "setlistScope": "presence_only",
+  "setlistScope": "exact",
   "i18n": {
     "ja": {
       "name": "SONICMANIA 2013"

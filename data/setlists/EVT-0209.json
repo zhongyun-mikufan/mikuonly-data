@@ -2,10 +2,23 @@
   "eventId": "EVT-0209",
   "tracks": [
     {
+      "id": "EVT-0209-S001",
+      "eventId": "EVT-0209",
+      "songId": "SONG-0479",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "performedTitle": "Project DIVA desu.",
+      "vocalsText": "初音ミク",
+      "producer": "うたたP",
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。"
+    },
+    {
       "id": "EVT-0209-06284",
       "eventId": "EVT-0209",
       "songId": "SONG-0181",
-      "sequence": null,
+      "sequence": 2,
       "sequenceStatus": "確認済み",
       "importOrder": 6304,
       "sourceNumber": null,
@@ -18,15 +31,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。",
       "sourceRow": 6308
     },
     {
       "id": "EVT-0209-06285",
       "eventId": "EVT-0209",
       "songId": "SONG-0052",
-      "sequence": null,
+      "sequence": 3,
       "sequenceStatus": "確認済み",
       "importOrder": 6305,
       "sourceNumber": null,
@@ -39,15 +52,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。",
       "sourceRow": 6309
     },
     {
       "id": "EVT-0209-06286",
       "eventId": "EVT-0209",
       "songId": "SONG-0133",
-      "sequence": null,
+      "sequence": 4,
       "sequenceStatus": "確認済み",
       "importOrder": 6306,
       "sourceNumber": null,
@@ -60,15 +73,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。",
       "sourceRow": 6310
     },
     {
       "id": "EVT-0209-06287",
       "eventId": "EVT-0209",
       "songId": "SONG-0004",
-      "sequence": null,
+      "sequence": 5,
       "sequenceStatus": "確認済み",
       "importOrder": 6307,
       "sourceNumber": null,
@@ -81,15 +94,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。",
       "sourceRow": 6311
     },
     {
       "id": "EVT-0209-06288",
       "eventId": "EVT-0209",
       "songId": "SONG-0072",
-      "sequence": null,
+      "sequence": 6,
       "sequenceStatus": "確認済み",
       "importOrder": 6308,
       "sourceNumber": null,
@@ -102,15 +115,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。／v7統合前表記：Last Night, Good Night(Re:Dialed)",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。",
       "sourceRow": 6312
     },
     {
       "id": "EVT-0209-06289",
       "eventId": "EVT-0209",
       "songId": "SONG-0332",
-      "sequence": null,
+      "sequence": 7,
       "sequenceStatus": "確認済み",
       "importOrder": 6309,
       "sourceNumber": null,
@@ -123,8 +136,8 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。",
       "sourceRow": 6313
     }
   ]

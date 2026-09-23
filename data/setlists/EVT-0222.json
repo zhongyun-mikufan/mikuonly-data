@@ -5,7 +5,7 @@
       "id": "EVT-0222-06466",
       "eventId": "EVT-0222",
       "songId": "SONG-0267",
-      "sequence": null,
+      "sequence": 1,
       "sequenceStatus": "確認済み",
       "importOrder": 6494,
       "sourceNumber": null,
@@ -18,15 +18,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6498
     },
     {
       "id": "EVT-0222-06467",
       "eventId": "EVT-0222",
       "songId": "SONG-0258",
-      "sequence": null,
+      "sequence": 2,
       "sequenceStatus": "確認済み",
       "importOrder": 6495,
       "sourceNumber": null,
@@ -39,15 +39,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6499
     },
     {
       "id": "EVT-0222-06468",
       "eventId": "EVT-0222",
       "songId": "SONG-0336",
-      "sequence": null,
+      "sequence": 3,
       "sequenceStatus": "確認済み",
       "importOrder": 6496,
       "sourceNumber": null,
@@ -60,15 +60,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6500
     },
     {
       "id": "EVT-0222-06469",
       "eventId": "EVT-0222",
       "songId": "SONG-0327",
-      "sequence": null,
+      "sequence": 4,
       "sequenceStatus": "確認済み",
       "importOrder": 6497,
       "sourceNumber": null,
@@ -81,15 +81,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6501
     },
     {
       "id": "EVT-0222-06470",
       "eventId": "EVT-0222",
       "songId": "SONG-0437",
-      "sequence": null,
+      "sequence": 5,
       "sequenceStatus": "確認済み",
       "importOrder": 6498,
       "sourceNumber": null,
@@ -102,15 +102,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6502
     },
     {
       "id": "EVT-0222-06471",
       "eventId": "EVT-0222",
       "songId": "SONG-0318",
-      "sequence": null,
+      "sequence": 6,
       "sequenceStatus": "確認済み",
       "importOrder": 6499,
       "sourceNumber": null,
@@ -123,15 +123,15 @@
         "PER-05"
       ],
       "performanceType": "other",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6503
     },
     {
       "id": "EVT-0222-06472",
       "eventId": "EVT-0222",
       "songId": "SONG-0247",
-      "sequence": null,
+      "sequence": 7,
       "sequenceStatus": "確認済み",
       "importOrder": 6500,
       "sourceNumber": null,
@@ -144,15 +144,15 @@
         "PER-06"
       ],
       "performanceType": "other",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。／v7統合前表記：ドクター=ファンクビート",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6504
     },
     {
       "id": "EVT-0222-06473",
       "eventId": "EVT-0222",
       "songId": "SONG-0419",
-      "sequence": null,
+      "sequence": 8,
       "sequenceStatus": "確認済み",
       "importOrder": 6501,
       "sourceNumber": null,
@@ -165,15 +165,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "「MIKU EXPO 2018 EUROPE」テーマソング",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6505
     },
     {
       "id": "EVT-0222-06474",
       "eventId": "EVT-0222",
       "songId": "SONG-0315",
-      "sequence": null,
+      "sequence": 9,
       "sequenceStatus": "確認済み",
       "importOrder": 6502,
       "sourceNumber": null,
@@ -186,15 +186,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "「MIKU EXPO 5th Anniversary」テーマソング",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6506
     },
     {
       "id": "EVT-0222-06475",
       "eventId": "EVT-0222",
       "songId": "SONG-0229",
-      "sequence": null,
+      "sequence": 10,
       "sequenceStatus": "確認済み",
       "importOrder": 6503,
       "sourceNumber": null,
@@ -207,15 +207,15 @@
         "PER-04"
       ],
       "performanceType": "other",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6507
     },
     {
       "id": "EVT-0222-06476",
       "eventId": "EVT-0222",
       "songId": "SONG-0357",
-      "sequence": null,
+      "sequence": 11,
       "sequenceStatus": "確認済み",
       "importOrder": 6504,
       "sourceNumber": null,
@@ -228,15 +228,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "「SNOW MIKU 2014」テーマソング",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6508
     },
     {
       "id": "EVT-0222-06477",
       "eventId": "EVT-0222",
       "songId": "SONG-0148",
-      "sequence": null,
+      "sequence": 12,
       "sequenceStatus": "確認済み",
       "importOrder": 6505,
       "sourceNumber": null,
@@ -249,15 +249,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "「SNOW MIKU 2019」テーマソング",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6509
     },
     {
       "id": "EVT-0222-06478",
       "eventId": "EVT-0222",
       "songId": "SONG-0328",
-      "sequence": null,
+      "sequence": 13,
       "sequenceStatus": "確認済み",
       "importOrder": 6506,
       "sourceNumber": null,
@@ -271,15 +271,15 @@
         "PER-03"
       ],
       "performanceType": "other",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "原曲のみきとPパートを鏡音レンがカバー",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6510
     },
     {
       "id": "EVT-0222-06479",
       "eventId": "EVT-0222",
       "songId": "SONG-0432",
-      "sequence": null,
+      "sequence": 14,
       "sequenceStatus": "確認済み",
       "importOrder": 6507,
       "sourceNumber": null,
@@ -293,15 +293,15 @@
         "PER-03"
       ],
       "performanceType": "other",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "「鏡音リン鏡音レン10thAnniversary」テーマソング",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6511
     },
     {
       "id": "EVT-0222-06480",
       "eventId": "EVT-0222",
       "songId": "SONG-0035",
-      "sequence": null,
+      "sequence": 15,
       "sequenceStatus": "確認済み",
       "importOrder": 6508,
       "sourceNumber": null,
@@ -314,15 +314,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6512
     },
     {
       "id": "EVT-0222-06481",
       "eventId": "EVT-0222",
       "songId": "SONG-0196",
-      "sequence": null,
+      "sequence": 16,
       "sequenceStatus": "確認済み",
       "importOrder": 6509,
       "sourceNumber": null,
@@ -335,15 +335,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "「マジカルミライ 2018」テーマソング",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6513
     },
     {
       "id": "EVT-0222-06482",
       "eventId": "EVT-0222",
       "songId": "SONG-0454",
-      "sequence": null,
+      "sequence": 17,
       "sequenceStatus": "確認済み",
       "importOrder": 6510,
       "sourceNumber": null,
@@ -356,8 +356,8 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "「マジカルミライ 2015」テーマソング",
+      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67235.html",
+      "notes": "2020-08-09 配信の曲順を照合。",
       "sourceRow": 6514
     }
   ]

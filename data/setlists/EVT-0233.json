@@ -5,7 +5,7 @@
       "id": "EVT-0233-07099",
       "eventId": "EVT-0233",
       "songId": "SONG-0161",
-      "sequence": null,
+      "sequence": 1,
       "sequenceStatus": "確認済み",
       "importOrder": 7132,
       "sourceNumber": null,
@@ -18,15 +18,15 @@
         "PER-02"
       ],
       "performanceType": "other",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://www.thefirsttimes.jp/report/0000758553/",
+      "notes": "DREAMERS の4曲を記事掲載順で照合。",
       "sourceRow": 7137
     },
     {
       "id": "EVT-0233-07100",
       "eventId": "EVT-0233",
       "songId": "SONG-0426",
-      "sequence": null,
+      "sequence": 2,
       "sequenceStatus": "確認済み",
       "importOrder": 7133,
       "sourceNumber": null,
@@ -39,15 +39,15 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://www.thefirsttimes.jp/report/0000758553/",
+      "notes": "DREAMERS の4曲を記事掲載順で照合。",
       "sourceRow": 7138
     },
     {
       "id": "EVT-0233-07101",
       "eventId": "EVT-0233",
       "songId": "SONG-0242",
-      "sequence": null,
+      "sequence": 3,
       "sequenceStatus": "確認済み",
       "importOrder": 7134,
       "sourceNumber": null,
@@ -60,15 +60,15 @@
         "PER-03"
       ],
       "performanceType": "other",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://www.thefirsttimes.jp/report/0000758553/",
+      "notes": "DREAMERS の4曲を記事掲載順で照合。",
       "sourceRow": 7139
     },
     {
       "id": "EVT-0233-07102",
       "eventId": "EVT-0233",
       "songId": "SONG-0266",
-      "sequence": null,
+      "sequence": 4,
       "sequenceStatus": "確認済み",
       "importOrder": 7135,
       "sourceNumber": null,
@@ -81,8 +81,8 @@
         "PER-01"
       ],
       "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "sourceUrl": "https://www.thefirsttimes.jp/report/0000758553/",
+      "notes": "DREAMERS の4曲を記事掲載順で照合。",
       "sourceRow": 7140
     }
   ]
