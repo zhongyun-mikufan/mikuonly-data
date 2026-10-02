@@ -1,7 +1,7 @@
 {
   "id": "VEN-0091",
   "name": "幕張メッセ",
-  "city": "千葉（告知上は東京公演）",
+  "city": "千葉",
   "countryRegion": "日本",
   "capacity": null,
   "capacityNote": "要確認",
@@ -11,17 +11,17 @@
   "i18n": {
     "ja": {
       "name": "幕張メッセ",
-      "city": "千葉（告知上は東京公演）",
+      "city": "千葉",
       "countryRegion": "日本"
     },
     "zh": {
       "name": "幕张国际展览中心",
-      "city": "千叶（宣传上为东京公演）",
+      "city": "千叶",
       "countryRegion": "日本"
     },
     "en": {
       "name": "Makuhari Messe",
-      "city": "Chiba (marketed as Tokyo)",
+      "city": "Chiba",
       "countryRegion": "Japan"
     }
   }
