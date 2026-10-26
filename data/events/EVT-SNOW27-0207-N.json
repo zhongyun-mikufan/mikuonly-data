@@ -1,0 +1,48 @@
+{
+  "id": "EVT-SNOW27-0207-N",
+  "seriesId": "SER-007",
+  "seriesName": "SNOW MIKU LIVE!",
+  "name": "SNOW MIKU LIVE! 2027",
+  "startDate": "2027-02-07",
+  "endDate": "2027-02-07",
+  "year": 2027,
+  "performanceType": "夜公演",
+  "startTime": "17:00",
+  "city": "札幌",
+  "countryRegion": "日本",
+  "venueName": "Zepp Sapporo",
+  "venueId": "VEN-0008",
+  "capacitySnapshot": null,
+  "setlistVariant": "2027-02-07・夜公演",
+  "status": "開催予定",
+  "granularity": "公演単位",
+  "roleType": "メイン",
+  "organizer": null,
+  "videoRelease": null,
+  "verificationStatus": "公式公演情報確認済み／歌唱曲未公開",
+  "sourceUrl": "https://snowmiku.com/2027/event-live.html",
+  "notes": "OPEN 16:00 / START 17:00（日本時間）。出演：初音ミク・雪ミク。鏡音リン・鏡音レン・巡音ルカ・MEIKO・KAITOの出演なし。キャラクター投影はLEDを使用。公演時間は約2時間の予定。公式公演概要を2026-10-26に確認。歌唱曲・曲順は未公開のため未登録。",
+  "recordedTrackCount": 0,
+  "actualTrackCount": 0,
+  "mikuTrackCount": 0,
+  "mikuRatio": null,
+  "mikuSoloTrackCount": 0,
+  "mikuCollaborationTrackCount": 0,
+  "otherTrackCount": 0,
+  "unknownTrackCount": 0,
+  "mikuSoloRatio": null,
+  "recordUnit": "performance",
+  "setlistScope": "none",
+  "importCategory": "2027年公式公演情報",
+  "i18n": {
+    "ja": {
+      "name": "SNOW MIKU LIVE! 2027"
+    },
+    "zh": {
+      "name": "SNOW MIKU LIVE! 2027"
+    },
+    "en": {
+      "name": "SNOW MIKU LIVE! 2027"
+    }
+  }
+}
