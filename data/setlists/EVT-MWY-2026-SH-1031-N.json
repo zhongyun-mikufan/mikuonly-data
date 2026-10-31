@@ -1,4 +1,493 @@
 {
   "eventId": "EVT-MWY-2026-SH-1031-N",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-01",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0327",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "importOrder": 1,
+      "sourceNumber": "01",
+      "performedTitle": "ローリンガール",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "wowaka",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-02",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0230",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 2,
+      "sourceNumber": "02",
+      "performedTitle": "ダーリンダンス",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "かいりきベア",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-03",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0091",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 3,
+      "sourceNumber": "03",
+      "performedTitle": "My Stage With You",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "cannibaltin, Zettaizetsumei Ossan",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-04",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0128",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 4,
+      "sourceNumber": "04",
+      "performedTitle": "StargazeR",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "骨盤P",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-05",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0425",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5,
+      "sourceNumber": "05",
+      "performedTitle": "夜舞うシルエット",
+      "englishTitle": null,
+      "vocalsText": "MEIKO",
+      "producer": "宮守文学",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-06",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0380",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 6,
+      "sourceNumber": "06",
+      "performedTitle": "新人類",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "まらしぃ×じん",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-07",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0242",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 7,
+      "sourceNumber": "07",
+      "performedTitle": "テレキャスタービーボーイ",
+      "englishTitle": null,
+      "vocalsText": "鏡音レン",
+      "producer": "すりぃ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-08",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0402",
+      "sequence": 8,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8,
+      "sourceNumber": "08",
+      "performedTitle": "踏步、出发 (Tàbù, Chūfā)",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "MACHWOLF",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-09",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0294",
+      "sequence": 9,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9,
+      "sourceNumber": "09",
+      "performedTitle": "みかぼし",
+      "englishTitle": null,
+      "vocalsText": "KAITO",
+      "producer": "3106。",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-10",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0235",
+      "sequence": 10,
+      "sequenceStatus": "確認済み",
+      "importOrder": 10,
+      "sourceNumber": "10",
+      "performedTitle": "ダブルラリアット",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "アゴアニキ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-11",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0440",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "importOrder": 11,
+      "sourceNumber": "11",
+      "performedTitle": "梦色星球 (Mèngsè Xīngqiú)",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "AzureHead",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-12",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0480",
+      "sequence": 12,
+      "sequenceStatus": "確認済み",
+      "importOrder": 12,
+      "sourceNumber": "12",
+      "performedTitle": "让我们拥抱哭泣",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "福音莱",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-13",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0111",
+      "sequence": 13,
+      "sequenceStatus": "確認済み",
+      "importOrder": 13,
+      "sourceNumber": "13",
+      "performedTitle": "REALITY",
+      "englishTitle": null,
+      "vocalsText": "MEIKO, KAITO",
+      "producer": "マイナス(ワンダフル☆オポチュニティ！)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05",
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-14",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0192",
+      "sequence": 14,
+      "sequenceStatus": "確認済み",
+      "importOrder": 14,
+      "sourceNumber": "14",
+      "performedTitle": "キミペディア",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン, 鏡音レン",
+      "producer": "Junky",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-15",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0334",
+      "sequence": 15,
+      "sequenceStatus": "確認済み",
+      "importOrder": 15,
+      "sourceNumber": "15",
+      "performedTitle": "愛Dee",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 巡音ルカ",
+      "producer": "Mitchie M",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-04"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-16",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0082",
+      "sequence": 16,
+      "sequenceStatus": "確認済み",
+      "importOrder": 16,
+      "sourceNumber": "16",
+      "performedTitle": "Mag1c",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "magens",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-17",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0101",
+      "sequence": 17,
+      "sequenceStatus": "確認済み",
+      "importOrder": 17,
+      "sourceNumber": "17",
+      "performedTitle": "Packaged",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "livetune",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-18",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0106",
+      "sequence": 18,
+      "sequenceStatus": "確認済み",
+      "importOrder": 18,
+      "sourceNumber": "18",
+      "performedTitle": "Pick Me Up",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "敌门",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-19",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0148",
+      "sequence": 19,
+      "sequenceStatus": "確認済み",
+      "importOrder": 19,
+      "sourceNumber": "19",
+      "performedTitle": "アイ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "DECO*27",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-20",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0332",
+      "sequence": 20,
+      "sequenceStatus": "確認済み",
+      "importOrder": 20,
+      "sourceNumber": "20",
+      "performedTitle": "ワールドイズマイン",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-21",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0481",
+      "sequence": 21,
+      "sequenceStatus": "確認済み",
+      "importOrder": 21,
+      "sourceNumber": "21",
+      "performedTitle": "彩虹游乐园",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "烧烤年糕",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-22",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0346",
+      "sequence": 22,
+      "sequenceStatus": "確認済み",
+      "importOrder": 22,
+      "sourceNumber": "22",
+      "performedTitle": "歌に形はないけれど（中国語版）",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "doriko",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。中文演唱；安可。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-23",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0296",
+      "sequence": 23,
+      "sequenceStatus": "確認済み",
+      "importOrder": 23,
+      "sourceNumber": "23",
+      "performedTitle": "みくみくにしてあげる♪",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ika",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。安可。"
+    },
+    {
+      "id": "EVT-MWY-2026-SH-1031-N-24",
+      "eventId": "EVT-MWY-2026-SH-1031-N",
+      "songId": "SONG-0035",
+      "sequence": 24,
+      "sequenceStatus": "確認済み",
+      "importOrder": 24,
+      "sourceNumber": "24",
+      "performedTitle": "DECORATOR",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 巡音ルカ, MEIKO, 鏡音リン, 鏡音レン, KAITO",
+      "producer": "livetune",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-02",
+        "PER-03",
+        "PER-04",
+        "PER-05",
+        "PER-06"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的第一天日夜场现场歌单记录（2026-11-01，无公开URL）。安可。"
+    }
+  ]
 }
