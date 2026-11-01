@@ -1,0 +1,27 @@
+{
+  "id": "VEN-MWY-CD-FINANCIAL",
+  "name": "成都金融城演艺中心",
+  "city": "成都",
+  "countryRegion": "中国大陸",
+  "capacity": null,
+  "capacityNote": "公演時構成の収容人数は未確認",
+  "capacitySourceUrl": null,
+  "verificationStatus": "管理者提供の成都公演告知画像で会場確認／キャパ未確認",
+  "i18n": {
+    "ja": {
+      "name": "成都金融城演艺中心",
+      "city": "成都",
+      "countryRegion": "中国大陸"
+    },
+    "zh": {
+      "name": "成都金融城演艺中心",
+      "city": "成都",
+      "countryRegion": "中国大陆"
+    },
+    "en": {
+      "name": "Chengdu Financial City Performing Arts Center",
+      "city": "Chengdu",
+      "countryRegion": "Mainland China"
+    }
+  }
+}
