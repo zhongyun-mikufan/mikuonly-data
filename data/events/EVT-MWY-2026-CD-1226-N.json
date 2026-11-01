@@ -1,0 +1,48 @@
+{
+  "id": "EVT-MWY-2026-CD-1226-N",
+  "seriesId": "SER-010",
+  "seriesName": "MIKU WITH YOU",
+  "name": "MIKU WITH YOU 2026",
+  "startDate": "2026-12-26",
+  "endDate": "2026-12-26",
+  "year": 2026,
+  "performanceType": "夜公演",
+  "startTime": "19:00",
+  "city": "成都",
+  "countryRegion": "中国大陸",
+  "venueName": "成都金融城演艺中心",
+  "venueId": "VEN-MWY-CD-FINANCIAL",
+  "capacitySnapshot": null,
+  "setlistVariant": null,
+  "status": "開催予定",
+  "granularity": "公演単位",
+  "roleType": "メイン",
+  "organizer": null,
+  "videoRelease": null,
+  "verificationStatus": "管理者提供の公演告知画像で日時・会場確認／歌唱曲未公開",
+  "sourceUrl": null,
+  "notes": "管理员提供的成都站宣传图片（2026-11-02，无公开URL）标示：2026年12月26日19:00（中国标准时间，UTC+8），成都金融城演艺中心；地址：四川省成都市武侯区天府大道北段1771号。演出预计90—100分钟；票面档位为1280／1080／980／680／380元。歌单未知，不根据上海公演推定。",
+  "recordedTrackCount": 0,
+  "actualTrackCount": 0,
+  "mikuTrackCount": 0,
+  "mikuRatio": null,
+  "mikuSoloTrackCount": 0,
+  "mikuCollaborationTrackCount": 0,
+  "otherTrackCount": 0,
+  "unknownTrackCount": 0,
+  "mikuSoloRatio": null,
+  "recordUnit": "performance",
+  "setlistScope": "none",
+  "importCategory": "2026年公式公演情報",
+  "i18n": {
+    "ja": {
+      "name": "MIKU WITH YOU 2026"
+    },
+    "zh": {
+      "name": "未来有你・HATSUNE MIKU WITH YOU 2026"
+    },
+    "en": {
+      "name": "MIKU WITH YOU 2026"
+    }
+  }
+}
