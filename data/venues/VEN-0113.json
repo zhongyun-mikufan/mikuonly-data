@@ -1,0 +1,28 @@
+{
+  "id": "VEN-0113",
+  "name": "いわみざわ公園 野外音楽堂キタオン",
+  "city": "岩見沢",
+  "countryRegion": "日本",
+  "capacity": 14000,
+  "capacityNote": "岩見沢市公表（最大14,000人）",
+  "capacitySourceUrl": "https://www.city.iwamizawa.hokkaido.jp/",
+  "verificationStatus": "2026-09-27公式照合で確認",
+  "sourceRow": null,
+  "i18n": {
+    "ja": {
+      "name": "いわみざわ公園 野外音楽堂キタオン",
+      "city": "岩見沢",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "いわみざわ公園 野外音楽堂キタオン",
+      "city": "岩見沢",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "いわみざわ公園 野外音楽堂キタオン",
+      "city": "岩見沢",
+      "countryRegion": "日本"
+    }
+  }
+}

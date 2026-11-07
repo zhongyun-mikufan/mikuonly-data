@@ -1,0 +1,28 @@
+{
+  "id": "VEN-0108",
+  "name": "Mercedes-Benz Arena Shanghai",
+  "city": "Shanghai",
+  "countryRegion": "China",
+  "capacity": 18000,
+  "capacityNote": "公式サイト表記（最大収容18,000人）",
+  "capacitySourceUrl": "https://www.mercedes-benzarena.com/about.html",
+  "verificationStatus": "2026-09-27公式照合で確認",
+  "sourceRow": null,
+  "i18n": {
+    "ja": {
+      "name": "Mercedes-Benz Arena Shanghai",
+      "city": "Shanghai",
+      "countryRegion": "China"
+    },
+    "zh": {
+      "name": "梅赛德斯-奔驰文化中心",
+      "city": "上海",
+      "countryRegion": "中国"
+    },
+    "en": {
+      "name": "Mercedes-Benz Arena Shanghai",
+      "city": "Shanghai",
+      "countryRegion": "China"
+    }
+  }
+}
