@@ -1,0 +1,49 @@
+{
+  "id": "EVT-0234-D",
+  "seriesId": "SER-004",
+  "seriesName": "その他公式ライブ／出演",
+  "name": "SATELIGHT 30th Anniversary SATEFES！",
+  "startDate": "2026-02-11",
+  "endDate": "2026-02-11",
+  "year": 2026,
+  "performanceType": "昼公演",
+  "startTime": "14:00",
+  "city": "立川",
+  "countryRegion": "日本",
+  "venueName": "TACHIKAWA STAGE GARDEN（立川ステージガーデン）",
+  "venueId": "VEN-0110",
+  "capacitySnapshot": null,
+  "setlistVariant": "昼公演",
+  "status": "開催済",
+  "granularity": "公演単位",
+  "roleType": "ゲスト",
+  "organizer": "株式会社サテライト",
+  "videoRelease": "円盤未収録",
+  "verificationStatus": "フォルダ内集計資料を初音ミクWiki索引と照合",
+  "sourceUrl": "https://30th.satelight.co.jp/",
+  "notes": "2026-09-27検証分割：主催者公式レポート（satelight.co.jp/blog/30th-anniversary-satefes-公式レポート-vol-1/）が昼の部9曲目「創聖のアクエリオン / AKINO from bless4×初音ミク」（昼夜同一共演曲・公式明記）を確認→各公演 exact。旧集計レコード EVT-0234 を分割。",
+  "recordedTrackCount": 1,
+  "importCategory": "2026-09-27検証補完",
+  "sourceRow": 288,
+  "actualTrackCount": 1,
+  "mikuTrackCount": 1,
+  "mikuRatio": 1,
+  "mikuSoloTrackCount": 0,
+  "mikuCollaborationTrackCount": 1,
+  "otherTrackCount": 0,
+  "unknownTrackCount": 0,
+  "mikuSoloRatio": 0,
+  "recordUnit": "performance",
+  "setlistScope": "presence_only",
+  "i18n": {
+    "ja": {
+      "name": "SATELIGHT 30th Anniversary SATEFES！"
+    },
+    "zh": {
+      "name": "SATELIGHT 30th Anniversary SATEFES！"
+    },
+    "en": {
+      "name": "SATELIGHT 30th Anniversary SATEFES！"
+    }
+  }
+}

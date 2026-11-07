@@ -1,0 +1,28 @@
+{
+  "id": "VEN-0114",
+  "name": "Coachella会場 Mojave Stage",
+  "city": "Indio",
+  "countryRegion": "United States",
+  "capacity": null,
+  "capacityNote": "要確認",
+  "capacitySourceUrl": null,
+  "verificationStatus": "2026-09-27公式照合で確認",
+  "sourceRow": null,
+  "i18n": {
+    "ja": {
+      "name": "Coachella会場 Mojave Stage",
+      "city": "Indio",
+      "countryRegion": "United States"
+    },
+    "zh": {
+      "name": "Coachella会场 Mojave Stage",
+      "city": "Indio",
+      "countryRegion": "美国"
+    },
+    "en": {
+      "name": "Coachella会場 Mojave Stage",
+      "city": "Indio",
+      "countryRegion": "United States"
+    }
+  }
+}

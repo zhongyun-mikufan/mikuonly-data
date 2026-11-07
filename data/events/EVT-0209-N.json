@@ -1,0 +1,49 @@
+{
+  "id": "EVT-0209-N",
+  "seriesId": "SER-004",
+  "seriesName": "その他公式ライブ／出演",
+  "name": "MATSURI DA DIVA",
+  "startDate": "2014-03-09",
+  "endDate": "2014-03-09",
+  "year": 2014,
+  "performanceType": "夜公演",
+  "startTime": "18:00",
+  "city": "東京",
+  "countryRegion": "日本",
+  "venueName": "TOKYO DOME CITY HALL",
+  "venueId": "VEN-V12-TOKYO-DOME-CITY-HALL",
+  "capacitySnapshot": null,
+  "setlistVariant": "夜公演・第2部",
+  "status": "開催済",
+  "granularity": "公演単位",
+  "roleType": "メイン",
+  "organizer": "SEGA",
+  "videoRelease": "円盤未収録",
+  "verificationStatus": "SEGA公式で第2部7曲と掲載順を確認／昼夜差分未確認",
+  "sourceUrl": "https://www.famitsu.com/news/201403/09049540.html",
+  "notes": "2026-09-27検証分割：公式（info.miku.sega.jp/972）が昼14:00/夜18:00の2回公演と第2部7曲セットリストを確認。昼夜同曲単は公式未明記→shared。旧集計レコード EVT-0209 を分割。",
+  "recordedTrackCount": 7,
+  "importCategory": "2026-09-27検証補完",
+  "sourceRow": 18,
+  "actualTrackCount": 7,
+  "mikuTrackCount": 7,
+  "mikuRatio": 1,
+  "mikuSoloTrackCount": 7,
+  "mikuCollaborationTrackCount": 0,
+  "otherTrackCount": 0,
+  "unknownTrackCount": 0,
+  "mikuSoloRatio": 1,
+  "recordUnit": "performance",
+  "setlistScope": "shared",
+  "i18n": {
+    "ja": {
+      "name": "MATSURI DA DIVA"
+    },
+    "zh": {
+      "name": "MATSURI DA DIVA"
+    },
+    "en": {
+      "name": "MATSURI DA DIVA"
+    }
+  }
+}

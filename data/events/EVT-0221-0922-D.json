@@ -1,0 +1,49 @@
+{
+  "id": "EVT-0221-0922-D",
+  "seriesId": "SER-004",
+  "seriesName": "その他公式ライブ／出演",
+  "name": "DIVE XR FESTIVAL supported by SoftBank",
+  "startDate": "2019-09-22",
+  "endDate": "2019-09-22",
+  "year": 2019,
+  "performanceType": "昼公演",
+  "startTime": null,
+  "city": "千葉（東京公演）",
+  "countryRegion": "日本",
+  "venueName": "幕張メッセ",
+  "venueId": "VEN-0091",
+  "capacitySnapshot": null,
+  "setlistVariant": "昼公演",
+  "status": "開催済",
+  "granularity": "公演単位",
+  "roleType": "ゲスト",
+  "organizer": "DXF実行委員会",
+  "videoRelease": "円盤未収録",
+  "verificationStatus": "フォルダ内集計資料を初音ミクWiki索引と照合",
+  "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
+  "notes": "2026-09-27検証分割：公式（blog.piapro.net/2019/09/mon190927.html）の逐日セットリスト（9/22（トップバッター、昼夜2公演共通））により新建。旧集計レコード EVT-0221 を分割。",
+  "recordedTrackCount": 7,
+  "importCategory": "2026-09-27検証補完",
+  "sourceRow": 112,
+  "actualTrackCount": 7,
+  "mikuTrackCount": 7,
+  "mikuRatio": 1,
+  "mikuSoloTrackCount": 7,
+  "mikuCollaborationTrackCount": 0,
+  "otherTrackCount": 0,
+  "unknownTrackCount": 0,
+  "mikuSoloRatio": 1,
+  "recordUnit": "performance",
+  "setlistScope": "shared",
+  "i18n": {
+    "ja": {
+      "name": "DIVE XR FESTIVAL supported by SoftBank"
+    },
+    "zh": {
+      "name": "DIVE XR FESTIVAL supported by SoftBank"
+    },
+    "en": {
+      "name": "DIVE XR FESTIVAL supported by SoftBank"
+    }
+  }
+}
