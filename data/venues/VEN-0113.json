@@ -1,26 +1,26 @@
 {
   "id": "VEN-0113",
-  "name": "いわみざわ公園 野外音楽堂キタオン",
+  "name": "いわみざわ公園（野外音楽堂キタオン＆北海道グリーンランド遊園地）",
   "city": "岩見沢",
   "countryRegion": "日本",
-  "capacity": 14000,
-  "capacityNote": "岩見沢市公表（最大14,000人）",
-  "capacitySourceUrl": "https://www.city.iwamizawa.hokkaido.jp/",
+  "capacity": null,
+  "capacityNote": "連合会場全体の収容人数は未確認。14,000人は野外音楽堂キタオン施設の公表値（岩見沢市 https://www.city.iwamizawa.hokkaido.jp/soshiki/shogaigakushu_bunka_sportshinkoka/bunka_sport_shogaigakushu/4/3046.html ）であり、連合会場やVELVET CIRCUSステージの容量ではない。",
+  "capacitySourceUrl": null,
   "verificationStatus": "2026-09-27公式照合で確認",
   "sourceRow": null,
   "i18n": {
     "ja": {
-      "name": "いわみざわ公園 野外音楽堂キタオン",
+      "name": "いわみざわ公園（野外音楽堂キタオン＆北海道グリーンランド遊園地）",
       "city": "岩見沢",
       "countryRegion": "日本"
     },
     "zh": {
-      "name": "いわみざわ公園 野外音楽堂キタオン",
+      "name": "岩见泽公园（野外音乐堂KitAON＆北海道绿色乐园游园地）",
       "city": "岩見沢",
       "countryRegion": "日本"
     },
     "en": {
-      "name": "いわみざわ公園 野外音楽堂キタオン",
+      "name": "Iwamizawa Park (KitAON Outdoor Music Hall & Hokkaido Greenland Amusement Park)",
       "city": "岩見沢",
       "countryRegion": "日本"
     }
