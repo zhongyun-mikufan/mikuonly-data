@@ -75,6 +75,27 @@ export async function loadSourceCatalog() {
     song.soloLastDate = soloDates.at(-1) ?? null;
   }
 
+  const scopeNotes = new Map((meta.scope ?? []).map((row) => [row["シリーズ"], row["備考"] ?? ""]));
+  const computedScope = new Map();
+  for (const item of series) {
+    const owned = events.filter((event) => event.seriesId === item.id);
+    const rows = owned.reduce((total, event) => total + (rowsByEvent.get(event.id)?.length ?? 0), 0);
+    computedScope.set(item.name, {
+      "シリーズ": item.name,
+      "公演・ライブ数": owned.length,
+      "演奏曲レコード数": rows,
+      "公演単位": owned.filter((event) => event.recordUnit === "performance").length,
+      "ライブ単位": owned.filter((event) => event.recordUnit === "aggregate").length,
+      "備考": scopeNotes.get(item.name) ?? "",
+    });
+  }
+  const scope = (meta.scope ?? [])
+    .map((row) => computedScope.get(row["シリーズ"]))
+    .filter(Boolean);
+  for (const [name, row] of computedScope) {
+    if (!scope.some((entry) => entry["シリーズ"] === name)) scope.push(row);
+  }
+
   const counts = {
     events: events.length,
     eventSongs: eventSongs.length,
@@ -95,7 +116,7 @@ export async function loadSourceCatalog() {
       legacyEventMigrations: meta.legacyEventMigrations ?? [],
       legacySongMigrations: meta.legacySongMigrations ?? [],
       aliases: meta.aliases ?? [],
-      scope: meta.scope ?? [],
+      scope,
       dataNotes: meta.dataNotes ?? [],
     },
     sourceFiles: { seriesFiles, eventFiles, songFiles, venueFiles, setlistFiles },

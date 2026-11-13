@@ -3442,6 +3442,10 @@
     {
       "項目": "鼓童夜公演の日付修正と北京2018夜公演（2026-11-07）",
       "内容": "鼓童2018は公式（kodo.or.jp/performance/performance_kodo/9139）で6/2 13:00・6/2 19:00・6/3 13:00、2023は公式（kodo.or.jp/performance/performance_kodo/42586）とLiveFans（livefans.jp/events/1519910）で6/3 13:00・6/3 19:00・6/4 13:00と確認。夜公演の startDate/endDate を2018-06-02・2023-06-03へ修正したが、既存の安定ID（EVT-0217-20180603-N・EVT-0226-20230604-N）とファイル名は履歴保持のため変更せず、notesに経緯と出典を記載。あわせて2018北京10/13夜公演はアンコール3曲を実施せず（2018-10-14付の参加記録 https://nyan.im/p/miku-beijing-2018 、知乎298392545・298801162）、該当3曲を収録から外した。中断の具体的な原因・時刻は未確認のため記載していない。"
+    },
+    {
+      "項目": "scope のビルド時生成（2026-11-07）",
+      "内容": "meta.scope の数値は参考値とし、dist/catalog.json の scope はビルド時に events と eventSongs から再計算する（公演・ライブ数=イベント数、公演単位=recordUnit が performance の件数、ライブ単位=recordUnit が aggregate の件数、演奏曲レコード数=帰属するトラック数）。系列名の対応は data/series/*.json の name を用い、未収録の系列（例：LAWSON）も自動で追加する。"
     }
   ]
 }
