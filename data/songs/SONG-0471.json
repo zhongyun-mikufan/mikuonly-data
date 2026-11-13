@@ -7,6 +7,12 @@
   "i18n": {
     "ja": {
       "title": "Reload Words"
+    },
+    "zh": {
+      "title": "重载之语"
+    },
+    "en": {
+      "title": "Reload Words"
     }
   }
 }

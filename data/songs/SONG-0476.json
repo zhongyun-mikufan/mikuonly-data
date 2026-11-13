@@ -7,6 +7,12 @@
   "i18n": {
     "ja": {
       "title": "Karma"
+    },
+    "zh": {
+      "title": "因果"
+    },
+    "en": {
+      "title": "Karma"
     }
   }
 }

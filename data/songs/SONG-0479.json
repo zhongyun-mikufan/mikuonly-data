@@ -7,6 +7,12 @@
   "i18n": {
     "ja": {
       "title": "Project DIVA desu."
+    },
+    "zh": {
+      "title": "我是Project DIVA。"
+    },
+    "en": {
+      "title": "Project DIVA desu."
     }
   }
 }

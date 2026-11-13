@@ -7,6 +7,12 @@
   "i18n": {
     "ja": {
       "title": "Acceleration"
+    },
+    "zh": {
+      "title": "加速"
+    },
+    "en": {
+      "title": "Acceleration"
     }
   }
 }

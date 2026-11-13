@@ -7,6 +7,12 @@
   "i18n": {
     "ja": {
       "title": "Drag the ground"
+    },
+    "zh": {
+      "title": "拖曳大地"
+    },
+    "en": {
+      "title": "Drag the ground"
     }
   }
 }

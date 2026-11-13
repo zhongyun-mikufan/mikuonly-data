@@ -7,6 +7,12 @@
   "i18n": {
     "ja": {
       "title": "ナイフ、ナイフ、ナイフ"
+    },
+    "zh": {
+      "title": "刀、刀、刀"
+    },
+    "en": {
+      "title": "Knife, Knife, Knife"
     }
   }
 }
