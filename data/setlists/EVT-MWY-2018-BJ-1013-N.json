@@ -466,69 +466,6 @@
       "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67175.html",
       "notes": null,
       "sourceRow": 7484
-    },
-    {
-      "id": "EVT-MWY-2018-BJ-1013-N-07447",
-      "eventId": "EVT-MWY-2018-BJ-1013-N",
-      "songId": "SONG-0106",
-      "sequence": 23,
-      "sequenceStatus": "確認済み",
-      "importOrder": 7480,
-      "sourceNumber": "23",
-      "performedTitle": "Pick Me Up",
-      "englishTitle": "Pick Me Up",
-      "vocalsText": "初音ミク",
-      "producer": "敌门",
-      "sideDancersText": null,
-      "performerIds": [
-        "PER-01"
-      ],
-      "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67175.html",
-      "notes": null,
-      "sourceRow": 7485
-    },
-    {
-      "id": "EVT-MWY-2018-BJ-1013-N-07448",
-      "eventId": "EVT-MWY-2018-BJ-1013-N",
-      "songId": "SONG-0133",
-      "sequence": 24,
-      "sequenceStatus": "確認済み",
-      "importOrder": 7481,
-      "sourceNumber": "24",
-      "performedTitle": "Tell Your World",
-      "englishTitle": "Tell Your World",
-      "vocalsText": "初音ミク",
-      "producer": "livetune",
-      "sideDancersText": null,
-      "performerIds": [
-        "PER-01"
-      ],
-      "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67175.html",
-      "notes": null,
-      "sourceRow": 7486
-    },
-    {
-      "id": "EVT-MWY-2018-BJ-1013-N-07449",
-      "eventId": "EVT-MWY-2018-BJ-1013-N",
-      "songId": "SONG-0098",
-      "sequence": 25,
-      "sequenceStatus": "確認済み",
-      "importOrder": 7482,
-      "sourceNumber": "25",
-      "performedTitle": "ODDS&ENDS",
-      "englishTitle": "ODDS&ENDS",
-      "vocalsText": "初音ミク",
-      "producer": "ryo(supercell)",
-      "sideDancersText": null,
-      "performerIds": [
-        "PER-01"
-      ],
-      "performanceType": "miku_solo",
-      "sourceUrl": "https://w.atwiki.jp/hmiku/pages/67175.html",
-      "notes": null,
-      "sourceRow": 7487
     }
   ]
 }
