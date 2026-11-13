@@ -1,0 +1,28 @@
+{
+  "id": "VEN-0112",
+  "name": "国立競技場",
+  "city": "東京",
+  "countryRegion": "日本",
+  "capacity": 66727,
+  "capacityNote": "公式サイト表記（66,727席）",
+  "capacitySourceUrl": "https://www.jns-e.com/facility/",
+  "verificationStatus": "2026-09-27公式照合で確認",
+  "sourceRow": null,
+  "i18n": {
+    "ja": {
+      "name": "国立競技場",
+      "city": "東京",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "国立競技場",
+      "city": "東京",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "国立競技場",
+      "city": "東京",
+      "countryRegion": "日本"
+    }
+  }
+}
