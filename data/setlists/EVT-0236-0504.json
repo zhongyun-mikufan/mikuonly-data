@@ -1,4 +1,83 @@
 {
   "eventId": "EVT-0236-0504",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "EVT-0236-0504-94201",
+      "eventId": "EVT-0236-0504",
+      "songId": "SONG-0098",
+      "sequence": null,
+      "sequenceStatus": "確認済み",
+      "performedTitle": "ODDS&ENDS",
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://kiokoi.livedoor.blog/archives/15117493.html",
+      "notes": "ミクシンフォニー小編成段（全场第3曲位置、观众报告）；整体曲顺未官方公开，故不编号。"
+    },
+    {
+      "id": "EVT-0236-0504-94202",
+      "eventId": "EVT-0236-0504",
+      "songId": "SONG-0454",
+      "sequence": null,
+      "sequenceStatus": "確認済み",
+      "performedTitle": "Hand in Hand",
+      "vocalsText": "初音ミク",
+      "producer": "kz(livetune)",
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://kiokoi.livedoor.blog/archives/15117493.html",
+      "notes": "ミクシンフォニー小編成段（全场第4曲位置、观众报告）；整体曲顺未官方公开，故不编号。"
+    },
+    {
+      "id": "EVT-0236-0504-94203",
+      "eventId": "EVT-0236-0504",
+      "songId": "SONG-0484",
+      "sequence": null,
+      "sequenceStatus": "確認済み",
+      "performedTitle": "88☆彡",
+      "vocalsText": "初音ミク/KAITO",
+      "producer": "まらしぃ",
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://kiokoi.livedoor.blog/archives/15117493.html",
+      "notes": "まらしぃ×ミクシンフォニー段（全场第13曲位置、观众报告）；整体曲顺未官方公开，故不编号。"
+    },
+    {
+      "id": "EVT-0236-0504-94204",
+      "eventId": "EVT-0236-0504",
+      "songId": "SONG-0301",
+      "sequence": null,
+      "sequenceStatus": "確認済み",
+      "performedTitle": "むげんのチケット",
+      "vocalsText": "初音ミク/KAITO",
+      "producer": "まらしぃ",
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://kiokoi.livedoor.blog/archives/15117493.html",
+      "notes": "まらしぃ×ミクシンフォニー段（全场第14曲位置、观众报告）；整体曲顺未官方公开，故不编号。"
+    },
+    {
+      "id": "EVT-0236-0504-94205",
+      "eventId": "EVT-0236-0504",
+      "songId": "SONG-0485",
+      "sequence": null,
+      "sequenceStatus": "確認済み",
+      "performedTitle": "空想少女への恋手紙",
+      "vocalsText": "初音ミク/KAITO",
+      "producer": "まらしぃ",
+      "performanceType": "miku_collaboration",
+      "sourceUrl": "https://kiokoi.livedoor.blog/archives/15117493.html",
+      "notes": "まらしぃ×ミクシンフォニー段（全场第15曲位置、当日最终曲、观众报告）；整体曲顺未官方公开，故不编号。"
+    },
+    {
+      "id": "EVT-0236-0504-94206",
+      "eventId": "EVT-0236-0504",
+      "songId": "SONG-0380",
+      "sequence": null,
+      "sequenceStatus": "確認済み",
+      "performedTitle": "新人類",
+      "vocalsText": "鏡音リン",
+      "producer": "まらしぃ×じん",
+      "performanceType": "other",
+      "sourceUrl": "https://kiokoi.livedoor.blog/archives/15117493.html",
+      "notes": "まらしぃ独奏段、在场已确认但曲序未定（观众报告）；整体曲顺未官方公开，故不编号。"
+    }
+  ]
 }

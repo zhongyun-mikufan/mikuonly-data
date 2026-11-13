@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "catalogMeta": {
-    "updatedAt": "2026-11-07",
-    "version": "v29",
+    "updatedAt": "2026-11-14",
+    "version": "v30",
     "sourceFile": "mikuonly-data"
   },
   "performers": [
@@ -3446,6 +3446,10 @@
     {
       "項目": "scope のビルド時生成（2026-11-07）",
       "内容": "meta.scope の数値は参考値とし、dist/catalog.json の scope はビルド時に events と eventSongs から再計算する（公演・ライブ数=イベント数、公演単位=recordUnit が performance の件数、ライブ単位=recordUnit が aggregate の件数、演奏曲レコード数=帰属するトラック数）。系列名の対応は data/series/*.json の name を用い、未収録の系列（例：LAWSON）も自動で追加する。"
+    },
+    {
+      "項目": "開演時刻とProject Circles曲目の補完（2026-11-14）",
+      "内容": "未確認だった26公演の開演時刻を補完（MIKU EXPO 2026 Europe 9公演は公式ツアーページの20:00、Madrid 2公演はLive Nation ES・Ticketmaster.esの20:30、その他は各公式・主催・会場ページ）。あわせて会場名・都市・国が空欄または誤っていた9公演（EVT-0208/0210/0211/0215/0218/0220/0230/0233/0213）を出典付きで補正。Project Circles 2026 は公式サイトにセットリストがなく、4/30は公式Xの劇照で確認できた2曲、5/1昼は観客報告の最終曲、5/4は観客転記の初音ミク出演6曲を、曲順未公開のため sequence=null（presence_only）で収録。5/1夜は公開情報がないため未収録。新規楽曲 SONG-0482〜0485。出典は各track/eventのnotesに記録。"
     }
   ]
 }

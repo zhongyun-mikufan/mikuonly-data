@@ -1,4 +1,31 @@
 {
   "eventId": "EVT-0236-0430",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "EVT-0236-0430-94001",
+      "eventId": "EVT-0236-0430",
+      "songId": "SONG-0482",
+      "sequence": null,
+      "sequenceStatus": "確認済み",
+      "performedTitle": "ごめんね ごめんね",
+      "vocalsText": "初音ミク",
+      "producer": "きくお",
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocafro.hatenablog.com/entry/2026/05/04/130716",
+      "notes": "公式X（@pj_circles）の2026/4/30剧照确认；曲顺未公开，故不编号。"
+    },
+    {
+      "id": "EVT-0236-0430-94002",
+      "eventId": "EVT-0236-0430",
+      "songId": "SONG-0483",
+      "sequence": null,
+      "sequenceStatus": "確認済み",
+      "performedTitle": "病み垢ステロイド",
+      "vocalsText": "初音ミク",
+      "producer": "かいりきベア",
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocafro.hatenablog.com/entry/2026/05/04/130716",
+      "notes": "公式X（@pj_circles）的2026/4/30剧照确认；曲顺未公开，故不编号。"
+    }
+  ]
 }
