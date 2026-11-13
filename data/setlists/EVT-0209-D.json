@@ -1,9 +1,9 @@
 {
-  "eventId": "EVT-0209",
+  "eventId": "EVT-0209-D",
   "tracks": [
     {
-      "id": "EVT-0209-S001",
-      "eventId": "EVT-0209",
+      "id": "EVT-0209-D-91001",
+      "eventId": "EVT-0209-D",
       "songId": "SONG-0479",
       "sequence": 1,
       "sequenceStatus": "確認済み",
@@ -15,8 +15,8 @@
       "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。"
     },
     {
-      "id": "EVT-0209-06284",
-      "eventId": "EVT-0209",
+      "id": "EVT-0209-D-91002",
+      "eventId": "EVT-0209-D",
       "songId": "SONG-0181",
       "sequence": 2,
       "sequenceStatus": "確認済み",
@@ -36,8 +36,8 @@
       "sourceRow": 6308
     },
     {
-      "id": "EVT-0209-06285",
-      "eventId": "EVT-0209",
+      "id": "EVT-0209-D-91003",
+      "eventId": "EVT-0209-D",
       "songId": "SONG-0052",
       "sequence": 3,
       "sequenceStatus": "確認済み",
@@ -57,8 +57,8 @@
       "sourceRow": 6309
     },
     {
-      "id": "EVT-0209-06286",
-      "eventId": "EVT-0209",
+      "id": "EVT-0209-D-91004",
+      "eventId": "EVT-0209-D",
       "songId": "SONG-0133",
       "sequence": 4,
       "sequenceStatus": "確認済み",
@@ -78,8 +78,8 @@
       "sourceRow": 6310
     },
     {
-      "id": "EVT-0209-06287",
-      "eventId": "EVT-0209",
+      "id": "EVT-0209-D-91005",
+      "eventId": "EVT-0209-D",
       "songId": "SONG-0004",
       "sequence": 5,
       "sequenceStatus": "確認済み",
@@ -99,8 +99,8 @@
       "sourceRow": 6311
     },
     {
-      "id": "EVT-0209-06288",
-      "eventId": "EVT-0209",
+      "id": "EVT-0209-D-91006",
+      "eventId": "EVT-0209-D",
       "songId": "SONG-0072",
       "sequence": 6,
       "sequenceStatus": "確認済み",
@@ -120,8 +120,8 @@
       "sourceRow": 6312
     },
     {
-      "id": "EVT-0209-06289",
-      "eventId": "EVT-0209",
+      "id": "EVT-0209-D-91007",
+      "eventId": "EVT-0209-D",
       "songId": "SONG-0332",
       "sequence": 7,
       "sequenceStatus": "確認済み",

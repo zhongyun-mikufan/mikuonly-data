@@ -1,0 +1,144 @@
+{
+  "eventId": "EVT-0209-N",
+  "tracks": [
+    {
+      "id": "EVT-0209-N-91101",
+      "eventId": "EVT-0209-N",
+      "songId": "SONG-0479",
+      "sequence": 1,
+      "sequenceStatus": "確認済み",
+      "performedTitle": "Project DIVA desu.",
+      "vocalsText": "初音ミク",
+      "producer": "うたたP",
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。"
+    },
+    {
+      "id": "EVT-0209-N-91102",
+      "eventId": "EVT-0209-N",
+      "songId": "SONG-0181",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 6304,
+      "sourceNumber": null,
+      "performedTitle": "エンヴィキャットウォーク",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "トーマ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。",
+      "sourceRow": 6308
+    },
+    {
+      "id": "EVT-0209-N-91103",
+      "eventId": "EVT-0209-N",
+      "songId": "SONG-0052",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 6305,
+      "sourceNumber": null,
+      "performedTitle": "glow",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "keeno",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。",
+      "sourceRow": 6309
+    },
+    {
+      "id": "EVT-0209-N-91104",
+      "eventId": "EVT-0209-N",
+      "songId": "SONG-0133",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 6306,
+      "sourceNumber": null,
+      "performedTitle": "Tell Your World",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "livetune",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。",
+      "sourceRow": 6310
+    },
+    {
+      "id": "EVT-0209-N-91105",
+      "eventId": "EVT-0209-N",
+      "songId": "SONG-0004",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 6307,
+      "sourceNumber": null,
+      "performedTitle": "39",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "sasakure.UK×DECO*27",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。",
+      "sourceRow": 6311
+    },
+    {
+      "id": "EVT-0209-N-91106",
+      "eventId": "EVT-0209-N",
+      "songId": "SONG-0072",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 6308,
+      "sourceNumber": null,
+      "performedTitle": "Last Night, Good Night (Re:Dialed)",
+      "englishTitle": "Last Night, Good Night (Re:Dialed)",
+      "vocalsText": "初音ミク",
+      "producer": "kz (livetune)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。",
+      "sourceRow": 6312
+    },
+    {
+      "id": "EVT-0209-N-91107",
+      "eventId": "EVT-0209-N",
+      "songId": "SONG-0332",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 6309,
+      "sourceNumber": null,
+      "performedTitle": "ワールドイズマイン",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://info.miku.sega.jp/972",
+      "notes": "SEGA公式の第2部掲載順。昼夜それぞれの差分は未確認。",
+      "sourceRow": 6313
+    }
+  ]
+}

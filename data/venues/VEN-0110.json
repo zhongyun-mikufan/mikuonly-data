@@ -1,0 +1,28 @@
+{
+  "id": "VEN-0110",
+  "name": "TACHIKAWA STAGE GARDEN（立川ステージガーデン）",
+  "city": "立川",
+  "countryRegion": "日本",
+  "capacity": null,
+  "capacityNote": "要確認",
+  "capacitySourceUrl": null,
+  "verificationStatus": "2026-09-27公式照合で確認",
+  "sourceRow": null,
+  "i18n": {
+    "ja": {
+      "name": "TACHIKAWA STAGE GARDEN（立川ステージガーデン）",
+      "city": "立川",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "TACHIKAWA STAGE GARDEN（立川ステージガーデン）",
+      "city": "立川",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "TACHIKAWA STAGE GARDEN（立川ステージガーデン）",
+      "city": "立川",
+      "countryRegion": "日本"
+    }
+  }
+}

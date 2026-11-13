@@ -1,0 +1,28 @@
+{
+  "id": "VEN-0109",
+  "name": "横浜BUNTAI",
+  "city": "横浜",
+  "countryRegion": "日本",
+  "capacity": 5000,
+  "capacityNote": "公式サイト表記（約5,000席）",
+  "capacitySourceUrl": "https://www.yokohama-buntai.jp/facility/",
+  "verificationStatus": "2026-09-27公式照合で確認",
+  "sourceRow": null,
+  "i18n": {
+    "ja": {
+      "name": "横浜BUNTAI",
+      "city": "横浜",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "横浜BUNTAI",
+      "city": "横浜",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "横浜BUNTAI",
+      "city": "横浜",
+      "countryRegion": "日本"
+    }
+  }
+}

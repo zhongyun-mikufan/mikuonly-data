@@ -1,0 +1,28 @@
+{
+  "id": "VEN-0111",
+  "name": "KT Zepp Yokohama",
+  "city": "横浜",
+  "countryRegion": "日本",
+  "capacity": null,
+  "capacityNote": "要確認",
+  "capacitySourceUrl": null,
+  "verificationStatus": "2026-09-27公式照合で確認",
+  "sourceRow": null,
+  "i18n": {
+    "ja": {
+      "name": "KT Zepp Yokohama",
+      "city": "横浜",
+      "countryRegion": "日本"
+    },
+    "zh": {
+      "name": "KT Zepp Yokohama",
+      "city": "横浜",
+      "countryRegion": "日本"
+    },
+    "en": {
+      "name": "KT Zepp Yokohama",
+      "city": "横浜",
+      "countryRegion": "日本"
+    }
+  }
+}

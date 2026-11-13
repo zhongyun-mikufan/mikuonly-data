@@ -1,9 +1,9 @@
 {
-  "eventId": "EVT-0234",
+  "eventId": "EVT-0234-D",
   "tracks": [
     {
-      "id": "EVT-0234-07103",
-      "eventId": "EVT-0234",
+      "id": "EVT-0234-D-93001",
+      "eventId": "EVT-0234-D",
       "songId": "SONG-0394",
       "sequence": null,
       "sequenceStatus": "確認済み",
@@ -19,7 +19,7 @@
       ],
       "performanceType": "miku_collaboration",
       "sourceUrl": "https://w.atwiki.jp/hmiku/pages/61935.html",
-      "notes": "ライブ単位の演奏曲記録。曲順は未確認。",
+      "notes": "公式レポート：昼の部9曲目に共演曲として掲載。",
       "sourceRow": 7141
     }
   ]

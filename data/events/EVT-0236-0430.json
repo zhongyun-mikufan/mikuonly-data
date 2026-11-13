@@ -1,0 +1,49 @@
+{
+  "id": "EVT-0236-0430",
+  "seriesId": "SER-004",
+  "seriesName": "その他公式ライブ／出演",
+  "name": "Project Circles Live at KT Zepp Yokohama - Psychedelic Live Day",
+  "startDate": "2026-04-30",
+  "endDate": "2026-04-30",
+  "year": 2026,
+  "performanceType": "フェス出演",
+  "startTime": "18:45",
+  "city": "横浜",
+  "countryRegion": "日本",
+  "venueName": "KT Zepp Yokohama",
+  "venueId": "VEN-0111",
+  "capacitySnapshot": null,
+  "setlistVariant": "単一公演",
+  "status": "開催済",
+  "granularity": "公演単位",
+  "roleType": "複数形式",
+  "organizer": "Project Circles実行委員会",
+  "videoRelease": "円盤未収録",
+  "verificationStatus": "フォルダ内集計資料を初音ミクWiki索引と照合",
+  "sourceUrl": "https://pjcircles.com/kt-zepp-yokohama.html",
+  "notes": "2026-09-27検証分割：公式（pjcircles.com/kt-zepp-yokohama.html）の開演時刻・出番構成により新建。4/30 Psychedelic：Guest Actor.初音ミク（椎乃味醂枠・かいりきベア枠）＋初音ミク単独枠（公式プログラム）。 Mikuの逐場setlistは公式非公表→scope=none（推測禁止）。旧集計レコード EVT-0236 を分割。",
+  "recordedTrackCount": 0,
+  "importCategory": "2026-09-27検証補完",
+  "sourceRow": 310,
+  "actualTrackCount": 0,
+  "mikuTrackCount": 0,
+  "mikuRatio": null,
+  "mikuSoloTrackCount": 0,
+  "mikuCollaborationTrackCount": 0,
+  "otherTrackCount": 0,
+  "unknownTrackCount": 0,
+  "mikuSoloRatio": null,
+  "recordUnit": "performance",
+  "setlistScope": "none",
+  "i18n": {
+    "ja": {
+      "name": "Project Circles Live at KT Zepp Yokohama - Psychedelic Live Day"
+    },
+    "zh": {
+      "name": "Project Circles Live at KT Zepp Yokohama - Psychedelic Live Day"
+    },
+    "en": {
+      "name": "Project Circles Live at KT Zepp Yokohama - Psychedelic Live Day"
+    }
+  }
+}

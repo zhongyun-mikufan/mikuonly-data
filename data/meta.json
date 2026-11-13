@@ -320,6 +320,41 @@
         "EVT-0032-D",
         "EVT-0032-N"
       ]
+    },
+    {
+      "legacyEventId": "EVT-0209",
+      "label": "MATSURI DA DIVA（旧・昼夜集計）",
+      "candidateEventIds": [
+        "EVT-0209-D",
+        "EVT-0209-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0221",
+      "label": "DIVE XR FESTIVAL（旧・2日間集計）",
+      "candidateEventIds": [
+        "EVT-0221-0922-D",
+        "EVT-0221-0922-N",
+        "EVT-0221-0923-D"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0234",
+      "label": "SATELIGHT 30th Anniversary SATEFES！（旧・昼夜集計）",
+      "candidateEventIds": [
+        "EVT-0234-D",
+        "EVT-0234-N"
+      ]
+    },
+    {
+      "legacyEventId": "EVT-0236",
+      "label": "Project Circles Live（旧・5公演集計）",
+      "candidateEventIds": [
+        "EVT-0236-0430",
+        "EVT-0236-0501-A1",
+        "EVT-0236-0501-A2",
+        "EVT-0236-0504"
+      ]
     }
   ],
   "legacySongMigrations": [
@@ -3399,6 +3434,14 @@
     {
       "項目": "マジカルミライ 公式サイト照合（2026-09-19）",
       "内容": "SER-005 マジカルミライ全137公演を公式サイト（magicalmirai.com の各年度子站ライブチケットページ）と照合し、開演時刻78件を公式の START 表記へ修正（未検証の既定値 12:00／18:00 を是正）。2013年は時刻が公式サイト内の画像（images/img_maji.png）にのみ記載されていたため、画像を出典とした。会場名を公式のライブ会場表記（例：幕張メッセ 国際展示場 9ホール、インテックス大阪 5号館A）へ更新（全角空白は半角へ正規化）。幕張メッセ公演の都市表記を「千葉（東京公演）」へ統一。organizer を公式の主催表記「TOKYO MX / Crypton Future Media, INC.」へ統一（2013・2015・2016・2017・2020 はロゴ alt に、2018・2019 は英文「Organized by TOKYO MX / Crypton Future Media, INC.」に基づく）。映像商品に収録された公演とライブ配信された公演を公式記載に基づき videoRelease へ記録（2013夜・2019/9/1夜・2020/12/20 3部・2021/11/7夜・2022/9/4夜・2023/9/3夜・2024/9/1夜・2025/8/31夜・2026/8/30夜が円盤収録、2016/9/11夜・2020/11/29 3部・2021/11/7夜・2022/9/4夜・2023/2/5夜・2023/9/3夜・2024/10/14夜・2025/8/31夜・2026/8/30夜がライブ配信）。公式に収録場次の記載がない年（2014・2015・2016・2017・2018）は特定できないため videoRelease を空欄のまま維持。出典URLは各公演の notes に記録し、sourceUrl は歌唱曲の出典として変更していない。推測値は一切入れていない。"
+    },
+    {
+      "項目": "集計公演の逐場分割（2026-11-07）",
+      "内容": "MATSURI DA DIVA 2014（EVT-0209→D/N、公式 info.miku.sega.jp/972 が昼夜2公演と第2部7曲を確認、逐場差は未公表のためshared）、DIVE XR FESTIVAL 2019（EVT-0221→3公演、公式 blog.piapro.net/2019/09/mon190927.html の逐日セットリスト、9/22昼夜12:00/18:00・9/23 12:00の1公演）、SATEFES 2026（EVT-0234→D/N、公式レポートの第9/10曲のみ収録のためpresence_only）、Project Circles 2026（EVT-0236→4公演、公式 pjcircles.com の日程のみ）を逐場レコードへ分割し、旧集計IDをlegacyEventMigrationsへ退避。Coachella 2024（EVT-0229）は公式が逐日歌単を公表していないため集計レコード（recordUnit=aggregate、10曲プール）を維持し、分割しない。推測による曲順・帰属は追加していない。"
+    },
+    {
+      "項目": "鼓童夜公演の日付修正と北京2018夜公演（2026-11-07）",
+      "内容": "鼓童2018は公式（kodo.or.jp/performance/performance_kodo/9139）で6/2 13:00・6/2 19:00・6/3 13:00、2023は公式（kodo.or.jp/performance/performance_kodo/42586）とLiveFans（livefans.jp/events/1519910）で6/3 13:00・6/3 19:00・6/4 13:00と確認。夜公演の startDate/endDate を2018-06-02・2023-06-03へ修正したが、既存の安定ID（EVT-0217-20180603-N・EVT-0226-20230604-N）とファイル名は履歴保持のため変更せず、notesに経緯と出典を記載。あわせて2018北京10/13夜公演はアンコール3曲を実施せず（2018-10-14付の参加記録 https://nyan.im/p/miku-beijing-2018 、知乎298392545・298801162）、該当3曲を収録から外した。中断の具体的な原因・時刻は未確認のため記載していない。"
     },
     {
       "項目": "scope のビルド時生成（2026-11-07）",
