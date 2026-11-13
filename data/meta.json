@@ -335,8 +335,7 @@
       "candidateEventIds": [
         "EVT-0221-0922-D",
         "EVT-0221-0922-N",
-        "EVT-0221-0923-D",
-        "EVT-0221-0923-N"
+        "EVT-0221-0923-D"
       ]
     },
     {
@@ -3438,7 +3437,7 @@
     },
     {
       "項目": "集計公演の逐場分割（2026-11-07）",
-      "内容": "MATSURI DA DIVA 2014（EVT-0209→D/N、公式 info.miku.sega.jp/972 が昼夜2公演と第2部7曲を確認、逐場差は未公表のためshared）、DIVE XR FESTIVAL 2019（EVT-0221→4公演、公式 blog.piapro.net/2019/09/mon190927.html の逐日セットリスト）、SATEFES 2026（EVT-0234→D/N、公式レポートの第9/10曲のみ収録のためpresence_only）、Project Circles 2026（EVT-0236→4公演、公式 pjcircles.com の日程のみ）を逐場レコードへ分割し、旧集計IDをlegacyEventMigrationsへ退避。Coachella 2024（EVT-0229）は公式が逐日歌単を公表していないため集計レコード（recordUnit=aggregate、10曲プール）を維持し、分割しない。推測による曲順・帰属は追加していない。"
+      "内容": "MATSURI DA DIVA 2014（EVT-0209→D/N、公式 info.miku.sega.jp/972 が昼夜2公演と第2部7曲を確認、逐場差は未公表のためshared）、DIVE XR FESTIVAL 2019（EVT-0221→3公演、公式 blog.piapro.net/2019/09/mon190927.html の逐日セットリスト、9/22昼夜12:00/18:00・9/23 12:00の1公演）、SATEFES 2026（EVT-0234→D/N、公式レポートの第9/10曲のみ収録のためpresence_only）、Project Circles 2026（EVT-0236→4公演、公式 pjcircles.com の日程のみ）を逐場レコードへ分割し、旧集計IDをlegacyEventMigrationsへ退避。Coachella 2024（EVT-0229）は公式が逐日歌単を公表していないため集計レコード（recordUnit=aggregate、10曲プール）を維持し、分割しない。推測による曲順・帰属は追加していない。"
     }
   ]
 }
