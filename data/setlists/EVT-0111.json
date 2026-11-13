@@ -4,21 +4,530 @@
     {
       "id": "EVT-0111-02782",
       "eventId": "EVT-0111",
-      "songId": "SONG-0132",
+      "songId": "SONG-0279",
       "sequence": 1,
       "sequenceStatus": "確認済み",
-      "importOrder": 2778,
+      "importOrder": 1,
       "sourceNumber": "01",
-      "performedTitle": "TBA",
-      "englishTitle": "TBA",
-      "vocalsText": "TBA",
-      "producer": "TBA",
+      "performedTitle": "ブリキノダンス",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "日向電工",
       "sideDancersText": null,
-      "performerIds": [],
-      "performanceType": "unknown",
-      "sourceUrl": "https://vocaloid.fandom.com/wiki/HATSUNE_MIKU_EXPO_2026_EUROPE",
-      "notes": null,
-      "sourceRow": 2782
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-02",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0264",
+      "sequence": 2,
+      "sequenceStatus": "確認済み",
+      "importOrder": 2,
+      "sourceNumber": "02",
+      "performedTitle": "ヒアソビ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "かめりあ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-03",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0276",
+      "sequence": 3,
+      "sequenceStatus": "確認済み",
+      "importOrder": 3,
+      "sourceNumber": "03",
+      "performedTitle": "プシ",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "r-906",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-04",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0230",
+      "sequence": 4,
+      "sequenceStatus": "確認済み",
+      "importOrder": 4,
+      "sourceNumber": "04",
+      "performedTitle": "ダーリンダンス",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "かいりきベア",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-05",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0331",
+      "sequence": 5,
+      "sequenceStatus": "確認済み",
+      "importOrder": 5,
+      "sourceNumber": "05",
+      "performedTitle": "ワールズエンド・ダンスホール",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 巡音ルカ",
+      "producer": "wowaka",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-04"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-06",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0141",
+      "sequence": 6,
+      "sequenceStatus": "確認済み",
+      "importOrder": 6,
+      "sourceNumber": "06",
+      "performedTitle": "TYQOON",
+      "englishTitle": null,
+      "vocalsText": "MEIKO",
+      "producer": "Sohbana",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-05"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-07",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0021",
+      "sequence": 7,
+      "sequenceStatus": "確認済み",
+      "importOrder": 7,
+      "sourceNumber": "07",
+      "performedTitle": "Call!!",
+      "englishTitle": null,
+      "vocalsText": "KAITO",
+      "producer": "沫尾",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-06"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-08",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0210",
+      "sequence": 8,
+      "sequenceStatus": "確認済み",
+      "importOrder": 8,
+      "sourceNumber": "08",
+      "performedTitle": "サンドリヨン",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, KAITO",
+      "producer": "Dios/シグナルP",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-06"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-09",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0383",
+      "sequence": 9,
+      "sequenceStatus": "確認済み",
+      "importOrder": 9,
+      "sourceNumber": "09",
+      "performedTitle": "神っぽいな",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ピノキオピー",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-10",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0275",
+      "sequence": 10,
+      "sequenceStatus": "確認済み",
+      "importOrder": 10,
+      "sourceNumber": "10",
+      "performedTitle": "フェレス",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, MEIKO",
+      "producer": "栗山夕璃",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-05"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-11",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0114",
+      "sequence": 11,
+      "sequenceStatus": "確認済み",
+      "importOrder": 11,
+      "sourceNumber": "11",
+      "performedTitle": "Room for a Fantasy",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "nostraightanswer",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-12",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0435",
+      "sequence": 12,
+      "sequenceStatus": "確認済み",
+      "importOrder": 12,
+      "sourceNumber": "12",
+      "performedTitle": "恋は戦争",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "ryo(supercell)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-13",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0238",
+      "sequence": 13,
+      "sequenceStatus": "確認済み",
+      "importOrder": 13,
+      "sourceNumber": "13",
+      "performedTitle": "ツギハギスタッカート",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "とあ",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-14",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0124",
+      "sequence": 14,
+      "sequenceStatus": "確認済み",
+      "importOrder": 14,
+      "sourceNumber": "14",
+      "performedTitle": "Someday'z Coming",
+      "englishTitle": null,
+      "vocalsText": "巡音ルカ",
+      "producer": "書店太郎",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-04"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-15",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0476",
+      "sequence": 15,
+      "sequenceStatus": "確認済み",
+      "importOrder": 15,
+      "sourceNumber": "15",
+      "performedTitle": "Karma",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン",
+      "producer": "CircusP×Creep-P",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。 图片注明鏡音リン・EXPO 2023 VR 版。"
+    },
+    {
+      "id": "EVT-0111-LONDON-16",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0042",
+      "sequence": 16,
+      "sequenceStatus": "確認済み",
+      "importOrder": 16,
+      "sourceNumber": "16",
+      "performedTitle": "Fire◎Flower",
+      "englishTitle": "Fire◎Flower",
+      "vocalsText": "鏡音レン",
+      "producer": "halyosy",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-17",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0192",
+      "sequence": 17,
+      "sequenceStatus": "確認済み",
+      "importOrder": 17,
+      "sourceNumber": "17",
+      "performedTitle": "キミペディア",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン, 鏡音レン",
+      "producer": "Junky",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-18",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0334",
+      "sequence": 18,
+      "sequenceStatus": "確認済み",
+      "importOrder": 18,
+      "sourceNumber": "18",
+      "performedTitle": "愛Dee",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 巡音ルカ",
+      "producer": "Mitchie M",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-04"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-19",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0115",
+      "sequence": 19,
+      "sequenceStatus": "確認済み",
+      "importOrder": 19,
+      "sourceNumber": "19",
+      "performedTitle": "Satisfaction",
+      "englishTitle": "Satisfaction",
+      "vocalsText": "初音ミク",
+      "producer": "kz(livetune)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-20",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0432",
+      "sequence": 20,
+      "sequenceStatus": "確認済み",
+      "importOrder": 20,
+      "sourceNumber": "20",
+      "performedTitle": "劣等上等",
+      "englishTitle": null,
+      "vocalsText": "鏡音リン, 鏡音レン",
+      "producer": "Giga",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "other",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-21",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0116",
+      "sequence": 21,
+      "sequenceStatus": "確認済み",
+      "importOrder": 21,
+      "sourceNumber": "21",
+      "performedTitle": "shake it!",
+      "englishTitle": null,
+      "vocalsText": "初音ミク, 鏡音リン, 鏡音レン",
+      "producer": "emon(Tes.)",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01",
+        "PER-02",
+        "PER-03"
+      ],
+      "performanceType": "miku_collaboration",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-22",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0081",
+      "sequence": 22,
+      "sequenceStatus": "確認済み",
+      "importOrder": 22,
+      "sourceNumber": "22",
+      "performedTitle": "M@GICAL☆CURE! LOVE ♥ SHOT!",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "SAWTOWNE, Sena Kiryuin",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-23",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0029",
+      "sequence": 23,
+      "sequenceStatus": "確認済み",
+      "importOrder": 23,
+      "sourceNumber": "23",
+      "performedTitle": "CONNECT:COMMUNE",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "FLAVOR FOLEY",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-24",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0013",
+      "sequence": 24,
+      "sequenceStatus": "確認済み",
+      "importOrder": 24,
+      "sourceNumber": "24",
+      "performedTitle": "Artifact",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "buzzG",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-25",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0280",
+      "sequence": 25,
+      "sequenceStatus": "確認済み",
+      "importOrder": 25,
+      "sourceNumber": "25",
+      "performedTitle": "ブループラネット",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "DECO*27",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
+    },
+    {
+      "id": "EVT-0111-LONDON-26",
+      "eventId": "EVT-0111",
+      "songId": "SONG-0035",
+      "sequence": 26,
+      "sequenceStatus": "確認済み",
+      "importOrder": 26,
+      "sourceNumber": "26",
+      "performedTitle": "DECORATOR",
+      "englishTitle": null,
+      "vocalsText": "初音ミク",
+      "producer": "livetune",
+      "sideDancersText": null,
+      "performerIds": [
+        "PER-01"
+      ],
+      "performanceType": "miku_solo",
+      "sourceUrl": null,
+      "notes": "Source: 管理员提供的 MIKU EXPO 伦敦场歌单图片（2026-11-13，无公开 URL），按图片 01–26 曲序录入；歌唱者与作者沿用既有歌曲主数据。"
     }
   ]
 }
