@@ -60,11 +60,11 @@
       "sequence": null,
       "sequenceStatus": "確認済み",
       "performedTitle": "空想少女への恋手紙",
-      "vocalsText": "初音ミク/KAITO",
+      "vocalsText": "初音ミク",
       "producer": "まらしぃ",
-      "performanceType": "miku_collaboration",
+      "performanceType": "miku_solo",
       "sourceUrl": "https://kiokoi.livedoor.blog/archives/15117493.html",
-      "notes": "まらしぃ×ミクシンフォニー段（全场第15曲位置、当日最终曲、观众报告）；整体曲顺未官方公开，故不编号。"
+      "notes": "初音ミク歌唱、まらしぃ（ピアノ／小編成伴奏）。当日最終曲（観客報告・全体15曲目位置）。曲順は公式未公開のため番号を付けない。出典：https://www.youtube.com/watch?v=ARCDSgK5E-Q ／ https://note.com/maru3824/n/n1e60198411a0"
     },
     {
       "id": "EVT-0236-0504-94206",
@@ -73,11 +73,11 @@
       "sequence": null,
       "sequenceStatus": "確認済み",
       "performedTitle": "新人類",
-      "vocalsText": "鏡音リン",
+      "vocalsText": null,
       "producer": "まらしぃ×じん",
       "performanceType": "other",
       "sourceUrl": "https://kiokoi.livedoor.blog/archives/15117493.html",
-      "notes": "まらしぃ独奏段、在场已确认但曲序未定（观众报告）；整体曲顺未官方公开，故不编号。"
+      "notes": "原曲の歌唱は鏡音リン。本公演ではまらしぃによるピアノ独奏として演奏され、歌唱は含まない。曲順未定（観客報告）。出典：https://twitter.com/pj_circles/status/2051602806100967851 ／ https://kiokoi.livedoor.blog/archives/15117493.html"
     }
   ]
 }
