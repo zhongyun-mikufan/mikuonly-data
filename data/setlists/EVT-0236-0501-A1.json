@@ -1,4 +1,18 @@
 {
   "eventId": "EVT-0236-0501-A1",
-  "tracks": []
+  "tracks": [
+    {
+      "id": "EVT-0236-0501-A1-94101",
+      "eventId": "EVT-0236-0501-A1",
+      "songId": "SONG-0230",
+      "sequence": null,
+      "sequenceStatus": "確認済み",
+      "performedTitle": "ダーリンダンス",
+      "vocalsText": "初音ミク",
+      "producer": "かいりきベア",
+      "performanceType": "miku_solo",
+      "sourceUrl": "https://vocafro.hatenablog.com/entry/2026/05/04/155522",
+      "notes": "观众报告为当日最终曲；整体曲顺未公开，故不编号。"
+    }
+  ]
 }
